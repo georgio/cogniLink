@@ -1,0 +1,10 @@
+\begin {longtable}{|p{18em}|p{8em}|p{16em}|}
+ \caption {Critical risks for implementation} \label {table:risks} \\
+\hline
+{\textbf {Description of Risk}} & {\textbf {WPs involved}} & {\textbf {Proposed risk-mitigation measures}} \endfirsthead
+ \hline \multicolumn {3}{|r|}{Continued on next page} \\ \hline \endfoot
+\hline \endlastfoot
+\hline
+The dedicated chip sent to fabrication is not functional.& \csname @rk1WP\endcsname & \csname @rk1Solution\endcsname \\
+\hline
+\end {longtable}

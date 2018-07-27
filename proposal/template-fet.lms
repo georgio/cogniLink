@@ -1,0 +1,12 @@
+\begin {longtable}{|p{5em}|p{16em}|p{4.5em}|p{5em}|p{9em}|}
+ \caption {List of milestones} \\
+\hline
+{\textbf {Milestone number}} & {\textbf {Milestone name}} & {\textbf {Related WPs}} & {\textbf {Estimated date}} & {\textbf {Means of verification}} \endfirsthead
+ \hline \multicolumn {5}{|r|}{Continued on next page} \\ \hline \endfoot
+\hline \endlastfoot
+\hline
+\textbf {M1} & Completed simulator development& \csname @ms1WPList\endcsname & 24& Software released and validated\\
+\hline
+\textbf {M2} & Final demonstration& \csname @ms2WPList\endcsname & 36& Application of results\\
+\hline
+\end {longtable}
