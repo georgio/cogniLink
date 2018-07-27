@@ -1,0 +1,12 @@
+\ganttgroup {WP1}{1}{36} \\
+\ganttbar {T1.1}{1}{12} \\
+\ganttbar {T1.2}{6}{9} \\
+\ganttbar {T1.3}{9}{12} \\
+\ganttgroup {WP2}{1}{36} \\
+\ganttbar {T2.1}{1}{12} \\
+\ganttbar {T2.2}{6}{9} \\
+\ganttbar {T2.3}{9}{12} \\
+\ganttgroup {WP3}{1}{36} \\
+\ganttbar {T3.1}{1}{12} \\
+\ganttbar {T3.2}{6}{9} \\
+\ganttbar {T3.3}{9}{12} \\
