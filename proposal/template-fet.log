@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  1 AUG 2018 17:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  1 AUG 2018 17:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1692,7 +1692,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{@wptask.1}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.48     }
+l.46     }
           
 \c@@tk7WP=\count410
 \c@@tk7T=\count411
@@ -1700,7 +1700,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{@wptask.2}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.52     }
+l.50     }
           
 \c@@tk8WP=\count412
 \c@@tk8T=\count413
@@ -1708,7 +1708,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{@wptask.3}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.55     }
+l.53     }
           
 \c@@tk9WP=\count414
 \c@@tk9T=\count415
@@ -1716,7 +1716,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{@wpdeliv.1})
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.80       specifications.}
+l.78       specifications.}
                            \label{dev:wp3specs}
 \c@@deliv7date=\count416
 \c@@deliv7WP=\count417
@@ -1726,7 +1726,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{@wpdeliv.2})
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.83       implementation.}
+l.81       implementation.}
                            \label{dev:wp3implementation}
 \c@@deliv8date=\count420
 \c@@deliv8WP=\count421
@@ -1736,7 +1736,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{@wpdeliv.3})
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.86       implementation.}
+l.84       implementation.}
                            \label{dev:wp3prototype}
 \c@@deliv9date=\count424
 \c@@deliv9WP=\count425
@@ -2791,7 +2791,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 188.
 Here is how much of TeX's memory you used:
  31436 strings out of 492995
  580640 string characters out of 6132704
- 702328 words of memory out of 5000000
+ 702327 words of memory out of 5000000
  34378 multiletter control sequences out of 15000+600000
  46879 words of font info for 136 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -2801,7 +2801,7 @@ exlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/te
 xlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/tex
 live/2017/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/20
 17/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on template-fet.pdf (10 pages, 79748 bytes).
+Output written on template-fet.pdf (10 pages, 79678 bytes).
 PDF statistics:
  195 PDF objects out of 1000 (max. 8388607)
  177 compressed objects within 2 object streams

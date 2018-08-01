@@ -5,8 +5,8 @@
  \hline \multicolumn {5}{|r|}{Continued on next page} \\ \hline \endfoot
 \hline \endlastfoot
 \hline
-\textbf {M1} & Completed simulator development& \csname @ms1WPList\endcsname & 24& Software released and validated\\
+\textbf {W1} & Completed simulator development& \csname @ms1WPList\endcsname & 24& Software released and validated\\
 \hline
-\textbf {M2} & Final demonstration& \csname @ms2WPList\endcsname & 36& Application of results\\
+\textbf {W2} & Final demonstration& \csname @ms2WPList\endcsname & 36& Application of results\\
 \hline
 \end {longtable}

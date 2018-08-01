@@ -347,7 +347,7 @@
   \expandafter\xdef\csname
   @wp\arabic{@wpcount}Task\arabic{@wptask}Title\endcsname{#5}
 %  \begin{shaded} \paragraph{Task \the@wptask} \textbf{#5 (W#3-W#4)}\end{shaded}
-  \paragraph{Task \the@wptask:  #5 (M#3-M#4) } 
+  \paragraph{Task \the@wptask:  #5 (W#3-W#4) } 
   \hfill \\
   {#6}
   \vspace{-8pt}
@@ -900,7 +900,7 @@
       \whiledo{\value{@row}<\value{@milestone}}{%
         \stepcounter{@row}
         \immediate\write\mslistfile{%
-          \noexpand\textbf{M\arabic{@row}} & 
+          \noexpand\textbf{W\arabic{@row}} & 
           \csname @ms\arabic{@row}Title\endcsname &
           \noexpand\csname @ms\arabic{@row}WPList\endcsname &
           \csname @ms\arabic{@row}Date\endcsname &
