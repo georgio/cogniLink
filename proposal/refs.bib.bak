@@ -1,0 +1,15 @@
+% Encoding: UTF-8
+%% This BibTeX bibliography file was created using BibDesk.
+%% http://bibdesk.sourceforge.net/
+
+%% Created for Georgio Nicolas at 2018-07-28 02:59:28 -0400 
+
+
+%% Saved with string encoding Western (ASCII)
+
+@Misc{wiki:compa11y,
+  title = {Computer accessibility - Wikipedia},
+  url   = {https://en.wikipedia.org/wiki/Computer_accessibility},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
