@@ -7,18 +7,18 @@
 
   %%%%%%%%%%%%%%%%%% TOP TABLE %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
   % Data for the top table
-  \wpstart{1} %Starting Month
-  \wpend{36} %End Month
+  \wpstart{1} %Starting Week
+  \wpend{36} %End Week
   \wptype{Activity type} %RTD, DEM, MGT, or OTHER
 
-  % Person Months per participant (required, max 7, * for leader)  
-  % syntax: \personmonths{Participant number}{value}    (not wp leader)
-  %     or  \personmonths{Participant short name}{value} (not wp leader)
-  %         \personmonths*{Participant number}{value}    (wp leader)
+  % Person Weeks per participant (required, max 7, * for leader)  
+  % syntax: \personweeks{Participant number}{value}    (not wp leader)
+  %     or  \personweeks{Participant short name}{value} (not wp leader)
+  %         \personweeks*{Participant number}{value}    (wp leader)
   % for example:
-  \personmonths{UoP2}{8}
-  \personmonths*{UoP3}{12}
-  \personmonths{UoC}{3}
+  \personweeks{UoP2}{8}
+  \personweeks*{UoP3}{12}
+  \personweeks{UoC}{3}
   % etc.
 
   \makewptable % Work package summary table

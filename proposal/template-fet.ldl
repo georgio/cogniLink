@@ -1,7 +1,7 @@
 \begin {longtable}{|p{3.5em}|p{19em}|p{2em}|p{4.5em}|p{1.5em}|p{3em}|p{3.5em}|}
  \caption {Deliverable list} \\
 \hline
-{\textbf {Delive\protect \discretionary {\char \hyphenchar \font }{}{}rable number}} & {\textbf {Deliverable name}} & {\textbf {WP no.}} & {\textbf {Lead participant name}} & {\textbf {Na\protect \discretionary {\char \hyphenchar \font }{}{}tu\protect \discretionary {\char \hyphenchar \font }{}{}re}} & {\textbf {Disse\protect \discretionary {\char \hyphenchar \font }{}{}mina\protect \discretionary {\char \hyphenchar \font }{}{}tion Level}} & {\textbf {Delivery date (proj. month)}} \endfirsthead
+{\textbf {Delive\protect \discretionary {\char \hyphenchar \font }{}{}rable number}} & {\textbf {Deliverable name}} & {\textbf {WP no.}} & {\textbf {Lead participant name}} & {\textbf {Na\protect \discretionary {\char \hyphenchar \font }{}{}tu\protect \discretionary {\char \hyphenchar \font }{}{}re}} & {\textbf {Disse\protect \discretionary {\char \hyphenchar \font }{}{}mina\protect \discretionary {\char \hyphenchar \font }{}{}tion Level}} & {\textbf {Delivery date (proj. week)}} \endfirsthead
  \hline \multicolumn {6}{|r|}{Continued on next page} \\ \hline \endfoot
 \hline \endlastfoot
 \hline

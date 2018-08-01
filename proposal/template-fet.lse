@@ -4,7 +4,7 @@
 & {\textbf {WP1}}
 & {\textbf {WP2}}
 & {\textbf {WP3}}
-& \multicolumn {4}{|l|}{ {\textbf {Total person months}} }\\
+& \multicolumn {4}{|l|}{ {\textbf {Total person weeks}} }\\
  \hline
 1 & UoC
 & \textbf {12}
@@ -14,9 +14,9 @@
 \hline
 2 & UoP2
 & 3
-& \textbf {12}
+& \textbf {1ge}
 & 8
-& \multicolumn {4}{|l|}{ 23 }\\
+& \multicolumn {4}{|l|}{ 12 }\\
 \hline
 3 & UoP3
 & 2
@@ -27,9 +27,9 @@
 \textbf {Total} &
 \cellcolor [gray]{0.8}
 & 17
-& 21
+& 10
 & 23
-& \multicolumn {4}{|l|}{ 61} \\
+& \multicolumn {4}{|l|}{ 50} \\
 \hline
 \end {tabularx}
  \end {table}

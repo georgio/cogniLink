@@ -1,13 +1,13 @@
 \begin {longtable}{|p{4em}|p{13em}|p{4em}|p{6em}|p{4em}|p{3em}|p{3em}|}
  \caption {List of work packages} \\
 \hline
-{\textbf {Work package number}} & {\textbf {Work package title}} & {\textbf {Lead participant no.}} & {\textbf {Lead participant name}} & {\textbf {Person-months}} & {\textbf {Start month}} & {\textbf {End month}} \endfirsthead
+{\textbf {Work package number}} & {\textbf {Work package title}} & {\textbf {Lead participant no.}} & {\textbf {Lead participant name}} & {\textbf {Person-weeks}} & {\textbf {Start week}} & {\textbf {End week}} \endfirsthead
  \hline \multicolumn {7}{|r|}{Continued on next page} \\ \hline \endfoot
-\cellcolor [gray]{0.8} & \multicolumn {2}{|c|}{\textbf {TOTAL}} & \cellcolor [gray]{0.8} & {61} & \cellcolor [gray]{0.8} & \cellcolor [gray]{0.8} \\ \hline \endlastfoot
+\cellcolor [gray]{0.8} & \multicolumn {2}{|c|}{\textbf {TOTAL}} & \cellcolor [gray]{0.8} & {50} & \cellcolor [gray]{0.8} & \cellcolor [gray]{0.8} \\ \hline \endlastfoot
 \hline
 \textbf {WP1} & Virtual HID, Data Collection, and ML Code& 1& UoC& 17 & 1& 36\\
 \hline
-\textbf {WP2} & Model 1 Command A& 2& UoP2& 21 & 2& 36\\
+\textbf {WP2} & Model 1 Command A& 2& UoP2& 10 & 2& 36\\
 \hline
 \textbf {WP3} & TEST WORK PACKAGE& 3& UoP3& 23 & 1& 36\\
 \hline
