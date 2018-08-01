@@ -4,6 +4,7 @@ The top-level auxiliary file: template-fet.aux
 A level-1 auxiliary file: wp-develop.aux
 A level-1 auxiliary file: wp-test.aux
 The style file: apacite.bst
+I found no \citation commands---while reading file template-fet.aux
 Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
 Reallocated global_strs (elt_size=20001) to 20 items from 10.
 Reallocated glb_str_end (elt_size=4) to 20 items from 10.
@@ -15,44 +16,45 @@ Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: refs.bib
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
-You've used 1 entry,
+You've used 0 entries,
             6951 wiz_defined-function locations,
-            1273 strings with 10779 characters,
-and the built_in function-call counts, 1206 in all, are:
-= -- 154
+            1270 strings with 10679 characters,
+and the built_in function-call counts, 43 in all, are:
+= -- 0
 > -- 0
-< -- 38
-+ -- 36
+< -- 0
++ -- 0
 - -- 0
-* -- 66
-:= -- 203
-add.period$ -- 3
-call.type$ -- 1
-change.case$ -- 3
+* -- 1
+:= -- 32
+add.period$ -- 0
+call.type$ -- 0
+change.case$ -- 0
 chr.to.int$ -- 0
-cite$ -- 2
-duplicate$ -- 21
-empty$ -- 82
+cite$ -- 0
+duplicate$ -- 0
+empty$ -- 1
 format.name$ -- 0
-if$ -- 263
+if$ -- 1
 int.to.chr$ -- 0
-int.to.str$ -- 3
+int.to.str$ -- 0
 missing$ -- 0
-newline$ -- 18
+newline$ -- 3
 num.names$ -- 0
-pop$ -- 70
+pop$ -- 0
 preamble$ -- 1
-purify$ -- 2
+purify$ -- 0
 quote$ -- 0
-skip$ -- 63
+skip$ -- 1
 stack$ -- 0
-substring$ -- 38
-swap$ -- 11
-text.length$ -- 1
+substring$ -- 0
+swap$ -- 0
+text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 104
+type$ -- 0
 warning$ -- 0
-while$ -- 1
+while$ -- 0
 width$ -- 0
-write$ -- 21
+write$ -- 2
+(There was 1 error message)

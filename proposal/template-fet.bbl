@@ -1,20 +1,3 @@
 \begin{thebibliography}{}
 
-\bibitem [\protect \citeauthoryear {%
-\APACcitebtitle {Computer accessibility - Wikipedia}}{%
-\APACcitebtitle {Computer accessibility - Wikipedia}}{%
-{\protect \APACyear {{\protect \bibnodate {}}}}%
-}]{%
-wiki:compa11y}
-\APACinsertmetastar {%
-wiki:compa11y}%
-\APACrefbtitle {Computer accessibility - Wikipedia.} {Computer accessibility -
-  wikipedia.}
-\newblock
-\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
-\newblock
-\begin{APACrefURL} \url{https://en.wikipedia.org/wiki/Computer\_accessibility}
-  \end{APACrefURL}
-\PrintBackRefs{\CurrentBib}
-
 \end{thebibliography}
