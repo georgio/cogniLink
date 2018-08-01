@@ -8,28 +8,28 @@
  \hline
 1 & UoC
 & \textbf {12}
-& 3
+& \textbf {3}
 & 0
 & \multicolumn {4}{|l|}{ 15 }\\
 \hline
 2 & UoP2
-& 3
-& \textbf {1}
 & 0
-& \multicolumn {4}{|l|}{ 4 }\\
+& 0
+& 0
+& \multicolumn {4}{|l|}{ 0 }\\
 \hline
 3 & UoP3
-& 2
-& 6
+& 0
+& 0
 & \textbf {12}
-& \multicolumn {4}{|l|}{ 20 }\\
+& \multicolumn {4}{|l|}{ 12 }\\
 \hline
 \textbf {Total} &
 \cellcolor [gray]{0.8}
-& 17
-& 10
 & 12
-& \multicolumn {4}{|l|}{ 39} \\
+& 3
+& 12
+& \multicolumn {4}{|l|}{ 27} \\
 \hline
 \end {tabularx}
  \end {table}

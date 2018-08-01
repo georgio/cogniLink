@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  1 AUG 2018 17:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  1 AUG 2018 17:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1567,7 +1567,7 @@ LaTeX Font Info:    Font shape `OT1/pplx/bx/n' in size <14.4> not available
 \c@@tk2T=\count373
 
 
-LaTeX Warning: Reference `task:wp1test' on page 2 undefined on input line 51.
+LaTeX Warning: Reference `task:wp1test' on page 2 undefined on input line 49.
 
 \c@@tk3WP=\count374
 \c@@tk3T=\count375
@@ -1607,20 +1607,20 @@ LaTeX Warning: Reference `task:wp1test' on page 2 undefined on input line 51.
  (./wp-m1cA.tex
 \c@@wp2totpm=\count388
 \c@@wp2tottk=\count389
-LaTeX Font Info:    Try loading font information for OMS+cmtt on input line 42.
+LaTeX Font Info:    Try loading font information for OMS+cmtt on input line 40.
 
-LaTeX Font Info:    No file OMScmtt.fd. on input line 42.
+LaTeX Font Info:    No file OMScmtt.fd. on input line 40.
 
 
 LaTeX Font Warning: Font shape `OMS/cmtt/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbackslash' on input line 42.
+(Font)              for symbol `textbackslash' on input line 40.
 
 pdfTeX warning (ext4): destination with the same identifier (name{@wptask.1}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.47     }
+l.45     }
           
 \c@@tk4WP=\count390
 \c@@tk4T=\count391
@@ -1628,19 +1628,19 @@ pdfTeX warning (ext4): destination with the same identifier (name{@wptask.2}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.51     }
+l.49     }
           
 \c@@tk5WP=\count392
 \c@@tk5T=\count393
 
 
-LaTeX Warning: Reference `task:wp2test' on page 4 undefined on input line 51.
+LaTeX Warning: Reference `task:wp2test' on page 4 undefined on input line 49.
 
 pdfTeX warning (ext4): destination with the same identifier (name{@wptask.3}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.54     }
+l.52     }
           
 \c@@tk6WP=\count394
 \c@@tk6T=\count395
@@ -1648,7 +1648,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{@wpdeliv.1})
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.75       specifications.}
+l.73       specifications.}
                            \label{dev:wp2specs}
 \c@@deliv4date=\count396
 \c@@deliv4WP=\count397
@@ -1658,7 +1658,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{@wpdeliv.2})
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.78       implementation.}
+l.76       implementation.}
                            \label{dev:wp2implementation}
 \c@@deliv5date=\count400
 \c@@deliv5WP=\count401
@@ -1668,7 +1668,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{@wpdeliv.3})
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.81       implementation.}
+l.79       implementation.}
                            \label{dev:wp2prototype}
 \c@@deliv6date=\count404
 \c@@deliv6WP=\count405
@@ -1682,17 +1682,17 @@ l.81       implementation.}
 ] (./template-fet.mw)
 \openout4 = `template-fet.mw'.
 
-\openout2 = `wp-test.aux'.
+\openout2 = `wp-m1cN.aux'.
 
 
-(./wp-test.tex
+(./wp-m1cN.tex
 \c@@wp3totpm=\count408
 \c@@wp3tottk=\count409
 pdfTeX warning (ext4): destination with the same identifier (name{@wptask.1}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.46     }
+l.47     }
           
 \c@@tk7WP=\count410
 \c@@tk7T=\count411
@@ -1700,7 +1700,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{@wptask.2}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.50     }
+l.51     }
           
 \c@@tk8WP=\count412
 \c@@tk8T=\count413
@@ -1708,7 +1708,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{@wptask.3}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.53     }
+l.54     }
           
 \c@@tk9WP=\count414
 \c@@tk9T=\count415
@@ -1716,7 +1716,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{@wpdeliv.1})
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.78       specifications.}
+l.79       specifications.}
                            \label{dev:wp3specs}
 \c@@deliv7date=\count416
 \c@@deliv7WP=\count417
@@ -1726,7 +1726,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{@wpdeliv.2})
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.81       implementation.}
+l.82       implementation.}
                            \label{dev:wp3implementation}
 \c@@deliv8date=\count420
 \c@@deliv8WP=\count421
@@ -1736,7 +1736,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{@wpdeliv.3})
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.84       implementation.}
+l.85       implementation.}
                            \label{dev:wp3prototype}
 \c@@deliv9date=\count424
 \c@@deliv9WP=\count425
@@ -2765,7 +2765,7 @@ l.178 \clearpage
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 188.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 188.
 
-(./template-fet.aux (./wp-m1cA.aux) (./wp-test.aux))
+(./template-fet.aux (./wp-m1cA.aux) (./wp-m1cN.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 188.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 188.
 \openout4 = `template-fet.out'.
@@ -2789,10 +2789,10 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 188.
  ) 
 Here is how much of TeX's memory you used:
- 31436 strings out of 492995
- 580640 string characters out of 6132704
- 702327 words of memory out of 5000000
- 34378 multiletter control sequences out of 15000+600000
+ 31438 strings out of 492995
+ 580656 string characters out of 6132704
+ 702325 words of memory out of 5000000
+ 34379 multiletter control sequences out of 15000+600000
  46879 words of font info for 136 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,11n,65p,10370b,428s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2801,7 +2801,7 @@ exlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/te
 xlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/tex
 live/2017/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/20
 17/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on template-fet.pdf (10 pages, 79657 bytes).
+Output written on template-fet.pdf (10 pages, 79035 bytes).
 PDF statistics:
  195 PDF objects out of 1000 (max. 8388607)
  177 compressed objects within 2 object streams
