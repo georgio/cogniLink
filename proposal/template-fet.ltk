@@ -23,4 +23,28 @@
 \hline
 \textbf {T3.3} & \@wp3Task3PI & 9& 12& Apply\\
 \hline
+\textbf {T4.1} & \@wp4Task1PI & 1& 12& Task1\\
+\hline
+\textbf {T4.2} & \@wp4Task2PI & 6& 9& Task2\\
+\hline
+\textbf {T4.3} & \@wp4Task3PI & 9& 12& Task3\\
+\hline
+\textbf {T5.1} & \@wp5Task1PI & 1& 12& Task1\\
+\hline
+\textbf {T5.2} & \@wp5Task2PI & 6& 9& Task2\\
+\hline
+\textbf {T5.3} & \@wp5Task3PI & 9& 12& Task3\\
+\hline
+\textbf {T6.1} & \@wp6Task1PI & 1& 12& Task1\\
+\hline
+\textbf {T6.2} & \@wp6Task2PI & 6& 9& Task2\\
+\hline
+\textbf {T6.3} & \@wp6Task3PI & 9& 12& Task3\\
+\hline
+\textbf {T7.1} & \@wp7Task1PI & 1& 12& Task1\\
+\hline
+\textbf {T7.2} & \@wp7Task2PI & 6& 9& Task2\\
+\hline
+\textbf {T7.3} & \@wp7Task3PI & 9& 12& Task3\\
+\hline
 \end {longtable}

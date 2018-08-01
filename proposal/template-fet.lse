@@ -4,32 +4,52 @@
 & {\textbf {WP1}}
 & {\textbf {WP2}}
 & {\textbf {WP3}}
-& \multicolumn {4}{|l|}{ {\textbf {Total person weeks}} }\\
+& {\textbf {WP4}}
+& {\textbf {WP5}}
+& {\textbf {WP6}}
+& {\textbf {WP7}}
+& {\textbf {Total person weeks}} \\
  \hline
 1 & UoC
 & \textbf {12}
 & \textbf {3}
 & 0
-& \multicolumn {4}{|l|}{ 15 }\\
+& \textbf {12}
+& \textbf {12}
+& \textbf {12}
+& \textbf {12}
+& 63 \\
 \hline
 2 & UoP2
 & 0
 & 0
 & 0
-& \multicolumn {4}{|l|}{ 0 }\\
+& 0
+& 0
+& 0
+& 0
+& 0 \\
 \hline
 3 & UoP3
 & 0
 & 0
 & \textbf {12}
-& \multicolumn {4}{|l|}{ 12 }\\
+& 0
+& 0
+& 0
+& 0
+& 12 \\
 \hline
 \textbf {Total} &
 \cellcolor [gray]{0.8}
 & 12
 & 3
 & 12
-& \multicolumn {4}{|l|}{ 27} \\
+& 12
+& 12
+& 12
+& 12
+& 75 \\
 \hline
 \end {tabularx}
  \end {table}
