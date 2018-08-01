@@ -2,7 +2,7 @@
 \ganttbar {T1.1}{1}{12} \\
 \ganttbar {T1.2}{6}{9} \\
 \ganttbar {T1.3}{9}{12} \\
-\ganttgroup {WP2}{1}{36} \\
+\ganttgroup {WP2}{2}{36} \\
 \ganttbar {T2.1}{1}{12} \\
 \ganttbar {T2.2}{6}{9} \\
 \ganttbar {T2.3}{9}{12} \\

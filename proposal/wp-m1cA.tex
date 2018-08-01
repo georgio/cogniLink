@@ -2,12 +2,12 @@
 %  Work Package Description  %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\begin{workpackage}{Virtual HID, Data Collection, and ML Code}
-  \label{wp:data} %change and use appropriate description
+\begin{workpackage}{Model 1 Command A}
+  \label{wp:m1cA} %change and use appropriate description
 
   %%%%%%%%%%%%%%%%%% TOP TABLE %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
   % Data for the top table
-  \wpstart{1} %Starting Month
+  \wpstart{2} %Starting Month
   \wpend{36} %End Month
   \wptype{Activity type} %RTD, DEM, MGT, or OTHER
 
@@ -16,22 +16,20 @@
   %     or  \personmonths{Participant short name}{value} (not wp leader)
   %         \personmonths*{Participant number}{value}    (wp leader)
   % for example:
-  \personmonths*{UoC}{12}
-  \personmonths{UoP2}{3}
-  \personmonths{UoP3}{2}
+  \personmonths*{UoP2}{12}
+  \personmonths{UoP3}{6}
+  \personmonths{UoC}{3}
   % etc.
 
   \makewptable % Work package summary table
     
   % Work Package Objectives
   \begin{wpobjectives}
-    This work package has the following objectives:
     \begin{enumerate}
-    \item To develop a Virtual Human Interface Device;
-    \item To develop an  API that gathers raw data from the Cyton board and feeds it 
-to a CSV file;
-    \item To write code needed to efficiently store and manage datasets;
-    \item To write code needed to start training Model 1 on Command A.
+    \item To collect training, validation, and test datasets for 
+Model 1 Command A; 
+    \item Training Model 1 using aforementioned data;
+    \item Testing/Patching Model 1.
     \end{enumerate}
   \end{wpobjectives}
   
@@ -41,20 +39,22 @@ to a CSV file;
     % Use \wptask command
     % syntax: \wptask{leader}{contributors}{start-m}{end-m}{title}{description}   
  
+    Description of work carried out in WP, broken down into tasks, and
+    with role of partners list. Use the \texttt{\textbackslash wptask} command.
+
     \wptask{UoC}{UoC}{1}{12}{Task1}{
-      \label{task:wp1task1}
+      \label{task:wp2task1}
       Here we will test the WP Task code. 
     }
     \wptask{UoC}{UoC}{6}{9}{Task2}{
       \label{task:wp2task2}
-      In this task UZH will integrate the work done in ~\ref{task:wp1test}.
+      In this task UZH will integrate the work done in ~\ref{task:wp2test}.
     }    
-    \wptask{UoP3}{All other}{9}{12}{Task3}{
+    \wptask{UoP2}{All other}{9}{12}{Task 3}{
       Here all the WP participants will apply the results to...
-
     }
-
     
+   
   \end{wpdescription}
   
   % Work Package Deliverable
@@ -73,16 +73,19 @@ to a CSV file;
     % \wpdeliverable[date]{R}{PU}{A report on \ldots}
 
     \wpdeliverable[36]{UoC}{R}{PU}{Report on the definition of the model
-      specifications.}\label{dev:wp1specs}
+      specifications.}\label{dev:wp2specs}
     
     \wpdeliverable[12]{UoP3}{R}{PU}{Report on Feasibility study for the model
-      implementation.}\label{dev:wp1implementation}
+      implementation.}\label{dev:wp2implementation}
 
     \wpdeliverable[24]{UoP2}{R}{PU}{Prototype of model
-      implementation.}\label{dev:wp1prototype}
+      implementation.}\label{dev:wp2prototype}
 
   \end{wpdeliverables}
+
 \end{workpackage}
+
+
 %%% Local Variables:
 %%% mode: latex
 %%% TeX-master: "proposal-main"

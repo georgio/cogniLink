@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  1 AUG 2018 14:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  1 AUG 2018 15:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1230,7 +1230,11 @@ Package hyperref Info: Option `hypertexnames' set `true' on input line 105.
 \c@@p3totpm=\count359
 \c@@pUoP3num=\count360
 
-(./template-fet.aux (./wp-develop.aux) (./wp-test.aux))
+(./template-fet.aux (./wp-m1cA.aux
+
+LaTeX Warning: Label `task:wp2task2' multiply defined.
+
+) (./wp-test.aux))
 \openout1 = `template-fet.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 158.
@@ -1612,22 +1616,17 @@ LaTeX Font Info:    Font shape `OT1/pplx/bx/it' in size <10.95> not available
 [2] (./template-fet.mw)
 \openout4 = `template-fet.mw'.
 
- (./wp-management.tex
+ (./wp-data.tex
 \c@@wp1totpm=\count369
 \c@@wp1tottk=\count370
-LaTeX Font Info:    Try loading font information for OMS+cmtt on input line 43.
-
-LaTeX Font Info:    No file OMScmtt.fd. on input line 43.
-
-
-LaTeX Font Warning: Font shape `OMS/cmtt/m/n' undefined
-(Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbackslash' on input line 43.
-
 \c@@tk1WP=\count371
 \c@@tk1T=\count372
 \c@@tk2WP=\count373
 \c@@tk2T=\count374
+
+
+LaTeX Warning: Reference `task:wp1test' on page 3 undefined on input line 51.
+
 \c@@tk3WP=\count375
 \c@@tk3T=\count376
 \c@@deliv1date=\count377
@@ -1642,26 +1641,33 @@ LaTeX Font Warning: Font shape `OMS/cmtt/m/n' undefined
 \c@@deliv3WP=\count386
 \c@@deliv3N=\count387
 \c@@deliv3D=\count388
-\openout4 = `template-fet.mw'.
-
-[3] (./template-fet.mw)
-\openout4 = `template-fet.mw'.
-
 )
 \openout4 = `template-fet.mw'.
 
- [4] (./template-fet.mw)
+ [3] (./template-fet.mw)
 \openout4 = `template-fet.mw'.
 
-\openout2 = `wp-develop.aux'.
+\openout2 = `wp-m1cA.aux'.
 
- (./wp-develop.tex
+ (./wp-m1cA.tex
 \c@@wp2totpm=\count389
 \c@@wp2tottk=\count390
+LaTeX Font Info:    Try loading font information for OMS+cmtt on input line 43.
+
+LaTeX Font Info:    No file OMScmtt.fd. on input line 43.
+
+
+LaTeX Font Warning: Font shape `OMS/cmtt/m/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead
+(Font)              for symbol `textbackslash' on input line 43.
+
 \c@@tk4WP=\count391
 \c@@tk4T=\count392
 \c@@tk5WP=\count393
 \c@@tk5T=\count394
+
+LaTeX Warning: Reference `task:wp2test' on page 4 undefined on input line 52.
+
 \c@@tk6WP=\count395
 \c@@tk6T=\count396
 \c@@deliv4date=\count397
@@ -1679,10 +1685,9 @@ LaTeX Font Warning: Font shape `OMS/cmtt/m/n' undefined
 )
 \openout4 = `template-fet.mw'.
 
- [5
+ [4
 
-]
-(./template-fet.mw)
+] (./template-fet.mw)
 \openout4 = `template-fet.mw'.
 
 \openout2 = `wp-test.aux'.
@@ -1711,13 +1716,14 @@ LaTeX Font Warning: Font shape `OMS/cmtt/m/n' undefined
 )
 \openout4 = `template-fet.mw'.
 
- [6
+ [5
 
 
 ] (./template-fet.mw)
 \openout4 = `template-fet.mw'.
 
- (./template-fet.lwp
+
+(./template-fet.lwp
 Underfull \hbox (badness 10000) in paragraph at lines 4--4
 []|\OT1/pplx/b/n/10.95 Work
  []
@@ -1775,16 +1781,6 @@ Overfull \hbox (2.34984pt too wide) in alignment at lines 4--5
 
 Overfull \hbox (2.34984pt too wide) in alignment at lines 5--6
  [] [] [] [] [] [] [] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 8--8
-[]|\OT1/pplx/m/n/10.95 MANAGEMENT WORK
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 10--10
-[]|\OT1/pplx/m/n/10.95 DEVELOPMENT WORK
  []
 
 
@@ -1950,7 +1946,7 @@ Underfull \vbox (badness 10000) detected at line 26
 
 \openout4 = `template-fet.mw'.
 
-[7
+[6
 
 ] (./template-fet.mw)
 \openout4 = `template-fet.mw'.
@@ -2043,7 +2039,7 @@ Underfull \vbox (badness 10000) detected at line 10
 )
 \openout4 = `template-fet.mw'.
 
- [8] (./template-fet.mw)
+ [7] (./template-fet.mw)
 \openout4 = `template-fet.mw'.
 
 Missing character: There is no â in font pplr9t!
@@ -2077,7 +2073,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 158--158
 
 \openout4 = `template-fet.mw'.
 
-[9] (./template-fet.mw)
+[8] (./template-fet.mw)
 \openout4 = `template-fet.mw'.
 
 
@@ -2118,13 +2114,13 @@ Package natbib Warning: Empty `thebibliography' environment on input line 3.
 )
 \openout4 = `template-fet.mw'.
 
- [10] (./template-fet.mw)
+ [9] (./template-fet.mw)
 \openout4 = `template-fet.mw'.
 
  (./ethics.tex) (./appendix.tex)
 \openout4 = `template-fet.mw'.
 
- [11
+ [10
 
 ]
 (./template-fet.mw)
@@ -2700,7 +2696,7 @@ Package natbib Warning: Empty `thebibliography' environment on input line 3.
 
 \openout4 = `template-fet.mw'.
 
- [12
+ [11
 
 ] (./template-fet.mw)
 \openout4 = `template-fet.mw'.
@@ -2721,8 +2717,7 @@ Package natbib Warning: Empty `thebibliography' environment on input line 3.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 188.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 188.
- (./template-fet.aux
-(./wp-develop.aux) (./wp-test.aux))
+ (./template-fet.aux (./wp-m1cA.aux) (./wp-test.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 188.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 188.
 \openout4 = `template-fet.brf'.
@@ -2733,13 +2728,19 @@ Package rerunfilecheck Info: File `template-fet.brf' has not changed.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 188.
  ) 
 Here is how much of TeX's memory you used:
- 31459 strings out of 492995
- 581469 string characters out of 6132704
- 704994 words of memory out of 5000000
- 34468 multiletter control sequences out of 15000+600000
+ 31458 strings out of 492995
+ 581375 string characters out of 6132704
+ 704912 words of memory out of 5000000
+ 34469 multiletter control sequences out of 15000+600000
  49736 words of font info for 143 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,13n,65p,10405b,432s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2752,10 +2753,10 @@ e/2017/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2017/
 texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></usr/local/texlive/2017/texmf-
 dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2017/texmf-dist/fo
 nts/type1/urw/palatino/uplri8a.pfb>
-Output written on template-fet.pdf (12 pages, 134581 bytes).
+Output written on template-fet.pdf (11 pages, 134944 bytes).
 PDF statistics:
- 79 PDF objects out of 1000 (max. 8388607)
- 56 compressed objects within 1 object stream
+ 76 PDF objects out of 1000 (max. 8388607)
+ 54 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  12301 words of extra memory for PDF output out of 14400 (max. 10000000)
 
