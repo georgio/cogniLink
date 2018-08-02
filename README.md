@@ -1,2 +1,2 @@
 # cogniLink
-Thought recognition software to be potentially used for executing commands with using a wearable openBCI device.
+A Non-Invasive Brain-Computer Interface That Enables Seamless Execution of Commands Through Thought Recognition
