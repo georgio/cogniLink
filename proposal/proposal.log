@@ -1,10 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  3 AUG 2018 17:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  3 AUG 2018 17:33
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/georgionicolas/cognilink/proposal/proposal.tex
-(/Users/georgionicolas/cognilink/proposal/proposal.tex
+**proposal.tex
+(./proposal.tex
 LaTeX2e <2017-04-15>
 Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
 (./h2020proposal.cls
@@ -3707,19 +3706,19 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 186.
 
  ) 
 Here is how much of TeX's memory you used:
- 32179 strings out of 492995
- 589572 string characters out of 6132704
+ 32178 strings out of 492995
+ 589451 string characters out of 6132704
  744974 words of memory out of 5000000
  35022 multiletter control sequences out of 15000+600000
  46879 words of font info for 136 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,11n,65p,10407b,447s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 68i,11n,65p,10366b,447s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/te
 xlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/tex
 live/2017/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/20
 17/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on proposal.pdf (13 pages, 193489 bytes).
+Output written on proposal.pdf (13 pages, 193482 bytes).
 PDF statistics:
  293 PDF objects out of 1000 (max. 8388607)
  270 compressed objects within 3 object streams

@@ -382,7 +382,7 @@
   \expandafter\xdef\csname
   @wp\arabic{@wpcount}Deliv\arabic{@wpdeliv}Title\endcsname{#5}
   % Output
-  \paragraph{\the@wpdeliv} {#5} \textbf{(M#1)}%\relax
+  \paragraph{\the@wpdeliv} {#5} \textbf{(W#1)}%\relax
   \vspace{-8pt}
 }%
 
