@@ -1,9 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  3 AUG 2018 16:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  3 AUG 2018 17:18
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
-**proposal.tex
-(./proposal.tex
+**/Users/georgionicolas/cognilink/proposal/proposal.tex
+(/Users/georgionicolas/cognilink/proposal/proposal.tex
 LaTeX2e <2017-04-15>
 Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
 (./h2020proposal.cls
@@ -2455,26 +2456,152 @@ Overfull \hbox (4.92484pt too wide) in alignment at lines 5--6
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8--9
-[]|\OT1/pplx/m/n/10.95 Software re-leased
+Underfull \hbox (badness 10000) in paragraph at lines 8--8
+[]|\OT1/pplx/m/n/10.95 End of
  []
 
 
-LaTeX Warning: Reference `wp:test' on page 11 undefined on input line 10.
-
-
-Underfull \hbox (badness 5133) in paragraph at lines 10--11
-[]|\OT1/pplx/m/n/10.95 Application of re-
+Underfull \hbox (badness 4024) in paragraph at lines 8--8
+\OT1/pplx/m/n/10.95 WP2 (add
  []
 
 
-Overfull \hbox (4.92484pt too wide) in alignment at lines 6--12
+Underfull \hbox (badness 3547) in paragraph at lines 8--9
+[]|\OT1/pplx/m/n/10.95 Execution of com-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--10
+[]|\OT1/pplx/m/n/10.95 mid WP3
+ []
+
+
+Underfull \hbox (badness 1112) in paragraph at lines 10--10
+\OT1/pplx/m/n/10.95 (add week
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+[]|\OT1/pplx/m/n/10.95 Execution of al-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+\OT1/pplx/m/n/10.95 ter-nat-ing com-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--12
+[]|\OT1/pplx/m/n/10.95 End WP3
+ []
+
+
+Underfull \hbox (badness 1112) in paragraph at lines 12--12
+\OT1/pplx/m/n/10.95 (add week
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+\OT1/pplx/m/n/10.95 1P Su-per Mario
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--14
+[]|\OT1/pplx/m/n/10.95 End WP4
+ []
+
+
+Underfull \hbox (badness 1112) in paragraph at lines 14--14
+\OT1/pplx/m/n/10.95 (add week
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
+\OT1/pplx/m/n/10.95 2P Su-per Mario
+ []
+
+
+Underfull \hbox (badness 2547) in paragraph at lines 16--16
+[]|\OT1/pplx/m/n/10.95 Transitioning from us-ing vir-tu-al-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
+[]|\OT1/pplx/m/n/10.95 mid WP7
+ []
+
+
+Underfull \hbox (badness 1112) in paragraph at lines 16--16
+\OT1/pplx/m/n/10.95 (add week
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
+[]|\OT1/pplx/m/n/10.95 Driving a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
+\OT1/pplx/m/n/10.95 wheelchair with
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
+[]|\OT1/pplx/m/n/10.95 End of
+ []
+
+
+Underfull \hbox (badness 4024) in paragraph at lines 18--18
+\OT1/pplx/m/n/10.95 WP7 (add
+ []
+
+
+Underfull \hbox (badness 1472) in paragraph at lines 18--19
+\OT1/pplx/m/n/10.95 in pa-tient to com-
+ []
+
+
+Underfull \hbox (badness 2351) in paragraph at lines 20--20
+[]|\OT1/pplx/m/n/10.95 Training Uni-ver-sal Model for n-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--20
+[]|\OT1/pplx/m/n/10.95 End of
+ []
+
+
+Underfull \hbox (badness 4024) in paragraph at lines 20--20
+\OT1/pplx/m/n/10.95 WP8 (add
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+[]|\OT1/pplx/m/n/10.95 Ease of train-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+\OT1/pplx/m/n/10.95 mod-els for new
+ []
+
+
+Overfull \hbox (4.92484pt too wide) in alignment at lines 6--22
  [] [] [] [] [] 
  []
 
 
-Underfull \vbox (badness 10000) detected at line 12
+Underfull \vbox (badness 10000) detected at line 22
  []
+
+\openout4 = `proposal.mw'.
+
+[11] (./proposal.mw)
+\openout4 = `proposal.mw'.
+
+\openout4 = `proposal.mw'.
+
+\openout4 = `proposal.mw'.
 
 ) (./proposal.lrk
 Overfull \hbox (7.49985pt too wide) in alignment at lines 1--4
@@ -2492,7 +2619,7 @@ Overfull \hbox (7.49985pt too wide) in alignment at lines 5--6
  []
 
 
-LaTeX Warning: Reference `wp:test' on page 11 undefined on input line 8.
+LaTeX Warning: Reference `wp:test' on page 12 undefined on input line 8.
 
 
 Overfull \hbox (7.49985pt too wide) in alignment at lines 6--10
@@ -2508,7 +2635,19 @@ as been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.10 \end {longtable}
-                     ) (./proposal.lse
+                     ) (./proposal.lsepdfTeX warning (ext4): destination with t
+he same identifier (name{table.1.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1 ... {table} \caption {Summary of staff effort}
+                                                   \label {table:soe} \begin...
+pdfTeX warning (ext4): destination with the same identifier (name{table.1.1}) h
+as been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1 ... {table} \caption {Summary of staff effort}
+                                                   \label {table:soe} \begin...
+
 Underfull \hbox (badness 10000) in paragraph at lines 34--34
 []|\OT1/pplx/b/n/10.95 Partic. short
  []
@@ -2524,41 +2663,23 @@ Missing character: There is no ™ in font pplb9t!
 \c@@dcepnum1=\count517
 \c@@dcopnum1=\count518
 
-Underfull \hbox (badness 10000) in paragraph at lines 138--138
+Underfull \hbox (badness 10000) in paragraph at lines 141--141
 []|\OT1/pplx/b/n/10.95 Cost
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 138--139
+Underfull \hbox (badness 10000) in paragraph at lines 141--142
 
  []
 
 \c@@lripnum1=\count519
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-\openout4 = `proposal.mw'.
-
- [11pdfTeX warning (ext4): destination with the same identifier (name{table.1.1
-}) has been already used, duplicate ignored
-
-\__morewrites_shipout_ii: ...rewrites_shipout_box 
-                                                  \__morewrites_after_shipout: 
-l.148 \makelritable
-                   ] (./proposal.mw)
-\openout4 = `proposal.mw'.
-
-\openout4 = `proposal.mw'.
-
-\openout4 = `proposal.mw'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 148--148
+Underfull \hbox (badness 10000) in paragraph at lines 151--151
 []|\OT1/pplx/b/n/10.95 Cost
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 148--172
+Underfull \hbox (badness 10000) in paragraph at lines 151--172
 
  []
 
@@ -2907,6 +3028,46 @@ No file proposal.bbl.
 
 \mslistfile=\write23
 \openout4 = `proposal.lms'.
+
+\openout4 = `proposal.mw'.
+
+\openout4 = `proposal.mw'.
+
+\openout4 = `proposal.mw'.
+
+\openout4 = `proposal.mw'.
+
+\openout4 = `proposal.mw'.
+
+\openout4 = `proposal.mw'.
+
+\openout4 = `proposal.mw'.
+
+\openout4 = `proposal.mw'.
+
+\openout4 = `proposal.mw'.
+
+\openout4 = `proposal.mw'.
+
+\openout4 = `proposal.mw'.
+
+\openout4 = `proposal.mw'.
+
+\openout4 = `proposal.mw'.
+
+\openout4 = `proposal.mw'.
+
+\openout4 = `proposal.mw'.
+
+\openout4 = `proposal.mw'.
+
+\openout4 = `proposal.mw'.
+
+\openout4 = `proposal.mw'.
+
+\openout4 = `proposal.mw'.
+
+\openout4 = `proposal.mw'.
 
 \openout4 = `proposal.mw'.
 
@@ -3546,22 +3707,22 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 186.
 
  ) 
 Here is how much of TeX's memory you used:
- 32153 strings out of 492995
- 589176 string characters out of 6132704
+ 32179 strings out of 492995
+ 589572 string characters out of 6132704
  744974 words of memory out of 5000000
- 35002 multiletter control sequences out of 15000+600000
+ 35022 multiletter control sequences out of 15000+600000
  46879 words of font info for 136 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,12n,65p,10366b,447s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 68i,11n,65p,10407b,447s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/te
 xlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/tex
 live/2017/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/20
 17/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on proposal.pdf (13 pages, 191974 bytes).
+Output written on proposal.pdf (13 pages, 193489 bytes).
 PDF statistics:
- 281 PDF objects out of 1000 (max. 8388607)
- 258 compressed objects within 3 object streams
- 145 named destinations out of 1000 (max. 500000)
+ 293 PDF objects out of 1000 (max. 8388607)
+ 270 compressed objects within 3 object streams
+ 150 named destinations out of 1000 (max. 500000)
  12378 words of extra memory for PDF output out of 14400 (max. 10000000)
 
