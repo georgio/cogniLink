@@ -17,7 +17,7 @@ description
   %     or  \personweeks{Participant short name}{value} (not wp leader)
   %         \personweeks*{Participant number}{value}    (wp leader)
   % for example:
-  \personweeks*{UoC}{12}
+  \personweeks*{georgio}{12}
   % etc.
 
   \makewptable % Work package summary table
@@ -37,15 +37,15 @@ description
     % Use \wptask command
     % syntax: \wptask{leader}{contributors}{start-m}{end-m}{title}{description}   
  
-    \wptask{UoC}{UoC}{1}{12}{Task1}{
+    \wptask{georgio}{georgio}{1}{12}{Task1}{
       \label{task:wp1task1}
       Here we will test the WP Task code. 
     }
-    \wptask{UoC}{UoC}{6}{9}{Task2}{
+    \wptask{georgio}{georgio}{6}{9}{Task2}{
       \label{task:wp2task2}
       In this task UZH will integrate the work done in ~\ref{task:wp1test}.
     }    
-    \wptask{UoP3}{All other}{9}{12}{Task3}{
+    \wptask{georgio}{All other}{9}{12}{Task3}{
       Here all the WP participants will apply the results to...
 
     }
@@ -68,13 +68,13 @@ description
     % 
     % \wpdeliverable[date]{R}{PU}{A report on \ldots}
 
-    \wpdeliverable[36]{UoC}{R}{PU}{Report on the definition of the model
+    \wpdeliverable[36]{georgio}{R}{PU}{Report on the definition of the model
       specifications.}\label{dev:wp1specs}
     
-    \wpdeliverable[12]{UoP3}{R}{PU}{Report on Feasibility study for the model
+    \wpdeliverable[12]{georgio}{R}{PU}{Report on Feasibility study for the model
       implementation.}\label{dev:wp1implementation}
 
-    \wpdeliverable[24]{UoP2}{R}{PU}{Prototype of model
+    \wpdeliverable[24]{georgio}{R}{PU}{Prototype of model
       implementation.}\label{dev:wp1prototype}
 
   \end{wpdeliverables}

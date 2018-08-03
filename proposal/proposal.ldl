@@ -5,46 +5,46 @@
  \hline \multicolumn {6}{|r|}{Continued on next page} \\ \hline \endfoot
 \hline \endlastfoot
 \hline
-\textbf {D1.2} & Report on Feasibility study for the model implementation.& WP1 & UoP3& R& PU& 12 \\
+\textbf {D1.2} & Report on Feasibility study for the model implementation.& WP1 & georgio& R& PU& 12 \\
 \hline
-\textbf {D2.2} & Report on Feasibility study for the model implementation.& WP2 & UoP3& R& PU& 12 \\
+\textbf {D2.2} & Report on Feasibility study for the model implementation.& WP2 & georgio& R& PU& 12 \\
 \hline
-\textbf {D3.2} & Report on Feasibility study for the model implementation.& WP3 & UoP3& R& PU& 12 \\
+\textbf {D3.2} & Report on Feasibility study for the model implementation.& WP3 & georgio& R& PU& 12 \\
 \hline
-\textbf {D4.2} & Report on Feasibility study for the model implementation.& WP4 & UoP3& R& PU& 12 \\
+\textbf {D4.2} & Report on Feasibility study for the model implementation.& WP4 & georgio& R& PU& 12 \\
 \hline
-\textbf {D5.2} & Report on Feasibility study for the model implementation.& WP5 & UoP3& R& PU& 12 \\
+\textbf {D5.2} & Report on Feasibility study for the model implementation.& WP5 & georgio& R& PU& 12 \\
 \hline
-\textbf {D6.2} & Report on Feasibility study for the model implementation.& WP6 & UoP3& R& PU& 12 \\
+\textbf {D6.2} & Report on Feasibility study for the model implementation.& WP6 & georgio& R& PU& 12 \\
 \hline
-\textbf {D7.2} & Report on Feasibility study for the model implementation.& WP7 & UoP3& R& PU& 12 \\
+\textbf {D7.2} & Report on Feasibility study for the model implementation.& WP7 & georgio& R& PU& 12 \\
 \hline
-\textbf {D1.3} & Prototype of model implementation.& WP1 & UoP2& R& PU& 24 \\
+\textbf {D1.3} & Prototype of model implementation.& WP1 & georgio& R& PU& 24 \\
 \hline
-\textbf {D2.3} & Prototype of model implementation.& WP2 & UoP2& R& PU& 24 \\
+\textbf {D2.3} & Prototype of model implementation.& WP2 & georgio& R& PU& 24 \\
 \hline
-\textbf {D3.3} & Prototype of model implementation.& WP3 & UoP2& R& PU& 24 \\
+\textbf {D3.3} & Prototype of model implementation.& WP3 & georgio& R& PU& 24 \\
 \hline
-\textbf {D4.3} & Prototype of model implementation.& WP4 & UoP2& R& PU& 24 \\
+\textbf {D4.3} & Prototype of model implementation.& WP4 & georgio& R& PU& 24 \\
 \hline
-\textbf {D5.3} & Prototype of model implementation.& WP5 & UoP2& R& PU& 24 \\
+\textbf {D5.3} & Prototype of model implementation.& WP5 & georgio& R& PU& 24 \\
 \hline
-\textbf {D6.3} & Prototype of model implementation.& WP6 & UoP2& R& PU& 24 \\
+\textbf {D6.3} & Prototype of model implementation.& WP6 & georgio& R& PU& 24 \\
 \hline
-\textbf {D7.3} & Prototype of model implementation.& WP7 & UoP2& R& PU& 24 \\
+\textbf {D7.3} & Prototype of model implementation.& WP7 & georgio& R& PU& 24 \\
 \hline
-\textbf {D1.1} & Report on the definition of the model specifications.& WP1 & UoC& R& PU& 36 \\
+\textbf {D1.1} & Report on the definition of the model specifications.& WP1 & georgio& R& PU& 36 \\
 \hline
-\textbf {D2.1} & Report on the definition of the model specifications.& WP2 & UoC& R& PU& 36 \\
+\textbf {D2.1} & Report on the definition of the model specifications.& WP2 & georgio& R& PU& 36 \\
 \hline
-\textbf {D3.1} & Report on the definition of the model specifications.& WP3 & UoC& R& PU& 36 \\
+\textbf {D3.1} & Report on the definition of the model specifications.& WP3 & georgio& R& PU& 36 \\
 \hline
-\textbf {D4.1} & Report on the definition of the model specifications.& WP4 & UoC& R& PU& 36 \\
+\textbf {D4.1} & Report on the definition of the model specifications.& WP4 & georgio& R& PU& 36 \\
 \hline
-\textbf {D5.1} & Report on the definition of the model specifications.& WP5 & UoC& R& PU& 36 \\
+\textbf {D5.1} & Report on the definition of the model specifications.& WP5 & georgio& R& PU& 36 \\
 \hline
-\textbf {D6.1} & Report on the definition of the model specifications.& WP6 & UoC& R& PU& 36 \\
+\textbf {D6.1} & Report on the definition of the model specifications.& WP6 & georgio& R& PU& 36 \\
 \hline
-\textbf {D7.1} & Report on the definition of the model specifications.& WP7 & UoC& R& PU& 36 \\
+\textbf {D7.1} & Report on the definition of the model specifications.& WP7 & georgio& R& PU& 36 \\
 \hline
 \end {longtable}

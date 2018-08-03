@@ -11,16 +11,6 @@
 & {\textbf {Total person weeks}} \\
  \hline
 1 & UoC
-& \textbf {12}
-& \textbf {3}
-& 0
-& \textbf {12}
-& \textbf {12}
-& \textbf {12}
-& \textbf {12}
-& 63 \\
-\hline
-2 & UoP2
 & 0
 & 0
 & 0
@@ -30,15 +20,25 @@
 & 0
 & 0 \\
 \hline
+2 & georgio
+& \textbf {12}
+& \textbf {3}
+& \textbf {12}
+& \textbf {12}
+& \textbf {12}
+& \textbf {12}
+& \textbf {12}
+& 75 \\
+\hline
 3 & UoP3
 & 0
 & 0
-& \textbf {12}
 & 0
 & 0
 & 0
 & 0
-& 12 \\
+& 0
+& 0 \\
 \hline
 \textbf {Total} &
 \cellcolor [gray]{0.8}
