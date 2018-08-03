@@ -5,11 +5,19 @@
  \hline \multicolumn {5}{|r|}{Continued on next page} \\ \hline \endfoot
 \hline \endlastfoot
 \hline
-\textbf {T1.1} & \@wp1Task1PI & 1& 12& Task1\\
+\textbf {T1.1} & \@wp1Task1PI & 1& 1& Task1\\
 \hline
-\textbf {T1.2} & \@wp1Task2PI & 6& 9& Task2\\
+\textbf {T1.2} & \@wp1Task2PI & 1& 1& Task2\\
 \hline
-\textbf {T1.3} & \@wp1Task3PI & 9& 12& Task3\\
+\textbf {T1.3} & \@wp1Task3PI & 1& 1& Task3\\
+\hline
+\textbf {T1.4} & \@wp1Task4PI & 1& 2& Task4\\
+\hline
+\textbf {T1.5} & \@wp1Task5PI & 2& 2& Task5\\
+\hline
+\textbf {T1.6} & \@wp1Task6PI & 2& 2& Task5\\
+\hline
+\textbf {T1.7} & \@wp1Task7PI & 2& 2& Task6\\
 \hline
 \textbf {T2.1} & \@wp2Task1PI & 1& 12& Task1\\
 \hline

@@ -8,7 +8,7 @@
   %%%%%%%%%%%%%%%%%% TOP TABLE %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
   % Data for the top table
   \wpstart{1} %Starting Week
-  \wpend{36} %End Week
+  \wpend{2} %End Week
   \wptype{Activity type} %RTD, DEM, MGT, or OTHER
 
   % Person Weeks per participant (required, max 7, * for leader)  
@@ -16,7 +16,7 @@
   %     or  \personweeks{Participant short name}{value} (not wp leader)
   %         \personweeks*{Participant number}{value}    (wp leader)
   % for example:
-  \personweeks*{georgio}{12}
+  \personweeks*{georgio}{2}
   % etc.
 
   \makewptable % Work package summary table
@@ -39,20 +39,34 @@ to a CSV file;
     % Use \wptask command
     % syntax: \wptask{leader}{contributors}{start-m}{end-m}{title}{description}   
  
-    \wptask{georgio}{georgio}{1}{12}{Task1}{
+    \wptask{georgio}{georgio}{1}{1}{Task1}{
       \label{task:wp1task1}
-      Here we will test the WP Task code. 
+      The virtualHID will be created using macOS' IOKit Library.
     }
-    \wptask{georgio}{georgio}{6}{9}{Task2}{
-      \label{task:wp2task2}
-      In this task UZH will integrate the work done in ~\ref{task:wp1test}.
+    \wptask{georgio}{georgio}{1}{1}{Task2}{
+      \label{task:wp1task2}
+      The Cyton board will be programmed using arsh.
     }    
-    \wptask{georgio}{All other}{9}{12}{Task3}{
-      Here all the WP participants will apply the results to...
-
+    \wptask{georgio}{georgio}{1}{1}{Task3}{
+      \label{task:wp1task3}
+      API to gather data from Cyton Board will be built
     }
-
-    
+    \wptask{georgio}{georgio}{1}{2}{Task4}{
+      \label{task:wp1task4}
+      Code to manage raw EEG data will be done here.
+      }
+      \wptask{georgio}{georgio}{2}{2}{Task5}{
+      \label{task:wp1task5}
+      EC2, S3, and SageMaker instances will be configured.
+    }
+    \wptask{georgio}{georgio}{2}{2}{Task5}{
+      \label{task:wp1task5}
+      Code to feed raw data to S3 bucket will be done here.
+    }
+    \wptask{georgio}{georgio}{2}{2}{Task6}{
+      \label{task:wp1task6}
+      Code to start training the model will be done here.
+    }
   \end{wpdescription}
   
   % Work Package Deliverable
@@ -70,15 +84,10 @@ to a CSV file;
     % 
     % \wpdeliverable[date]{R}{PU}{A report on \ldots}
 
-    \wpdeliverable[36]{georgio}{R}{PU}{Report on the definition of the model
-      specifications.}\label{dev:wp1specs}
-    
-    \wpdeliverable[12]{georgio}{R}{PU}{Report on Feasibility study for the model
-      implementation.}\label{dev:wp1implementation}
-
-    \wpdeliverable[24]{georgio}{R}{PU}{Prototype of model
-      implementation.}\label{dev:wp1prototype}
-
+    \wpdeliverable[1]{georgio}{R}{PU}{WP1 W1 Progress Report.}\label{wp1:reportw1}
+    \wpdeliverable[2]{georgio}{D}{PU}{Demonstration of APIs}\label{wp1:demo}
+    \wpdeliverable[2]{georgio}{R}{PU}{End of WP1 - Overall Progress Report.}\label{report:wp1}
+    \wpdeliverable[2]{georgio}{P}{PU}{WP1 Code+Tools Merged to master.}\label{wp1:prototype}
   \end{wpdeliverables}
 \end{workpackage}
 %%% Local Variables:

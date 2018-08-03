@@ -10,46 +10,26 @@
 & {\textbf {WP7}}
 & {\textbf {Total person weeks}} \\
  \hline
-1 & UoC
-& 0
-& 0
-& 0
-& 0
-& 0
-& 0
-& 0
-& 0 \\
-\hline
-2 & georgio
-& \textbf {12}
+1 & georgio
+& \textbf {2}
 & \textbf {3}
 & \textbf {12}
 & \textbf {12}
 & \textbf {12}
 & \textbf {12}
 & \textbf {12}
-& 75 \\
-\hline
-3 & UoP3
-& 0
-& 0
-& 0
-& 0
-& 0
-& 0
-& 0
-& 0 \\
+& 65 \\
 \hline
 \textbf {Total} &
 \cellcolor [gray]{0.8}
-& 12
+& 2
 & 3
 & 12
 & 12
 & 12
 & 12
 & 12
-& 75 \\
+& 65 \\
 \hline
 \end {tabularx}
  \end {table}
