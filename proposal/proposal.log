@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  10 AUG 2018 13:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  10 AUG 2018 13:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1813,20 +1813,20 @@ l.92 ...cy for each patch/iteration of the model.}
  (./wp-m1cN.tex
 \c@@wp3totpm=\count442
 \c@@wp3tottk=\count443
-LaTeX Font Info:    Try loading font information for OMS+cmtt on input line 42.
+LaTeX Font Info:    Try loading font information for OMS+cmtt on input line 40.
 
-LaTeX Font Info:    No file OMScmtt.fd. on input line 42.
+LaTeX Font Info:    No file OMScmtt.fd. on input line 40.
 
 
 LaTeX Font Warning: Font shape `OMS/cmtt/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbackslash' on input line 42.
+(Font)              for symbol `textbackslash' on input line 40.
 
 pdfTeX warning (ext4): destination with the same identifier (name{@wptask.1}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.47     }
+l.45     }
           
 \c@@tk16WP=\count444
 \c@@tk16T=\count445
@@ -1834,7 +1834,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{@wptask.2}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.51     }
+l.49     }
           
 \c@@tk17WP=\count446
 \c@@tk17T=\count447
@@ -1842,7 +1842,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{@wptask.3}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.54     }
+l.52     }
           
 \c@@tk18WP=\count448
 \c@@tk18T=\count449
@@ -1850,7 +1850,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{@wpdeliv.1})
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.79       specifications.}
+l.77       specifications.}
                            \label{dev:wp3specs}
 \c@@deliv12date=\count450
 \c@@deliv12WP=\count451
@@ -1860,7 +1860,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{@wpdeliv.2})
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.82       implementation.}
+l.80       implementation.}
                            \label{dev:wp3implementation}
 \c@@deliv13date=\count454
 \c@@deliv13WP=\count455
@@ -1870,7 +1870,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{@wpdeliv.3})
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.85       implementation.}
+l.83       implementation.}
                            \label{dev:wp3prototype}
 \c@@deliv14date=\count458
 \c@@deliv14WP=\count459
@@ -1895,7 +1895,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{@wptask.1}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.43     }
+l.42     }
           
 \c@@tk19WP=\count464
 \c@@tk19T=\count465
@@ -1903,19 +1903,19 @@ pdfTeX warning (ext4): destination with the same identifier (name{@wptask.2}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.47     }
+l.46     }
           
 \c@@tk20WP=\count466
 \c@@tk20T=\count467
 
 
-LaTeX Warning: Reference `task:wp1test' on page 7 undefined on input line 47.
+LaTeX Warning: Reference `task:wp1test' on page 7 undefined on input line 46.
 
 pdfTeX warning (ext4): destination with the same identifier (name{@wptask.3}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.51     }
+l.50     }
           
 \c@@tk21WP=\count468
 \c@@tk21T=\count469
@@ -1923,7 +1923,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{@wpdeliv.1})
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.72       specifications.}
+l.71       specifications.}
                            \label{dev:wp1specs}
 \c@@deliv15date=\count470
 \c@@deliv15WP=\count471
@@ -1933,7 +1933,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{@wpdeliv.2})
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.75       implementation.}
+l.74       implementation.}
                            \label{dev:wp1implementation}
 \c@@deliv16date=\count474
 \c@@deliv16WP=\count475
@@ -1943,7 +1943,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{@wpdeliv.3})
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.78       implementation.}
+l.77       implementation.}
                            \label{dev:wp1prototype}
 \c@@deliv17date=\count478
 \c@@deliv17WP=\count479
@@ -1968,7 +1968,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{@wptask.1}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.43     }
+l.42     }
           
 \c@@tk22WP=\count484
 \c@@tk22T=\count485
@@ -1976,19 +1976,19 @@ pdfTeX warning (ext4): destination with the same identifier (name{@wptask.2}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.47     }
+l.46     }
           
 \c@@tk23WP=\count486
 \c@@tk23T=\count487
 
 
-LaTeX Warning: Reference `task:wp1test' on page 8 undefined on input line 47.
+LaTeX Warning: Reference `task:wp1test' on page 8 undefined on input line 46.
 
 pdfTeX warning (ext4): destination with the same identifier (name{@wptask.3}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.51     }
+l.50     }
           
 \c@@tk24WP=\count488
 \c@@tk24T=\count489
@@ -1996,7 +1996,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{@wpdeliv.1})
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.72       specifications.}
+l.71       specifications.}
                            \label{dev:wp1specs}
 \c@@deliv18date=\count490
 \c@@deliv18WP=\count491
@@ -2006,7 +2006,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{@wpdeliv.2})
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.75       implementation.}
+l.74       implementation.}
                            \label{dev:wp1implementation}
 \c@@deliv19date=\count494
 \c@@deliv19WP=\count495
@@ -2016,7 +2016,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{@wpdeliv.3})
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.78       implementation.}
+l.77       implementation.}
                            \label{dev:wp1prototype}
 \c@@deliv20date=\count498
 \c@@deliv20WP=\count499
@@ -2114,7 +2114,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{@wptask.1}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.47     }
+l.46     }
           
 \c@@tk28WP=\count524
 \c@@tk28T=\count525
@@ -2122,19 +2122,19 @@ pdfTeX warning (ext4): destination with the same identifier (name{@wptask.2}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.51     }
+l.50     }
           
 \c@@tk29WP=\count526
 \c@@tk29T=\count527
 
 
-LaTeX Warning: Reference `task:wp1test' on page 10 undefined on input line 51.
+LaTeX Warning: Reference `task:wp1test' on page 10 undefined on input line 50.
 
 pdfTeX warning (ext4): destination with the same identifier (name{@wptask.3}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.55     }
+l.54     }
           
 \c@@tk30WP=\count528
 \c@@tk30T=\count529
@@ -2142,7 +2142,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{@wpdeliv.1})
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.76       specifications.}
+l.75       specifications.}
                            \label{dev:wp1specs}
 \c@@deliv24date=\count530
 \c@@deliv24WP=\count531
@@ -2152,7 +2152,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{@wpdeliv.2})
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.79       implementation.}
+l.78       implementation.}
                            \label{dev:wp1implementation}
 \c@@deliv25date=\count534
 \c@@deliv25WP=\count535
@@ -2162,7 +2162,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{@wpdeliv.3})
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.82       implementation.}
+l.81       implementation.}
                            \label{dev:wp1prototype}
 \c@@deliv26date=\count538
 \c@@deliv26WP=\count539
@@ -3882,7 +3882,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 186.
 Here is how much of TeX's memory you used:
  32382 strings out of 492995
  592084 string characters out of 6132704
- 750018 words of memory out of 5000000
+ 750007 words of memory out of 5000000
  35210 multiletter control sequences out of 15000+600000
  46879 words of font info for 136 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -3892,7 +3892,7 @@ exlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/te
 xlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/tex
 live/2017/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/20
 17/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on proposal.pdf (14 pages, 195542 bytes).
+Output written on proposal.pdf (14 pages, 195478 bytes).
 PDF statistics:
  312 PDF objects out of 1000 (max. 8388607)
  288 compressed objects within 3 object streams
