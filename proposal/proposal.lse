@@ -14,22 +14,22 @@
 & \textbf {2}
 & \textbf {4}
 & \textbf {6}
+& \textbf {6}
 & \textbf {12}
 & \textbf {12}
 & \textbf {12}
-& \textbf {12}
-& 60 \\
+& 54 \\
 \hline
 \textbf {Total} &
 \cellcolor [gray]{0.8}
 & 2
 & 4
 & 6
+& 6
 & 12
 & 12
 & 12
-& 12
-& 60 \\
+& 54 \\
 \hline
 \end {tabularx}
  \end {table}

@@ -41,11 +41,13 @@
 \hline
 \textbf {T3.3} & \@wp3Task3PI & 12& 12& Task3\\
 \hline
-\textbf {T4.1} & \@wp4Task1PI & 1& 12& Task1\\
+\textbf {T4.1} & \@wp4Task1PI & 12& 18& Task1\\
 \hline
-\textbf {T4.2} & \@wp4Task2PI & 6& 9& Task2\\
+\textbf {T4.2} & \@wp4Task2PI & 12& 13& Task2\\
 \hline
-\textbf {T4.3} & \@wp4Task3PI & 9& 12& Task3\\
+\textbf {T4.3} & \@wp4Task3PI & 18& 18& Task3\\
+\hline
+\textbf {T4.4} & \@wp4Task4PI & 18& 18& Task4\\
 \hline
 \textbf {T5.1} & \@wp5Task1PI & 1& 12& Task1\\
 \hline

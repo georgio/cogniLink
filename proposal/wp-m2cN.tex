@@ -7,8 +7,8 @@
 
   %%%%%%%%%%%%%%%%%% TOP TABLE %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
   % Data for the top table
-  \wpstart{1} %Starting Week
-  \wpend{36} %End Week
+  \wpstart{12} %Starting Week
+  \wpend{18} %End Week
   \wptype{Activity type} %RTD, DEM, MGT, or OTHER
 
   % Person Weeks per participant (required, max 7, * for leader)  
@@ -16,7 +16,7 @@
   %     or  \personweeks{Participant short name}{value} (not wp leader)
   %         \personweeks*{Participant number}{value}    (wp leader)
   % for example:
-  \personweeks*{georgio}{12}
+  \personweeks*{georgio}{6}
   % etc.
 
   \makewptable % Work package summary table
@@ -36,18 +36,20 @@
     % Use \wptask command
     % syntax: \wptask{leader}{contributors}{start-m}{end-m}{title}{description}   
  
-    \wptask{georgio}{georgio}{1}{12}{Task1}{
-      \label{task:wp1task1}
-      Here we will test the WP Task code. 
-    }
-    \wptask{georgio}{georgio}{6}{9}{Task2}{
-      \label{task:wp2task2}
-      In this task UZH will integrate the work done in ~\ref{task:wp1test}.
+    \wptask{georgio}{georgio}{12}{18}{Task1}{
+      \label{task:wp4task1} 
+      A new Model 2 will be created, repeting the steps from previous WPs, in such a way that it is trained using data gathered from a different individual for the same n-Commands.}
+      \wptask{georgio}{georgio}{12}{13}{Task2}{
+        \label{task:wp4task2}
+       The ability to switch between models will be added to the virtual HID code, for testing purposes.
+      }   
+      \wptask{georgio}{georgio}{18}{18}{Task3}{
+      \label{task:wp4task3}
+     Models 1 and 2 will be published.
+    } \wptask{georgio}{georgio}{18}{18}{Task4}{
+      \label{task:wp4task4}
+     A game of 2P Super Mario Bros will be played.
     }    
-    \wptask{georgio}{All other}{9}{12}{Task3}{
-      Here all the WP participants will apply the results to...
-
-    }
 
     
   \end{wpdescription}
@@ -67,15 +69,15 @@
     % 
     % \wpdeliverable[date]{R}{PU}{A report on \ldots}
 
-    \wpdeliverable[36]{georgio}{R}{PU}{Report on the definition of the model
-      specifications.}\label{dev:wp1specs}
+
+    \wpdeliverable[13]{georgio}{P}{PU}{Merging model switching code to master.}\label{dev:wp4merge1}
+    \wpdeliverable[13]{georgio}{R}{PU}{Report on the ability to use 2 models simultaneously as 2 virtual HID devices.}\label{dev:wp4r1}
+    \wpdeliverable[15]{georgio}{R}{PU}{Report on Model 2 Command 8.}\label{dev:wp4r2}
+    \wpdeliverable[18]{georgio}{R}{PU}{Report on training Model 2 for n-Commands.}\label{dev:wp4r3}
+    \wpdeliverable[13]{georgio}{P}{PU}{Merging code of Models 1 and 2 to master.}\label{dev:wp4merge2}
+    \wpdeliverable[18]{georgio}{D}{PU}{A demonstration of the ability to play a game of 2P Super Mario Bros using cogniLink.}\label{dev:wp4vid}
+    \wpdeliverable[18]{georgio}{R}{PU}{Main Report update with full progress accomplished after the end of WP4.}\label{dev:MR0.4}
     
-    \wpdeliverable[12]{georgio}{R}{PU}{Report on Feasibility study for the model
-      implementation.}\label{dev:wp1implementation}
-
-    \wpdeliverable[24]{georgio}{R}{PU}{Prototype of model
-      implementation.}\label{dev:wp1prototype}
-
   \end{wpdeliverables}
 \end{workpackage}
 %%% Local Variables:
