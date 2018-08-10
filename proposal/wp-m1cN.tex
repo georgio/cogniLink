@@ -35,27 +35,22 @@
     % Divide work package into multiple tasks.
     % Use \wptask command
     % syntax: \wptask{leader}{contributors}{start-m}{end-m}{title}{description}   
- 
-    Description of work carried out in WP, broken down into tasks, and
-    with role of partners list. Use the \texttt{\textbackslash wptask} command.
 
-    \wptask{georgio}{georgio}{1}{12}{Test}{
-      \label{task:wp3test}
-      Here we will test the WP Task code. 
+    \wptask{georgio}{georgio}{6}{12}{Task1}{
+      \label{task:wp3HIDfinilazation}
+      Code for linking model to virtual HID will be rechecked and finalized.
     }
-    \wptask{georgio}{georgio}{6}{9}{Integrate}{
-      \label{task:wp3integrate}
-      In this task UZH will integrate the work done in ~\ref{task:wp3test}.
+    \wptask{georgio}{georgio}{6}{12}{Task2}{
+      \label{task:wp3training}
+      Model 1 will be trained for command B, and other commands simultaneously.
     }    
-    \wptask{georgio}{georgio}{9}{12}{Apply}{
-      Here all the WP participants will apply the results to...
-    }
+    \wptask{georgio}{georgio}{12}{12}{Task3}{
+      \label{task:wp3demo}
+      A game of 1P Super Mario Bros will be played.
+    }    
     
-    \paragraph{Role of partners}
-    \begin{description*}
-    \item[Participant short name] will lead Task~\ref{task:wp3integrate}.
-    \item[georgio] will..
-    \end{description*}
+    %%~\ref{task:wp3integrate}.
+   
   \end{wpdescription}
   
   % Work Package Deliverable
@@ -73,15 +68,12 @@
     % 
     % \wpdeliverable[date]{R}{PU}{A report on \ldots}
 
-    \wpdeliverable[36]{georgio}{R}{PU}{Report on the definition of the model
-      specifications.}\label{dev:wp3specs}
-    
-    \wpdeliverable[12]{georgio}{R}{PU}{Report on Feasibility study for the model
-      implementation.}\label{dev:wp3implementation}
-
-    \wpdeliverable[24]{georgio}{R}{PU}{Prototype of model
-      implementation.}\label{dev:wp3prototype}
-
+    \wpdeliverable[8]{georgio}{D}{PU}{A demonstration of the execution of alternating commands, after successful training of the second command to model 1.}\label{dev:wp3d1}
+    \wpdeliverable[11]{georgio}{R}{PU}{Report 1 on findings made while training new commands.}\label{dev:wp3r1}
+    \wpdeliverable[12]{georgio}{R}{PU}{Report 2 will comapre the variation of latency between the model and the virtual HID for each code patch.}\label{dev:wp3r2}
+    \wpdeliverable[12]{georgio}{P}{PU}{Code for virtual HID and updated Model 1 with multiple command recognition will be pushed to master.}\label{dev:wp3r1}
+    \wpdeliverable[12]{georgio}{D}{PU}{A demonstration of the ability to play a game of 1P Super Mario Bros using cogniLink.}\label{dev:wp3prototype}
+    \wpdeliverable[12]{georgio}{R}{PU}{Main Report update with full progress accomplished after the end of WP3.}\label{dev:MR0.2}
   \end{wpdeliverables}
 
 \end{workpackage}

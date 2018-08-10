@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  10 AUG 2018 13:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  10 AUG 2018 13:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1217,7 +1217,11 @@ Package hyperref Info: Option `hypertexnames' set `true' on input line 105.
 
 LaTeX Warning: Label `task:wp2task4' multiply defined.
 
-) (./wp-m1cN.aux) (./wp-m2cN.aux
+) (./wp-m1cN.aux
+
+LaTeX Warning: Label `dev:wp3r1' multiply defined.
+
+) (./wp-m2cN.aux
 
 LaTeX Warning: Label `task:wp1task1' multiply defined.
 
@@ -1813,20 +1817,11 @@ l.92 ...cy for each patch/iteration of the model.}
  (./wp-m1cN.tex
 \c@@wp3totpm=\count442
 \c@@wp3tottk=\count443
-LaTeX Font Info:    Try loading font information for OMS+cmtt on input line 40.
-
-LaTeX Font Info:    No file OMScmtt.fd. on input line 40.
-
-
-LaTeX Font Warning: Font shape `OMS/cmtt/m/n' undefined
-(Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbackslash' on input line 40.
-
 pdfTeX warning (ext4): destination with the same identifier (name{@wptask.1}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.45     }
+l.42     }
           
 \c@@tk16WP=\count444
 \c@@tk16T=\count445
@@ -1834,7 +1829,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{@wptask.2}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.49     }
+l.46     }
           
 \c@@tk17WP=\count446
 \c@@tk17T=\count447
@@ -1842,7 +1837,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{@wptask.3}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.52     }
+l.50     }
           
 \c@@tk18WP=\count448
 \c@@tk18T=\count449
@@ -1850,8 +1845,8 @@ pdfTeX warning (ext4): destination with the same identifier (name{@wpdeliv.1})
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.77       specifications.}
-                           \label{dev:wp3specs}
+l.71 ...raining of the second command to model 1.}
+                                                  \label{dev:wp3d1}
 \c@@deliv12date=\count450
 \c@@deliv12WP=\count451
 \c@@deliv12N=\count452
@@ -1860,8 +1855,8 @@ pdfTeX warning (ext4): destination with the same identifier (name{@wpdeliv.2})
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.80       implementation.}
-                           \label{dev:wp3implementation}
+l.72 ...indings made while training new commands.}
+                                                  \label{dev:wp3r1}
 \c@@deliv13date=\count454
 \c@@deliv13WP=\count455
 \c@@deliv13N=\count456
@@ -1870,43 +1865,73 @@ pdfTeX warning (ext4): destination with the same identifier (name{@wpdeliv.3})
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.83       implementation.}
-                           \label{dev:wp3prototype}
+l.73 ... and the virtual HID for each code patch.}
+                                                  \label{dev:wp3r2}
 \c@@deliv14date=\count458
 \c@@deliv14WP=\count459
 \c@@deliv14N=\count460
 \c@@deliv14D=\count461
+pdfTeX warning (ext4): destination with the same identifier (name{@wpdeliv.4}) 
+has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.74 ...and recognition will be pushed to master.}
+                                                  \label{dev:wp3r1}
+\c@@deliv15date=\count462
+\c@@deliv15WP=\count463
+\c@@deliv15N=\count464
+\c@@deliv15D=\count465
+pdfTeX warning (ext4): destination with the same identifier (name{@wpdeliv.5}) 
+has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.75 ...e of 1P Super Mario Bros using cogniLink.}
+                                                  \label{dev:wp3prototype}
+\c@@deliv16date=\count466
+\c@@deliv16WP=\count467
+\c@@deliv16N=\count468
+\c@@deliv16D=\count469
+pdfTeX warning (ext4): destination with the same identifier (name{@wpdeliv.6}) 
+has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.76 ...ogress accomplished after the end of WP3.}
+                                                  \label{dev:MR0.2}
+\c@@deliv17date=\count470
+\c@@deliv17WP=\count471
+\c@@deliv17N=\count472
+\c@@deliv17D=\count473
 )
 \openout4 = `proposal.mw'.
 
  [6
 
 
-] (./proposal.mw)
+]
+(./proposal.mw)
 \openout4 = `proposal.mw'.
 
 \openout2 = `wp-m2cN.aux'.
 
-
-(./wp-m2cN.tex
-\c@@wp4totpm=\count462
-\c@@wp4tottk=\count463
+ (./wp-m2cN.tex
+\c@@wp4totpm=\count474
+\c@@wp4tottk=\count475
 pdfTeX warning (ext4): destination with the same identifier (name{@wptask.1}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.42     }
           
-\c@@tk19WP=\count464
-\c@@tk19T=\count465
+\c@@tk19WP=\count476
+\c@@tk19T=\count477
 pdfTeX warning (ext4): destination with the same identifier (name{@wptask.2}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.46     }
           
-\c@@tk20WP=\count466
-\c@@tk20T=\count467
+\c@@tk20WP=\count478
+\c@@tk20T=\count479
 
 
 LaTeX Warning: Reference `task:wp1test' on page 7 undefined on input line 46.
@@ -1917,38 +1942,38 @@ as been already used, duplicate ignored
                    \relax 
 l.50     }
           
-\c@@tk21WP=\count468
-\c@@tk21T=\count469
+\c@@tk21WP=\count480
+\c@@tk21T=\count481
 pdfTeX warning (ext4): destination with the same identifier (name{@wpdeliv.1}) 
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.71       specifications.}
                            \label{dev:wp1specs}
-\c@@deliv15date=\count470
-\c@@deliv15WP=\count471
-\c@@deliv15N=\count472
-\c@@deliv15D=\count473
+\c@@deliv18date=\count482
+\c@@deliv18WP=\count483
+\c@@deliv18N=\count484
+\c@@deliv18D=\count485
 pdfTeX warning (ext4): destination with the same identifier (name{@wpdeliv.2}) 
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.74       implementation.}
                            \label{dev:wp1implementation}
-\c@@deliv16date=\count474
-\c@@deliv16WP=\count475
-\c@@deliv16N=\count476
-\c@@deliv16D=\count477
+\c@@deliv19date=\count486
+\c@@deliv19WP=\count487
+\c@@deliv19N=\count488
+\c@@deliv19D=\count489
 pdfTeX warning (ext4): destination with the same identifier (name{@wpdeliv.3}) 
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.77       implementation.}
                            \label{dev:wp1prototype}
-\c@@deliv17date=\count478
-\c@@deliv17WP=\count479
-\c@@deliv17N=\count480
-\c@@deliv17D=\count481
+\c@@deliv20date=\count490
+\c@@deliv20WP=\count491
+\c@@deliv20N=\count492
+\c@@deliv20D=\count493
 )
 \openout4 = `proposal.mw'.
 
@@ -1962,24 +1987,24 @@ l.77       implementation.}
 
 
 (./wp-opt.tex
-\c@@wp5totpm=\count482
-\c@@wp5tottk=\count483
+\c@@wp5totpm=\count494
+\c@@wp5tottk=\count495
 pdfTeX warning (ext4): destination with the same identifier (name{@wptask.1}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.42     }
           
-\c@@tk22WP=\count484
-\c@@tk22T=\count485
+\c@@tk22WP=\count496
+\c@@tk22T=\count497
 pdfTeX warning (ext4): destination with the same identifier (name{@wptask.2}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.46     }
           
-\c@@tk23WP=\count486
-\c@@tk23T=\count487
+\c@@tk23WP=\count498
+\c@@tk23T=\count499
 
 
 LaTeX Warning: Reference `task:wp1test' on page 8 undefined on input line 46.
@@ -1990,38 +2015,38 @@ as been already used, duplicate ignored
                    \relax 
 l.50     }
           
-\c@@tk24WP=\count488
-\c@@tk24T=\count489
+\c@@tk24WP=\count500
+\c@@tk24T=\count501
 pdfTeX warning (ext4): destination with the same identifier (name{@wpdeliv.1}) 
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.71       specifications.}
                            \label{dev:wp1specs}
-\c@@deliv18date=\count490
-\c@@deliv18WP=\count491
-\c@@deliv18N=\count492
-\c@@deliv18D=\count493
+\c@@deliv21date=\count502
+\c@@deliv21WP=\count503
+\c@@deliv21N=\count504
+\c@@deliv21D=\count505
 pdfTeX warning (ext4): destination with the same identifier (name{@wpdeliv.2}) 
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.74       implementation.}
                            \label{dev:wp1implementation}
-\c@@deliv19date=\count494
-\c@@deliv19WP=\count495
-\c@@deliv19N=\count496
-\c@@deliv19D=\count497
+\c@@deliv22date=\count506
+\c@@deliv22WP=\count507
+\c@@deliv22N=\count508
+\c@@deliv22D=\count509
 pdfTeX warning (ext4): destination with the same identifier (name{@wpdeliv.3}) 
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.77       implementation.}
                            \label{dev:wp1prototype}
-\c@@deliv20date=\count498
-\c@@deliv20WP=\count499
-\c@@deliv20N=\count500
-\c@@deliv20D=\count501
+\c@@deliv23date=\count510
+\c@@deliv23WP=\count511
+\c@@deliv23N=\count512
+\c@@deliv23D=\count513
 )
 \openout4 = `proposal.mw'.
 
@@ -2035,24 +2060,24 @@ l.77       implementation.}
 
 
 (./wp-app.tex
-\c@@wp6totpm=\count502
-\c@@wp6tottk=\count503
+\c@@wp6totpm=\count514
+\c@@wp6tottk=\count515
 pdfTeX warning (ext4): destination with the same identifier (name{@wptask.1}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.43     }
           
-\c@@tk25WP=\count504
-\c@@tk25T=\count505
+\c@@tk25WP=\count516
+\c@@tk25T=\count517
 pdfTeX warning (ext4): destination with the same identifier (name{@wptask.2}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.47     }
           
-\c@@tk26WP=\count506
-\c@@tk26T=\count507
+\c@@tk26WP=\count518
+\c@@tk26T=\count519
 
 
 LaTeX Warning: Reference `task:wp1test' on page 9 undefined on input line 47.
@@ -2063,38 +2088,38 @@ as been already used, duplicate ignored
                    \relax 
 l.51     }
           
-\c@@tk27WP=\count508
-\c@@tk27T=\count509
+\c@@tk27WP=\count520
+\c@@tk27T=\count521
 pdfTeX warning (ext4): destination with the same identifier (name{@wpdeliv.1}) 
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.72       specifications.}
                            \label{dev:wp1specs}
-\c@@deliv21date=\count510
-\c@@deliv21WP=\count511
-\c@@deliv21N=\count512
-\c@@deliv21D=\count513
+\c@@deliv24date=\count522
+\c@@deliv24WP=\count523
+\c@@deliv24N=\count524
+\c@@deliv24D=\count525
 pdfTeX warning (ext4): destination with the same identifier (name{@wpdeliv.2}) 
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.75       implementation.}
                            \label{dev:wp1implementation}
-\c@@deliv22date=\count514
-\c@@deliv22WP=\count515
-\c@@deliv22N=\count516
-\c@@deliv22D=\count517
+\c@@deliv25date=\count526
+\c@@deliv25WP=\count527
+\c@@deliv25N=\count528
+\c@@deliv25D=\count529
 pdfTeX warning (ext4): destination with the same identifier (name{@wpdeliv.3}) 
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.78       implementation.}
                            \label{dev:wp1prototype}
-\c@@deliv23date=\count518
-\c@@deliv23WP=\count519
-\c@@deliv23N=\count520
-\c@@deliv23D=\count521
+\c@@deliv26date=\count530
+\c@@deliv26WP=\count531
+\c@@deliv26N=\count532
+\c@@deliv26D=\count533
 )
 \openout4 = `proposal.mw'.
 
@@ -2108,24 +2133,24 @@ l.78       implementation.}
 
 
 (./wp-mUcN.tex
-\c@@wp7totpm=\count522
-\c@@wp7tottk=\count523
+\c@@wp7totpm=\count534
+\c@@wp7tottk=\count535
 pdfTeX warning (ext4): destination with the same identifier (name{@wptask.1}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.46     }
           
-\c@@tk28WP=\count524
-\c@@tk28T=\count525
+\c@@tk28WP=\count536
+\c@@tk28T=\count537
 pdfTeX warning (ext4): destination with the same identifier (name{@wptask.2}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.50     }
           
-\c@@tk29WP=\count526
-\c@@tk29T=\count527
+\c@@tk29WP=\count538
+\c@@tk29T=\count539
 
 
 LaTeX Warning: Reference `task:wp1test' on page 10 undefined on input line 50.
@@ -2136,38 +2161,38 @@ as been already used, duplicate ignored
                    \relax 
 l.54     }
           
-\c@@tk30WP=\count528
-\c@@tk30T=\count529
+\c@@tk30WP=\count540
+\c@@tk30T=\count541
 pdfTeX warning (ext4): destination with the same identifier (name{@wpdeliv.1}) 
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.75       specifications.}
                            \label{dev:wp1specs}
-\c@@deliv24date=\count530
-\c@@deliv24WP=\count531
-\c@@deliv24N=\count532
-\c@@deliv24D=\count533
+\c@@deliv27date=\count542
+\c@@deliv27WP=\count543
+\c@@deliv27N=\count544
+\c@@deliv27D=\count545
 pdfTeX warning (ext4): destination with the same identifier (name{@wpdeliv.2}) 
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.78       implementation.}
                            \label{dev:wp1implementation}
-\c@@deliv25date=\count534
-\c@@deliv25WP=\count535
-\c@@deliv25N=\count536
-\c@@deliv25D=\count537
+\c@@deliv28date=\count546
+\c@@deliv28WP=\count547
+\c@@deliv28N=\count548
+\c@@deliv28D=\count549
 pdfTeX warning (ext4): destination with the same identifier (name{@wpdeliv.3}) 
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.81       implementation.}
                            \label{dev:wp1prototype}
-\c@@deliv26date=\count538
-\c@@deliv26WP=\count539
-\c@@deliv26N=\count540
-\c@@deliv26D=\count541
+\c@@deliv29date=\count550
+\c@@deliv29WP=\count551
+\c@@deliv29N=\count552
+\c@@deliv29D=\count553
 )
 \openout4 = `proposal.mw'.
 
@@ -2412,22 +2437,22 @@ Overfull \hbox (1.13878pt too wide) in paragraph at lines 30--30
 
 
 Overfull \hbox (1.13878pt too wide) in paragraph at lines 32--32
-[]|\OT1/pplx/m/n/10.95 WP4| 
+[]|\OT1/pplx/m/n/10.95 WP3| 
  []
 
 
 Overfull \hbox (1.13878pt too wide) in paragraph at lines 34--34
-[]|\OT1/pplx/m/n/10.95 WP5| 
+[]|\OT1/pplx/m/n/10.95 WP3| 
  []
 
 
 Overfull \hbox (1.13878pt too wide) in paragraph at lines 36--36
-[]|\OT1/pplx/m/n/10.95 WP6| 
+[]|\OT1/pplx/m/n/10.95 WP3| 
  []
 
 
 Overfull \hbox (1.13878pt too wide) in paragraph at lines 38--38
-[]|\OT1/pplx/m/n/10.95 WP7| 
+[]|\OT1/pplx/m/n/10.95 WP3| 
  []
 
 
@@ -2466,31 +2491,46 @@ Overfull \hbox (1.13878pt too wide) in paragraph at lines 48--48
 
 
 Overfull \hbox (1.13878pt too wide) in paragraph at lines 50--50
-[]|\OT1/pplx/m/n/10.95 WP3| 
- []
-
-
-Overfull \hbox (1.13878pt too wide) in paragraph at lines 52--52
 []|\OT1/pplx/m/n/10.95 WP4| 
  []
 
 
-Overfull \hbox (1.13878pt too wide) in paragraph at lines 54--54
+Overfull \hbox (1.13878pt too wide) in paragraph at lines 52--52
 []|\OT1/pplx/m/n/10.95 WP5| 
  []
 
 
-Overfull \hbox (1.13878pt too wide) in paragraph at lines 56--56
+Overfull \hbox (1.13878pt too wide) in paragraph at lines 54--54
 []|\OT1/pplx/m/n/10.95 WP6| 
  []
 
 
-Overfull \hbox (1.13878pt too wide) in paragraph at lines 58--58
+Overfull \hbox (1.13878pt too wide) in paragraph at lines 56--56
 []|\OT1/pplx/m/n/10.95 WP7| 
  []
 
 
-Overfull \hbox (2.34981pt too wide) in alignment at lines 47--60
+Overfull \hbox (1.13878pt too wide) in paragraph at lines 58--58
+[]|\OT1/pplx/m/n/10.95 WP4| 
+ []
+
+
+Overfull \hbox (1.13878pt too wide) in paragraph at lines 60--60
+[]|\OT1/pplx/m/n/10.95 WP5| 
+ []
+
+
+Overfull \hbox (1.13878pt too wide) in paragraph at lines 62--62
+[]|\OT1/pplx/m/n/10.95 WP6| 
+ []
+
+
+Overfull \hbox (1.13878pt too wide) in paragraph at lines 64--64
+[]|\OT1/pplx/m/n/10.95 WP7| 
+ []
+
+
+Overfull \hbox (2.34981pt too wide) in alignment at lines 47--66
  [] [] [] [] [] [] [] 
  []
 
@@ -2740,9 +2780,9 @@ Missing character: There is no ˜ in font pplb9t!
 Missing character: There is no â in font pplb9t!
 Missing character: There is no € in font pplb9t!
 Missing character: There is no ™ in font pplb9t!
-\c@@dctpnum1=\count542
-\c@@dcepnum1=\count543
-\c@@dcopnum1=\count544
+\c@@dctpnum1=\count554
+\c@@dcepnum1=\count555
+\c@@dcopnum1=\count556
 
 Underfull \hbox (badness 10000) in paragraph at lines 141--141
 []|\OT1/pplx/b/n/10.95 Cost
@@ -2753,7 +2793,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 141--142
 
  []
 
-\c@@lripnum1=\count545
+\c@@lripnum1=\count557
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+\openout4 = `proposal.mw'.
+
+ [13]
+(./proposal.mw)
+\openout4 = `proposal.mw'.
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 151--151
 []|\OT1/pplx/b/n/10.95 Cost
@@ -2767,7 +2816,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 151--172
 No file proposal.bbl.
 \openout4 = `proposal.mw'.
 
-[13] (./proposal.mw)
+[14] (./proposal.mw)
 \openout4 = `proposal.mw'.
 
 \openout4 = `proposal.mw'.
@@ -2781,7 +2830,7 @@ No file proposal.bbl.
  (./ethics.tex) (./appendix.tex)
 \openout4 = `proposal.mw'.
 
- [14
+ [15
 
 ] (./proposal.mw)
 \openout4 = `proposal.mw'.
@@ -2920,13 +2969,37 @@ No file proposal.bbl.
 
 \openout4 = `proposal.mw'.
 
-\c@@tmpdate=\count546
-\c@@tmpWP=\count547
-\c@@tmpN=\count548
-\c@@tmpD=\count549
-\c@@posi=\count550
-\c@@posj=\count551
-\c@@posjup=\count552
+\c@@tmpdate=\count558
+\c@@tmpWP=\count559
+\c@@tmpN=\count560
+\c@@tmpD=\count561
+\c@@posi=\count562
+\c@@posj=\count563
+\c@@posjup=\count564
+\openout4 = `proposal.mw'.
+
+\openout4 = `proposal.mw'.
+
+\openout4 = `proposal.mw'.
+
+\openout4 = `proposal.mw'.
+
+\openout4 = `proposal.mw'.
+
+\openout4 = `proposal.mw'.
+
+\openout4 = `proposal.mw'.
+
+\openout4 = `proposal.mw'.
+
+\openout4 = `proposal.mw'.
+
+\openout4 = `proposal.mw'.
+
+\openout4 = `proposal.mw'.
+
+\openout4 = `proposal.mw'.
+
 \openout4 = `proposal.mw'.
 
 \openout4 = `proposal.mw'.
@@ -3855,9 +3928,6 @@ Package rerunfilecheck Info: File `proposal.out' has not changed.
 (rerunfilecheck)             Checksum: F549B8E212C0F158BBAB1BCAFD6B6928;542.
 
 
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
-
 LaTeX Warning: There were undefined references.
 
 
@@ -3880,22 +3950,20 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 186.
 
  ) 
 Here is how much of TeX's memory you used:
- 32382 strings out of 492995
- 592084 string characters out of 6132704
- 750007 words of memory out of 5000000
- 35210 multiletter control sequences out of 15000+600000
- 46879 words of font info for 136 fonts, out of 8000000 for 9000
+ 32456 strings out of 492995
+ 593080 string characters out of 6132704
+ 753863 words of memory out of 5000000
+ 35282 multiletter control sequences out of 15000+600000
+ 46454 words of font info for 134 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,11n,65p,10407b,452s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 68i,12n,65p,10407b,452s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
-exlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/te
-xlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/tex
-live/2017/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/20
-17/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on proposal.pdf (14 pages, 195478 bytes).
+exlive/2017/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/
+2017/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb>
+Output written on proposal.pdf (15 pages, 180313 bytes).
 PDF statistics:
- 312 PDF objects out of 1000 (max. 8388607)
- 288 compressed objects within 3 object streams
- 163 named destinations out of 1000 (max. 500000)
+ 308 PDF objects out of 1000 (max. 8388607)
+ 285 compressed objects within 3 object streams
+ 166 named destinations out of 1000 (max. 500000)
  12378 words of extra memory for PDF output out of 14400 (max. 10000000)
 

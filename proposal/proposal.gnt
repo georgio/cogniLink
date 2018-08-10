@@ -16,9 +16,9 @@
 \ganttbar {T2.7}{4}{5} \\
 \ganttbar {T2.8}{5}{6} \\
 \ganttgroup {WP3}{6}{12} \\
-\ganttbar {T3.1}{1}{12} \\
-\ganttbar {T3.2}{6}{9} \\
-\ganttbar {T3.3}{9}{12} \\
+\ganttbar {T3.1}{6}{12} \\
+\ganttbar {T3.2}{6}{12} \\
+\ganttbar {T3.3}{12}{12} \\
 \ganttgroup {WP4}{1}{36} \\
 \ganttbar {T4.1}{1}{12} \\
 \ganttbar {T4.2}{6}{9} \\

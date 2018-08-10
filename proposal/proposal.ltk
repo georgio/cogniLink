@@ -35,11 +35,11 @@
 \hline
 \textbf {T2.8} & \@wp2Task8PI & 5& 6& Task 8\\
 \hline
-\textbf {T3.1} & \@wp3Task1PI & 1& 12& Test\\
+\textbf {T3.1} & \@wp3Task1PI & 6& 12& Task1\\
 \hline
-\textbf {T3.2} & \@wp3Task2PI & 6& 9& Integrate\\
+\textbf {T3.2} & \@wp3Task2PI & 6& 12& Task2\\
 \hline
-\textbf {T3.3} & \@wp3Task3PI & 9& 12& Apply\\
+\textbf {T3.3} & \@wp3Task3PI & 12& 12& Task3\\
 \hline
 \textbf {T4.1} & \@wp4Task1PI & 1& 12& Task1\\
 \hline
