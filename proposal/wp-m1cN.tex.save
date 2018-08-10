@@ -2,8 +2,8 @@
 %  Work Package Description  %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\begin{workpackage}{Universal Model, n Commands}
-  \label{wp:mUcN} %change and use appropriate 
+\begin{workpackage}{Model 1 n Commands}
+  \label{wp:m1cN} %change and use appropriate 
 description
 
   %%%%%%%%%%%%%%%%%% TOP TABLE %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -25,14 +25,11 @@ description
   % Work Package Objectives
   \begin{wpobjectives}
     This work package has the following objectives:
-    \begin{enumerate}
-      \item Implement cogniLink to identify a thought and provide a way to 
-      communicate for a person suffering from Locked-In Syndrome;
-    \item To develop an  API that gathers raw data from the Cyton board and feeds it 
-to a CSV file;
-    \item To write code needed to efficiently store and manage datasets;
-    \item To write code needed to start training Model 1 on Command A.
-    \end{enumerate}
+    \begin{enumerate*}
+    \item Link the output from the Model to the virtual HID created in WP1;
+    \item Map trigger thoughts to button presses; 
+    \item Play a game of 1P Super Mario Bros.
+    \end{enumerate*}
   \end{wpobjectives}
   
   % Work Package Description
@@ -41,20 +38,26 @@ to a CSV file;
     % Use \wptask command
     % syntax: \wptask{leader}{contributors}{start-m}{end-m}{title}{description}   
  
-    \wptask{georgio}{georgio}{1}{12}{Task1}{
-      \label{task:wp1task1}
+    Description of work carried out in WP, broken down into tasks, and
+    with role of partners list. Use the \texttt{\textbackslash wptask} command.
+
+    \wptask{UoC}{UoC}{1}{12}{Test}{
+      \label{task:wp3test}
       Here we will test the WP Task code. 
     }
-    \wptask{georgio}{georgio}{6}{9}{Task2}{
-      \label{task:wp2task2}
-      In this task UZH will integrate the work done in ~\ref{task:wp1test}.
+    \wptask{UoC}{UoC}{6}{9}{Integrate}{
+      \label{task:wp3integrate}
+      In this task UZH will integrate the work done in ~\ref{task:wp3test}.
     }    
-    \wptask{georgio}{All other}{9}{12}{Task3}{
+    \wptask{UoP3}{All other}{9}{12}{Apply}{
       Here all the WP participants will apply the results to...
-
     }
-
     
+    \paragraph{Role of partners}
+    \begin{description*}
+    \item[Participant short name] will lead Task~\ref{task:wp3integrate}.
+    \item[UoC] will..
+    \end{description*}
   \end{wpdescription}
   
   % Work Package Deliverable
@@ -72,17 +75,20 @@ to a CSV file;
     % 
     % \wpdeliverable[date]{R}{PU}{A report on \ldots}
 
-    \wpdeliverable[36]{georgio}{R}{PU}{Report on the definition of the model
-      specifications.}\label{dev:wp1specs}
+    \wpdeliverable[36]{UoC}{R}{PU}{Report on the definition of the model
+      specifications.}\label{dev:wp3specs}
     
-    \wpdeliverable[12]{georgio}{R}{PU}{Report on Feasibility study for the model
-      implementation.}\label{dev:wp1implementation}
+    \wpdeliverable[12]{UoP3}{R}{PU}{Report on Feasibility study for the model
+      implementation.}\label{dev:wp3implementation}
 
-    \wpdeliverable[24]{georgio}{R}{PU}{Prototype of model
-      implementation.}\label{dev:wp1prototype}
+    \wpdeliverable[24]{UoP2}{R}{PU}{Prototype of model
+      implementation.}\label{dev:wp3prototype}
 
   \end{wpdeliverables}
+
 \end{workpackage}
+
+
 %%% Local Variables:
 %%% mode: latex
 %%% TeX-master: "proposal-main"
