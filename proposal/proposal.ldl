@@ -39,8 +39,6 @@
 \hline
 \textbf {D3.6} & Main Report update with full progress accomplished after the end of WP3.& WP3 & georgio& R& PU& 12 \\
 \hline
-\textbf {D5.2} & Report on Feasibility study for the model implementation.& WP5 & georgio& R& PU& 12 \\
-\hline
 \textbf {D6.2} & Report on Feasibility study for the model implementation.& WP6 & georgio& R& PU& 12 \\
 \hline
 \textbf {D7.2} & Report on Feasibility study for the model implementation.& WP7 & georgio& R& PU& 12 \\
@@ -59,13 +57,13 @@
 \hline
 \textbf {D4.7} & Main Report update with full progress accomplished after the end of WP4.& WP4 & georgio& R& PU& 18 \\
 \hline
-\textbf {D5.3} & Prototype of model implementation.& WP5 & georgio& R& PU& 24 \\
+\textbf {D5.1} & Optimized code will be merged to master.& WP5 & georgio& P& PU& 20 \\
+\hline
+\textbf {D5.2} & Main Report update with full progress accomplished after the end of WP5, emphasizing on measures taken for optimizing code.& WP5 & georgio& R& PU& 20 \\
 \hline
 \textbf {D6.3} & Prototype of model implementation.& WP6 & georgio& R& PU& 24 \\
 \hline
 \textbf {D7.3} & Prototype of model implementation.& WP7 & georgio& R& PU& 24 \\
-\hline
-\textbf {D5.1} & Report on the definition of the model specifications.& WP5 & georgio& R& PU& 36 \\
 \hline
 \textbf {D6.1} & Report on the definition of the model specifications.& WP6 & georgio& R& PU& 36 \\
 \hline

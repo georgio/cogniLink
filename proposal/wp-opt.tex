@@ -7,8 +7,8 @@
 
   %%%%%%%%%%%%%%%%%% TOP TABLE %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
   % Data for the top table
-  \wpstart{1} %Starting Week
-  \wpend{36} %End Week
+  \wpstart{18} %Starting Week
+  \wpend{20} %End Week
   \wptype{Activity type} %RTD, DEM, MGT, or OTHER
 
   % Person Weeks per participant (required, max 7, * for leader)  
@@ -16,7 +16,7 @@
   %     or  \personweeks{Participant short name}{value} (not wp leader)
   %         \personweeks*{Participant number}{value}    (wp leader)
   % for example:
-  \personweeks*{georgio}{12}
+  \personweeks*{georgio}{2}
   % etc.
 
   \makewptable % Work package summary table
@@ -36,17 +36,9 @@ in realtime.
     % Use \wptask command
     % syntax: \wptask{leader}{contributors}{start-m}{end-m}{title}{description}   
  
-    \wptask{georgio}{georgio}{1}{12}{Task1}{
+    \wptask{georgio}{georgio}{18}{20}{Task1}{
       \label{task:wp1task1}
-      Here we will test the WP Task code. 
-    }
-    \wptask{georgio}{georgio}{6}{9}{Task2}{
-      \label{task:wp2task2}
-      In this task UZH will integrate the work done in ~\ref{task:wp1test}.
-    }    
-    \wptask{georgio}{All other}{9}{12}{Task3}{
-      Here all the WP participants will apply the results to...
-
+      Code optimization with the main goal of reducing latency.
     }
 
     
@@ -67,15 +59,10 @@ in realtime.
     % 
     % \wpdeliverable[date]{R}{PU}{A report on \ldots}
 
-    \wpdeliverable[36]{georgio}{R}{PU}{Report on the definition of the model
-      specifications.}\label{dev:wp1specs}
+    \wpdeliverable[20]{georgio}{P}{PU}{Optimized code will be merged to master.}\label{dev:wp5merge}
+
+    \wpdeliverable[20]{georgio}{R}{PU}{Main Report update with full progress accomplished after the end of WP5, emphasizing on measures taken for optimizing code.}\label{dev:MR0.4}
     
-    \wpdeliverable[12]{georgio}{R}{PU}{Report on Feasibility study for the model
-      implementation.}\label{dev:wp1implementation}
-
-    \wpdeliverable[24]{georgio}{R}{PU}{Prototype of model
-      implementation.}\label{dev:wp1prototype}
-
   \end{wpdeliverables}
 \end{workpackage}
 %%% Local Variables:

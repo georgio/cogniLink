@@ -24,10 +24,8 @@
 \ganttbar {T4.2}{12}{13} \\
 \ganttbar {T4.3}{18}{18} \\
 \ganttbar {T4.4}{18}{18} \\
-\ganttgroup {WP5}{1}{36} \\
-\ganttbar {T5.1}{1}{12} \\
-\ganttbar {T5.2}{6}{9} \\
-\ganttbar {T5.3}{9}{12} \\
+\ganttgroup {WP5}{18}{20} \\
+\ganttbar {T5.1}{18}{20} \\
 \ganttgroup {WP6}{1}{36} \\
 \ganttbar {T6.1}{1}{12} \\
 \ganttbar {T6.2}{6}{9} \\

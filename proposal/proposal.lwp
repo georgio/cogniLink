@@ -3,7 +3,7 @@
 \hline
 {\textbf {Work package number}} & {\textbf {Work package title}} & {\textbf {Lead participant no.}} & {\textbf {Lead participant name}} & {\textbf {Person-weeks}} & {\textbf {Start week}} & {\textbf {End week}} \endfirsthead
  \hline \multicolumn {7}{|r|}{Continued on next page} \\ \hline \endfoot
-\cellcolor [gray]{0.8} & \multicolumn {2}{|c|}{\textbf {TOTAL}} & \cellcolor [gray]{0.8} & {54} & \cellcolor [gray]{0.8} & \cellcolor [gray]{0.8} \\ \hline \endlastfoot
+\cellcolor [gray]{0.8} & \multicolumn {2}{|c|}{\textbf {TOTAL}} & \cellcolor [gray]{0.8} & {44} & \cellcolor [gray]{0.8} & \cellcolor [gray]{0.8} \\ \hline \endlastfoot
 \hline
 \textbf {WP1} & Virtual HID, Data Collection, and ML Code& 1& georgio& 2 & 1& 2\\
 \hline
@@ -13,7 +13,7 @@
 \hline
 \textbf {WP4} & Model 2 n Commands& 1& georgio& 6 & 12& 18\\
 \hline
-\textbf {WP5} & Optimizations& 1& georgio& 12 & 1& 36\\
+\textbf {WP5} & Optimizations& 1& georgio& 2 & 18& 20\\
 \hline
 \textbf {WP6} & Real Life Application& 1& georgio& 12 & 1& 36\\
 \hline

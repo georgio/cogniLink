@@ -49,11 +49,7 @@
 \hline
 \textbf {T4.4} & \@wp4Task4PI & 18& 18& Task4\\
 \hline
-\textbf {T5.1} & \@wp5Task1PI & 1& 12& Task1\\
-\hline
-\textbf {T5.2} & \@wp5Task2PI & 6& 9& Task2\\
-\hline
-\textbf {T5.3} & \@wp5Task3PI & 9& 12& Task3\\
+\textbf {T5.1} & \@wp5Task1PI & 18& 20& Task1\\
 \hline
 \textbf {T6.1} & \@wp6Task1PI & 1& 12& Task1\\
 \hline
