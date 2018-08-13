@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  13 AUG 2018 16:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  13 AUG 2018 17:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -650,6 +650,73 @@ File: babel.def 2017/05/19 3.10 Babel common definitions
 \l@australian = a dialect from \language\l@british 
 \l@newzealand = a dialect from \language\l@british 
 ))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/spreadtab/spreadtab.sty
+Package: spreadtab 2014/11/03 v0.4c Spreadsheet features for table environments
+
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/fp/fp.sty
+Package: fp 1995/04/02
+
+`Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
+(/usr/local/texlive/2017/texmf-dist/tex/latex/fp/defpattern.sty
+Package: defpattern 1994/10/12
+\actioncount=\count297
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/fp/fp-basic.sty
+Package: fp-basic 1996/05/13
+\FP@xs=\count298
+\FP@xia=\count299
+\FP@xib=\count300
+\FP@xfa=\count301
+\FP@xfb=\count302
+\FP@rega=\count303
+\FP@regb=\count304
+\FP@regs=\count305
+\FP@times=\count306
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/fp/fp-addons.sty
+Package: fp-addons 1995/03/15
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/fp/fp-snap.sty
+Package: fp-snap 1995/04/05
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/fp/fp-exp.sty
+Package: fp-exp 1995/04/03
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/fp/fp-trigo.sty
+Package: fp-trigo 1995/04/14
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/fp/fp-pas.sty
+Package: fp-pas 1994/08/29
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/fp/fp-random.sty
+Package: fp-random 1995/02/23
+\FPseed=\count307
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/fp/fp-eqn.sty
+Package: fp-eqn 1995/04/03
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/fp/fp-upn.sty
+Package: fp-upn 1996/10/21
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/fp/fp-eval.sty
+Package: fp-eval 1995/04/03
+))
+(/usr/local/texlive/2017/texmf-dist/tex/generic/xstring/xstring.sty
+(/usr/local/texlive/2017/texmf-dist/tex/generic/xstring/xstring.tex
+\@xs@message=\write19
+\integerpart=\count308
+\decimalpart=\count309
+)
+Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
+)
+\ST@count=\count310
+\ST@colcount=\count311
+\ST@colcount@i=\count312
+\ST@rowcount=\count313
+\ST@rowcount@i=\count314
+\ST@intpart=\count315
+)
 (/usr/local/texlive/2017/texmf-dist/tex/latex/soul/soul.sty
 Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
 \SOUL@word=\toks29
@@ -672,7 +739,7 @@ Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
 )
 (/usr/local/texlive/2017/texmf-dist/tex/latex/apacite/apacite.sty
 Package: apacite 2013/07/21 v6.03 APA citation
-\c@BibCnt=\count297
+\c@BibCnt=\count316
 \bibleftmargin=\skip261
 \bibindent=\skip262
 \bibparsep=\skip263
@@ -743,12 +810,12 @@ ode.tex
 \pgf@yb=\dimen262
 \pgf@xc=\dimen263
 \pgf@yc=\dimen264
-\w@pgf@writea=\write19
+\w@pgf@writea=\write20
 \r@pgf@reada=\read3
-\c@pgf@counta=\count298
-\c@pgf@countb=\count299
-\c@pgf@countc=\count300
-\c@pgf@countd=\count301
+\c@pgf@counta=\count317
+\c@pgf@countb=\count318
+\c@pgf@countc=\count319
+\c@pgf@countd=\count320
 \t@pgf@toka=\toks39
 \t@pgf@tokb=\toks40
 \t@pgf@tokc=\toks41
@@ -769,8 +836,8 @@ File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
 (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
 code.tex
 File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
-\pgfsyssoftpath@smallbuffer@items=\count302
-\pgfsyssoftpath@bigbuffer@items=\count303
+\pgfsyssoftpath@smallbuffer@items=\count321
+\pgfsyssoftpath@bigbuffer@items=\count322
 )
 (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
 code.tex
@@ -800,7 +867,7 @@ Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
 (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
 (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
 \pgfmath@dimen=\dimen265
-\pgfmath@count=\count304
+\pgfmath@count=\count323
 \pgfmath@box=\box53
 \pgfmath@toks=\toks42
 \pgfmath@stack@operand=\toks43
@@ -825,7 +892,7 @@ code.tex)
 (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
 erarithmetics.code.tex)))
 (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count305
+\c@pgfmathroundto@lastzeros=\count324
 ))
 (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
 de.tex
@@ -863,7 +930,7 @@ File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
 \pgfpic=\box54
 \pgf@hbox=\box55
 \pgf@layerbox@main=\box56
-\pgf@picture@serial@count=\count306
+\pgf@picture@serial@count=\count325
 )
 (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
 ate.code.tex
@@ -898,7 +965,7 @@ File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
 e.tex
 File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
 \pgf@max=\dimen289
-\pgf@sys@shading@range@num=\count307
+\pgf@sys@shading@range@num=\count326
 )
 (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
 e.tex
@@ -961,7 +1028,7 @@ Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
 (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
 dlers.code.tex
 File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
-\pgf@plot@mark@count=\count308
+\pgf@plot@mark@count=\count327
 \pgfplotmarksize=\dimen294
 )
 \tikz@lastx=\dimen295
@@ -974,19 +1041,19 @@ File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
 \tikz@figbox@bg=\box60
 \tikz@tempbox=\box61
 \tikz@tempbox@bg=\box62
-\tikztreelevel=\count309
-\tikznumberofchildren=\count310
-\tikznumberofcurrentchild=\count311
-\tikz@fig@count=\count312
+\tikztreelevel=\count328
+\tikznumberofchildren=\count329
+\tikznumberofcurrentchild=\count330
+\tikz@fig@count=\count331
 
 (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
 e.tex
 File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
-\pgfmatrixcurrentrow=\count313
-\pgfmatrixcurrentcolumn=\count314
-\pgf@matrix@numberofcolumns=\count315
+\pgfmatrixcurrentrow=\count332
+\pgfmatrixcurrentcolumn=\count333
+\pgf@matrix@numberofcolumns=\count334
 )
-\tikz@expandcount=\count316
+\tikz@expandcount=\count335
 
 (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
 s/tikzlibrarytopaths.code.tex
@@ -1037,33 +1104,33 @@ File: pgflibraryshapes.geometric.code.tex 2008/06/26 v3.0.1a (rcs-revision 1.1)
 (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfcalendar.code.
 tex
 File: pgfcalendar.code.tex 2007/07/23 v3.0.1a (rcs-revision 1.11)
-\pgfcalendarcurrentjulian=\count317
+\pgfcalendarcurrentjulian=\count336
 ))
-\gtt@currentline=\count318
-\gtt@lasttitleline=\count319
-\gtt@currgrid=\count320
-\gtt@chartwidth=\count321
-\gtt@lasttitleslot=\count322
-\gtt@elementid=\count323
-\gtt@today@slot=\count324
-\gtt@startjulian=\count325
-\gtt@endjulian=\count326
-\gtt@calendar@slots=\count327
-\gtt@calendar@weeknumber=\count328
-\gtt@calendar@startofweek=\count329
-\gtt@left@slot=\count330
-\gtt@right@slot=\count331
+\gtt@currentline=\count337
+\gtt@lasttitleline=\count338
+\gtt@currgrid=\count339
+\gtt@chartwidth=\count340
+\gtt@lasttitleslot=\count341
+\gtt@elementid=\count342
+\gtt@today@slot=\count343
+\gtt@startjulian=\count344
+\gtt@endjulian=\count345
+\gtt@calendar@slots=\count346
+\gtt@calendar@weeknumber=\count347
+\gtt@calendar@startofweek=\count348
+\gtt@left@slot=\count349
+\gtt@right@slot=\count350
 ) (/usr/local/texlive/2017/texmf-dist/tex/latex/pdfcprot/pdfcprot.sty
 Package: pdfcprot 2002/02/27 v1.5 character protruding using pdflatex (cs)
-\c@CPROT@family=\count332
-\c@CPROT@family@temp=\count333
-\c@CPROT@series=\count334
-\c@CPROT@series@temp=\count335
-\c@CPROT@shape=\count336
-\c@CPROT@shape@temp=\count337
-\c@CPROT@size=\count338
-\c@CPROT@size@temp=\count339
-\c@CPROT@temp@chars=\count340
+\c@CPROT@family=\count351
+\c@CPROT@family@temp=\count352
+\c@CPROT@series=\count353
+\c@CPROT@series@temp=\count354
+\c@CPROT@shape=\count355
+\c@CPROT@shape@temp=\count356
+\c@CPROT@size=\count357
+\c@CPROT@size@temp=\count358
+\c@CPROT@temp@chars=\count359
 Package pdfcprot Info: You've requested char protruding for TS1 encoding
 (pdfcprot)             but TS1 encoding doesn't seem to be loaded.
 (pdfcprot)             Maybe you forgot a '\usepackage{textcomp}'. on input lin
@@ -1091,7 +1158,7 @@ Package: natbib 2010/09/13 8.31b (PWD, AO)
 LaTeX Info: Redefining \cite on input line 694.
 LaTeX Info: Redefining \citeauthor on input line 712.
 LaTeX Info: Redefining \citeyear on input line 735.
-\c@NAT@ctr=\count341
+\c@NAT@ctr=\count360
 )
 (/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2017/03/14 v6.85a Hypertext links for LaTeX
@@ -1146,13 +1213,13 @@ Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
 \@linkdim=\dimen302
-\Hy@linkcounter=\count342
-\Hy@pagecounter=\count343
+\Hy@linkcounter=\count361
+\Hy@pagecounter=\count362
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2017/03/14 v6.85a Hyperref: PDFDocEncoding definition (HO)
 )
-\Hy@SavedSpaceFactor=\count344
+\Hy@SavedSpaceFactor=\count363
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
@@ -1175,10 +1242,10 @@ Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 ))
-\c@Hy@tempcnt=\count345
+\c@Hy@tempcnt=\count364
 LaTeX Info: Redefining \url on input line 5104.
 \XeTeXLinkMargin=\dimen303
-\Fld@menulength=\count346
+\Fld@menulength=\count365
 \Field@Width=\dimen304
 \Fld@charsize=\dimen305
 Package hyperref Info: Hyper figures OFF on input line 6358.
@@ -1190,28 +1257,28 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6383.
 Package hyperref Info: PDF/A mode OFF on input line 6388.
 LaTeX Info: Redefining \ref on input line 6428.
 LaTeX Info: Redefining \pageref on input line 6432.
-\Hy@abspage=\count347
-\c@Item=\count348
-\c@Hfootnote=\count349
+\Hy@abspage=\count366
+\c@Item=\count367
+\c@Hfootnote=\count368
 )
 (/usr/local/texlive/2017/texmf-dist/tex/latex/memoir/memhfixc.sty
 Package: memhfixc 2013/05/30 v1.17 nameref/hyperref package fixes for memoir cl
 ass
-\c@memhycontfloat=\count350
-\c@Hpagenote=\count351
+\c@memhycontfloat=\count369
+\c@Hpagenote=\count370
 )
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2017/03/14 v6.85a Hyperref driver for pdfTeX
-\Fld@listcount=\count352
-\c@bookmark@seq@number=\count353
+\Fld@listcount=\count371
+\c@bookmark@seq@number=\count372
 \Hy@SectionHShift=\skip268
 )
-Package hyperref Info: Option `hypertexnames' set `true' on input line 105.
-\c@@p1totpm=\count354
-\c@@pGeorgionum=\count355
+Package hyperref Info: Option `hypertexnames' set `true' on input line 106.
+\c@@p1totpm=\count373
+\c@@pGeorgionum=\count374
 
 (./proposal.aux (./wp-m1cA.aux
 
@@ -1231,21 +1298,21 @@ LaTeX Warning: Label `dev:MR0.4' multiply defined.
 ) (./wp-app.aux) (./wp-mUcN.aux))
 \openout1 = `proposal.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 156.
-LaTeX Font Info:    ... okay on input line 156.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 156.
-LaTeX Font Info:    ... okay on input line 156.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 156.
-LaTeX Font Info:    ... okay on input line 156.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 156.
-LaTeX Font Info:    ... okay on input line 156.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 156.
-LaTeX Font Info:    ... okay on input line 156.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 156.
-LaTeX Font Info:    ... okay on input line 156.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 156.
-LaTeX Font Info:    ... okay on input line 156.
-LaTeX Font Info:    Try loading font information for OT1+pplx on input line 156
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 157.
+LaTeX Font Info:    ... okay on input line 157.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 157.
+LaTeX Font Info:    ... okay on input line 157.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 157.
+LaTeX Font Info:    ... okay on input line 157.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 157.
+LaTeX Font Info:    ... okay on input line 157.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 157.
+LaTeX Font Info:    ... okay on input line 157.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 157.
+LaTeX Font Info:    ... okay on input line 157.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 157.
+LaTeX Font Info:    ... okay on input line 157.
+LaTeX Font Info:    Try loading font information for OT1+pplx on input line 157
 .
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/ot1pplx.fd
@@ -1253,16 +1320,16 @@ File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
 )
 (/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count356
+\scratchcounter=\count375
 \scratchdimen=\dimen306
 \scratchbox=\box65
-\nofMPsegments=\count357
-\nofMParguments=\count358
+\nofMPsegments=\count376
+\nofMParguments=\count377
 \everyMPshowfont=\toks47
-\MPscratchCnt=\count359
+\MPscratchCnt=\count378
 \MPscratchDim=\dimen307
-\MPnumerator=\count360
-\makeMPintoPDFobject=\count361
+\MPnumerator=\count379
+\makeMPintoPDFobject=\count380
 \everyMPtoPDFconversion=\toks48
 ) (/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
@@ -1280,7 +1347,7 @@ Package grfext Info: Graphics extension search list:
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-\c@maskedRefs=\count362
+\c@maskedRefs=\count381
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/apacite/english.apc
 File: english.apc 2013/07/21 v6.03 apacite language file
@@ -1289,262 +1356,262 @@ LaTeX Info: Redefining \BHBI on input line 130.
 )
 ABD: EveryShipout initializing macros
 LaTeX Font Info:    Font shape `OT1/pplx/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/pplx/b/n' tried instead on input line 156.
+(Font)              Font shape `OT1/pplx/b/n' tried instead on input line 157.
 LaTeX Font Info:    Font shape `OT1/pplx/bx/n' in size <12> not available
-(Font)              Font shape `OT1/pplx/b/n' tried instead on input line 156.
+(Font)              Font shape `OT1/pplx/b/n' tried instead on input line 157.
 Package pdfcprot Info: I didn't find pplxbxnOT1.cpa.
 (pdfcprot)              As a fallback I will try pplmnOT1.cpa. on input line 15
-6.
+7.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/pdfcprot/pplmnOT1.cpa)
 Package pdfcprot Info: File pplmnOT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 156.
+(pdfcprot)             you intended to use. on input line 157.
 Package pdfcprot Info: I didn't find pplxbxnOT1.cpa.
 (pdfcprot)              As a fallback I will try pplmnOT1.cpa. on input line 15
-6.
+7.
 Package pdfcprot Info: File pplmnOT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 156.
+(pdfcprot)             you intended to use. on input line 157.
 LaTeX Font Info:    Font shape `OT1/pplx/bx/n' in size <10> not available
-(Font)              Font shape `OT1/pplx/b/n' tried instead on input line 156.
+(Font)              Font shape `OT1/pplx/b/n' tried instead on input line 157.
 Package pdfcprot Info: I didn't find pplxbxnOT1.cpa.
 (pdfcprot)              As a fallback I will try pplmnOT1.cpa. on input line 15
-6.
+7.
 Package pdfcprot Info: File pplmnOT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 156.
+(pdfcprot)             you intended to use. on input line 157.
 LaTeX Font Info:    Font shape `OT1/pplx/bx/n' in size <9> not available
-(Font)              Font shape `OT1/pplx/b/n' tried instead on input line 156.
+(Font)              Font shape `OT1/pplx/b/n' tried instead on input line 157.
 Package pdfcprot Info: I didn't find pplxbxnOT1.cpa.
 (pdfcprot)              As a fallback I will try pplmnOT1.cpa. on input line 15
-6.
+7.
 Package pdfcprot Info: File pplmnOT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 156.
+(pdfcprot)             you intended to use. on input line 157.
 Package pdfcprot Info: I didn't find cmssbxnOT1.cpa.
 (pdfcprot)              As a fallback I will try pplmnOT1.cpa. on input line 15
-6.
+7.
 Package pdfcprot Info: File pplmnOT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 156.
+(pdfcprot)             you intended to use. on input line 157.
 Package pdfcprot Info: I didn't find cmssbxnOT1.cpa.
 (pdfcprot)              As a fallback I will try pplmnOT1.cpa. on input line 15
-6.
+7.
 Package pdfcprot Info: File pplmnOT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 156.
+(pdfcprot)             you intended to use. on input line 157.
 Package pdfcprot Info: I didn't find cmssbxnOT1.cpa.
 (pdfcprot)              As a fallback I will try pplmnOT1.cpa. on input line 15
-6.
+7.
 Package pdfcprot Info: File pplmnOT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 156.
+(pdfcprot)             you intended to use. on input line 157.
 Package pdfcprot Info: I didn't find cmssbxnOT1.cpa.
 (pdfcprot)              As a fallback I will try pplmnOT1.cpa. on input line 15
-6.
+7.
 Package pdfcprot Info: File pplmnOT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 156.
+(pdfcprot)             you intended to use. on input line 157.
 Package pdfcprot Info: I didn't find pplxmnOT1.cpa.
 (pdfcprot)              As a fallback I will try pplmnOT1.cpa. on input line 15
-6.
+7.
 Package pdfcprot Info: File pplmnOT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 156.
+(pdfcprot)             you intended to use. on input line 157.
 Package pdfcprot Info: I didn't find pplxmnOT1.cpa.
 (pdfcprot)              As a fallback I will try pplmnOT1.cpa. on input line 15
-6.
+7.
 Package pdfcprot Info: File pplmnOT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 156.
+(pdfcprot)             you intended to use. on input line 157.
 Package pdfcprot Info: I didn't find pplxmnOT1.cpa.
 (pdfcprot)              As a fallback I will try pplmnOT1.cpa. on input line 15
-6.
+7.
 Package pdfcprot Info: File pplmnOT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 156.
+(pdfcprot)             you intended to use. on input line 157.
 Package pdfcprot Info: I didn't find pplxmnOT1.cpa.
 (pdfcprot)              As a fallback I will try pplmnOT1.cpa. on input line 15
-6.
+7.
 Package pdfcprot Info: File pplmnOT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 156.
+(pdfcprot)             you intended to use. on input line 157.
 Package pdfcprot Info: I didn't find pplxmitOT1.cpa.
 (pdfcprot)              As a fallback I will try pplmnOT1.cpa. on input line 15
-6.
+7.
 Package pdfcprot Info: File pplmnOT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 156.
+(pdfcprot)             you intended to use. on input line 157.
 Package pdfcprot Info: I didn't find pplxmitOT1.cpa.
 (pdfcprot)              As a fallback I will try pplmnOT1.cpa. on input line 15
-6.
+7.
 Package pdfcprot Info: File pplmnOT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 156.
+(pdfcprot)             you intended to use. on input line 157.
 Package pdfcprot Info: I didn't find pplxmitOT1.cpa.
 (pdfcprot)              As a fallback I will try pplmnOT1.cpa. on input line 15
-6.
+7.
 Package pdfcprot Info: File pplmnOT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 156.
+(pdfcprot)             you intended to use. on input line 157.
 Package pdfcprot Info: I didn't find pplxmitOT1.cpa.
 (pdfcprot)              As a fallback I will try pplmnOT1.cpa. on input line 15
-6.
+7.
 Package pdfcprot Info: File pplmnOT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 156.
+(pdfcprot)             you intended to use. on input line 157.
 Package pdfcprot Info: I didn't find cmssmnOT1.cpa.
 (pdfcprot)              As a fallback I will try pplmnOT1.cpa. on input line 15
-6.
+7.
 Package pdfcprot Info: File pplmnOT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 156.
+(pdfcprot)             you intended to use. on input line 157.
 Package pdfcprot Info: I didn't find cmssmnOT1.cpa.
 (pdfcprot)              As a fallback I will try pplmnOT1.cpa. on input line 15
-6.
+7.
 Package pdfcprot Info: File pplmnOT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 156.
+(pdfcprot)             you intended to use. on input line 157.
 Package pdfcprot Info: I didn't find cmssmnOT1.cpa.
 (pdfcprot)              As a fallback I will try pplmnOT1.cpa. on input line 15
-6.
+7.
 Package pdfcprot Info: File pplmnOT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 156.
+(pdfcprot)             you intended to use. on input line 157.
 Package pdfcprot Info: I didn't find cmssmnOT1.cpa.
 (pdfcprot)              As a fallback I will try pplmnOT1.cpa. on input line 15
-6.
+7.
 Package pdfcprot Info: File pplmnOT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 156.
+(pdfcprot)             you intended to use. on input line 157.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/it' in size <9> not available
-(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 156.
+(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 157.
 
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/it' in size <12> not available
-(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 156.
+(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 157.
 
 
 Package pdfcprot Info: I didn't find cmssmitOT1.cpa.
 (pdfcprot)              As a fallback I will try pplmnOT1.cpa. on input line 15
-6.
+7.
 Package pdfcprot Info: File pplmnOT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 156.
+(pdfcprot)             you intended to use. on input line 157.
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/it' in size <10.95> not available
-(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 156.
+(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 157.
 
 
 Package pdfcprot Info: I didn't find cmssmitOT1.cpa.
 (pdfcprot)              As a fallback I will try pplmnOT1.cpa. on input line 15
-6.
+7.
 Package pdfcprot Info: File pplmnOT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 156.
+(pdfcprot)             you intended to use. on input line 157.
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/it' in size <10> not available
-(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 156.
+(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 157.
 
 
 Package pdfcprot Info: I didn't find cmssmitOT1.cpa.
 (pdfcprot)              As a fallback I will try pplmnOT1.cpa. on input line 15
-6.
+7.
 Package pdfcprot Info: File pplmnOT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 156.
+(pdfcprot)             you intended to use. on input line 157.
 Package pdfcprot Info: I didn't find cmssmitOT1.cpa.
 (pdfcprot)              As a fallback I will try pplmnOT1.cpa. on input line 15
-6.
+7.
 Package pdfcprot Info: File pplmnOT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 156.
+(pdfcprot)             you intended to use. on input line 157.
 Package pdfcprot Info: I didn't find cmssmslOT1.cpa.
 (pdfcprot)              As a fallback I will try pplmnOT1.cpa. on input line 15
-6.
+7.
 Package pdfcprot Info: File pplmnOT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 156.
+(pdfcprot)             you intended to use. on input line 157.
 Package pdfcprot Info: I didn't find cmssmslOT1.cpa.
 (pdfcprot)              As a fallback I will try pplmnOT1.cpa. on input line 15
-6.
+7.
 Package pdfcprot Info: File pplmnOT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 156.
+(pdfcprot)             you intended to use. on input line 157.
 Package pdfcprot Info: I didn't find cmssmslOT1.cpa.
 (pdfcprot)              As a fallback I will try pplmnOT1.cpa. on input line 15
-6.
+7.
 Package pdfcprot Info: File pplmnOT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 156.
+(pdfcprot)             you intended to use. on input line 157.
 Package pdfcprot Info: I didn't find cmssmslOT1.cpa.
 (pdfcprot)              As a fallback I will try pplmnOT1.cpa. on input line 15
-6.
+7.
 Package pdfcprot Info: File pplmnOT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 156.
+(pdfcprot)             you intended to use. on input line 157.
 \AtBeginShipoutBox=\box66
-Package backref Info: ** backref set up for natbib ** on input line 156.
-Package hyperref Info: Link coloring ON on input line 156.
+Package backref Info: ** backref set up for natbib ** on input line 157.
+Package hyperref Info: Link coloring ON on input line 157.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
 (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count363
+\c@section@level=\count382
 )
 Redoing nameref's sectioning
 Redoing nameref's label
-LaTeX Info: Redefining \nameref on input line 156.
-LaTeX Info: Redefining \ref on input line 156.
-LaTeX Info: Redefining \pageref on input line 156.
-LaTeX Info: Redefining \nameref on input line 156.
+LaTeX Info: Redefining \nameref on input line 157.
+LaTeX Info: Redefining \ref on input line 157.
+LaTeX Info: Redefining \pageref on input line 157.
+LaTeX Info: Redefining \nameref on input line 157.
 (./proposal.out) (./proposal.out)
-\@outlinefile=\write20
+\@outlinefile=\write21
 \openout4 = `proposal.out'.
 
-LaTeX Font Info:    Try loading font information for OML+zplm on input line 159
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 160
 .
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMS+zplm on input line 159
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 160
 .
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMX+zplm on input line 159
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 160
 .
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 18.00587pt on input line 159.
+(Font)              scaled to size 18.00587pt on input line 160.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 12.50409pt on input line 159.
+(Font)              scaled to size 12.50409pt on input line 160.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 10.42007pt on input line 159.
+(Font)              scaled to size 10.42007pt on input line 160.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 18.00587pt on input line 159.
+(Font)              scaled to size 18.00587pt on input line 160.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 12.50409pt on input line 159.
+(Font)              scaled to size 12.50409pt on input line 160.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 10.42007pt on input line 159.
-LaTeX Font Info:    Try loading font information for OT1+zplm on input line 159
+(Font)              scaled to size 10.42007pt on input line 160.
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 160
 .
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
-LaTeX Font Info:    Try loading font information for U+rsfs on input line 159.
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 160.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
@@ -1580,8 +1647,8 @@ File: diagram.jpg Graphic file (type jpg)
 Package pdftex.def Info: diagram.jpg used on input line 7.
 (pdftex.def)             Requested size: 490.0pt x 214.98785pt.
  (./wp-data.tex
-\c@@wp1totpm=\count364
-\c@@wp1tottk=\count365
+\c@@wp1totpm=\count383
+\c@@wp1tottk=\count384
 \openout4 = `proposal.mw'.
 
  [2 <./diagram.jpg>] (./proposal.mw)
@@ -1599,36 +1666,36 @@ Package pdftex.def Info: diagram.jpg used on input line 7.
 
 \openout4 = `proposal.mw'.
 
-\c@@tk1WP=\count366
-\c@@tk1T=\count367
-\c@@tk2WP=\count368
-\c@@tk2T=\count369
-\c@@tk3WP=\count370
-\c@@tk3T=\count371
-\c@@tk4WP=\count372
-\c@@tk4T=\count373
-\c@@tk5WP=\count374
-\c@@tk5T=\count375
-\c@@tk6WP=\count376
-\c@@tk6T=\count377
-\c@@tk7WP=\count378
-\c@@tk7T=\count379
-\c@@deliv1date=\count380
-\c@@deliv1WP=\count381
-\c@@deliv1N=\count382
-\c@@deliv1D=\count383
-\c@@deliv2date=\count384
-\c@@deliv2WP=\count385
-\c@@deliv2N=\count386
-\c@@deliv2D=\count387
-\c@@deliv3date=\count388
-\c@@deliv3WP=\count389
-\c@@deliv3N=\count390
-\c@@deliv3D=\count391
-\c@@deliv4date=\count392
-\c@@deliv4WP=\count393
-\c@@deliv4N=\count394
-\c@@deliv4D=\count395
+\c@@tk1WP=\count385
+\c@@tk1T=\count386
+\c@@tk2WP=\count387
+\c@@tk2T=\count388
+\c@@tk3WP=\count389
+\c@@tk3T=\count390
+\c@@tk4WP=\count391
+\c@@tk4T=\count392
+\c@@tk5WP=\count393
+\c@@tk5T=\count394
+\c@@tk6WP=\count395
+\c@@tk6T=\count396
+\c@@tk7WP=\count397
+\c@@tk7T=\count398
+\c@@deliv1date=\count399
+\c@@deliv1WP=\count400
+\c@@deliv1N=\count401
+\c@@deliv1D=\count402
+\c@@deliv2date=\count403
+\c@@deliv2WP=\count404
+\c@@deliv2N=\count405
+\c@@deliv2D=\count406
+\c@@deliv3date=\count407
+\c@@deliv3WP=\count408
+\c@@deliv3N=\count409
+\c@@deliv3D=\count410
+\c@@deliv4date=\count411
+\c@@deliv4WP=\count412
+\c@@deliv4N=\count413
+\c@@deliv4D=\count414
 )
 \openout4 = `proposal.mw'.
 
@@ -1639,118 +1706,118 @@ Package pdftex.def Info: diagram.jpg used on input line 7.
 \openout2 = `wp-m1cA.aux'.
 
  (./wp-m1cA.tex
-\c@@wp2totpm=\count396
-\c@@wp2tottk=\count397
+\c@@wp2totpm=\count415
+\c@@wp2tottk=\count416
 pdfTeX warning (ext4): destination with the same identifier (name{@wptask.1}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.42     }
           
-\c@@tk8WP=\count398
-\c@@tk8T=\count399
+\c@@tk8WP=\count417
+\c@@tk8T=\count418
 pdfTeX warning (ext4): destination with the same identifier (name{@wptask.2}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.46     }
           
-\c@@tk9WP=\count400
-\c@@tk9T=\count401
+\c@@tk9WP=\count419
+\c@@tk9T=\count420
 pdfTeX warning (ext4): destination with the same identifier (name{@wptask.3}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.50     }
           
-\c@@tk10WP=\count402
-\c@@tk10T=\count403
+\c@@tk10WP=\count421
+\c@@tk10T=\count422
 pdfTeX warning (ext4): destination with the same identifier (name{@wptask.4}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.54       }
             
-\c@@tk11WP=\count404
-\c@@tk11T=\count405
+\c@@tk11WP=\count423
+\c@@tk11T=\count424
 pdfTeX warning (ext4): destination with the same identifier (name{@wptask.5}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.58       }
             
-\c@@tk12WP=\count406
-\c@@tk12T=\count407
+\c@@tk12WP=\count425
+\c@@tk12T=\count426
 pdfTeX warning (ext4): destination with the same identifier (name{@wptask.6}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.62       }
             
-\c@@tk13WP=\count408
-\c@@tk13T=\count409
+\c@@tk13WP=\count427
+\c@@tk13T=\count428
 pdfTeX warning (ext4): destination with the same identifier (name{@wptask.7}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.66         }
               
-\c@@tk14WP=\count410
-\c@@tk14T=\count411
-\c@@tk15WP=\count412
-\c@@tk15T=\count413
+\c@@tk14WP=\count429
+\c@@tk14T=\count430
+\c@@tk15WP=\count431
+\c@@tk15T=\count432
 pdfTeX warning (ext4): destination with the same identifier (name{@wpdeliv.1}) 
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.89 ...nitiation of the first round of training.}
                                                   \label{dev:wp2r1}
-\c@@deliv5date=\count414
-\c@@deliv5WP=\count415
-\c@@deliv5N=\count416
-\c@@deliv5D=\count417
+\c@@deliv5date=\count433
+\c@@deliv5WP=\count434
+\c@@deliv5N=\count435
+\c@@deliv5D=\count436
 pdfTeX warning (ext4): destination with the same identifier (name{@wpdeliv.2}) 
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.90 ...gio}{P}{PU}{First iteration of the model.}
                                                   \label{dev:wp2m0.1}
-\c@@deliv6date=\count418
-\c@@deliv6WP=\count419
-\c@@deliv6N=\count420
-\c@@deliv6D=\count421
+\c@@deliv6date=\count437
+\c@@deliv6WP=\count438
+\c@@deliv6N=\count439
+\c@@deliv6D=\count440
 pdfTeX warning (ext4): destination with the same identifier (name{@wpdeliv.3}) 
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.91 ...ing initial test and validation datasets.}
                                                   \label{dev:wp2r2}
-\c@@deliv7date=\count422
-\c@@deliv7WP=\count423
-\c@@deliv7N=\count424
-\c@@deliv7D=\count425
+\c@@deliv7date=\count441
+\c@@deliv7WP=\count442
+\c@@deliv7N=\count443
+\c@@deliv7D=\count444
 pdfTeX warning (ext4): destination with the same identifier (name{@wpdeliv.4}) 
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.92 ...cy for each patch/iteration of the model.}
                                                   \label{dev:wp2r3}
-\c@@deliv8date=\count426
-\c@@deliv8WP=\count427
-\c@@deliv8N=\count428
-\c@@deliv8D=\count429
-\c@@deliv9date=\count430
-\c@@deliv9WP=\count431
-\c@@deliv9N=\count432
-\c@@deliv9D=\count433
-\c@@deliv10date=\count434
-\c@@deliv10WP=\count435
-\c@@deliv10N=\count436
-\c@@deliv10D=\count437
-\c@@deliv11date=\count438
-\c@@deliv11WP=\count439
-\c@@deliv11N=\count440
-\c@@deliv11D=\count441
+\c@@deliv8date=\count445
+\c@@deliv8WP=\count446
+\c@@deliv8N=\count447
+\c@@deliv8D=\count448
+\c@@deliv9date=\count449
+\c@@deliv9WP=\count450
+\c@@deliv9N=\count451
+\c@@deliv9D=\count452
+\c@@deliv10date=\count453
+\c@@deliv10WP=\count454
+\c@@deliv10N=\count455
+\c@@deliv10D=\count456
+\c@@deliv11date=\count457
+\c@@deliv11WP=\count458
+\c@@deliv11N=\count459
+\c@@deliv11D=\count460
 \openout4 = `proposal.mw'.
 
  [4
@@ -1768,92 +1835,92 @@ l.92 ...cy for each patch/iteration of the model.}
 \openout2 = `wp-m1cN.aux'.
 
  (./wp-m1cN.tex
-\c@@wp3totpm=\count442
-\c@@wp3tottk=\count443
+\c@@wp3totpm=\count461
+\c@@wp3tottk=\count462
 pdfTeX warning (ext4): destination with the same identifier (name{@wptask.1}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.42     }
           
-\c@@tk16WP=\count444
-\c@@tk16T=\count445
+\c@@tk16WP=\count463
+\c@@tk16T=\count464
 pdfTeX warning (ext4): destination with the same identifier (name{@wptask.2}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.46     }
           
-\c@@tk17WP=\count446
-\c@@tk17T=\count447
+\c@@tk17WP=\count465
+\c@@tk17T=\count466
 pdfTeX warning (ext4): destination with the same identifier (name{@wptask.3}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.50     }
           
-\c@@tk18WP=\count448
-\c@@tk18T=\count449
+\c@@tk18WP=\count467
+\c@@tk18T=\count468
 pdfTeX warning (ext4): destination with the same identifier (name{@wpdeliv.1}) 
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.71 ...raining of the second command to model 1.}
                                                   \label{dev:wp3d1}
-\c@@deliv12date=\count450
-\c@@deliv12WP=\count451
-\c@@deliv12N=\count452
-\c@@deliv12D=\count453
+\c@@deliv12date=\count469
+\c@@deliv12WP=\count470
+\c@@deliv12N=\count471
+\c@@deliv12D=\count472
 pdfTeX warning (ext4): destination with the same identifier (name{@wpdeliv.2}) 
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.72 ...indings made while training new commands.}
                                                   \label{dev:wp3r1}
-\c@@deliv13date=\count454
-\c@@deliv13WP=\count455
-\c@@deliv13N=\count456
-\c@@deliv13D=\count457
+\c@@deliv13date=\count473
+\c@@deliv13WP=\count474
+\c@@deliv13N=\count475
+\c@@deliv13D=\count476
 pdfTeX warning (ext4): destination with the same identifier (name{@wpdeliv.3}) 
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.73 ... and the virtual HID for each code patch.}
                                                   \label{dev:wp3r2}
-\c@@deliv14date=\count458
-\c@@deliv14WP=\count459
-\c@@deliv14N=\count460
-\c@@deliv14D=\count461
+\c@@deliv14date=\count477
+\c@@deliv14WP=\count478
+\c@@deliv14N=\count479
+\c@@deliv14D=\count480
 pdfTeX warning (ext4): destination with the same identifier (name{@wpdeliv.4}) 
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.74 ...and recognition will be pushed to master.}
                                                   \label{dev:wp3r1}
-\c@@deliv15date=\count462
-\c@@deliv15WP=\count463
-\c@@deliv15N=\count464
-\c@@deliv15D=\count465
+\c@@deliv15date=\count481
+\c@@deliv15WP=\count482
+\c@@deliv15N=\count483
+\c@@deliv15D=\count484
 pdfTeX warning (ext4): destination with the same identifier (name{@wpdeliv.5}) 
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.75 ...e of 1P Super Mario Bros using cogniLink.}
                                                   \label{dev:wp3prototype}
-\c@@deliv16date=\count466
-\c@@deliv16WP=\count467
-\c@@deliv16N=\count468
-\c@@deliv16D=\count469
+\c@@deliv16date=\count485
+\c@@deliv16WP=\count486
+\c@@deliv16N=\count487
+\c@@deliv16D=\count488
 pdfTeX warning (ext4): destination with the same identifier (name{@wpdeliv.6}) 
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.76 ...ogress accomplished after the end of WP3.}
                                                   \label{dev:MR0.3}
-\c@@deliv17date=\count470
-\c@@deliv17WP=\count471
-\c@@deliv17N=\count472
-\c@@deliv17D=\count473
+\c@@deliv17date=\count489
+\c@@deliv17WP=\count490
+\c@@deliv17N=\count491
+\c@@deliv17D=\count492
 )
 \openout4 = `proposal.mw'.
 
@@ -1867,110 +1934,110 @@ l.76 ...ogress accomplished after the end of WP3.}
 \openout2 = `wp-m2cN.aux'.
 
  (./wp-m2cN.tex
-\c@@wp4totpm=\count474
-\c@@wp4tottk=\count475
+\c@@wp4totpm=\count493
+\c@@wp4tottk=\count494
 pdfTeX warning (ext4): destination with the same identifier (name{@wptask.1}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.41 ...erent individual for the same n-Commands.}
                                                   
-\c@@tk19WP=\count476
-\c@@tk19T=\count477
+\c@@tk19WP=\count495
+\c@@tk19T=\count496
 pdfTeX warning (ext4): destination with the same identifier (name{@wptask.2}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.45       }
             
-\c@@tk20WP=\count478
-\c@@tk20T=\count479
+\c@@tk20WP=\count497
+\c@@tk20T=\count498
 pdfTeX warning (ext4): destination with the same identifier (name{@wptask.3}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.49     }
            \wptask{Georgio}{Georgio}{18}{18}{Task4}{
-\c@@tk21WP=\count480
-\c@@tk21T=\count481
+\c@@tk21WP=\count499
+\c@@tk21T=\count500
 pdfTeX warning (ext4): destination with the same identifier (name{@wptask.4}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.52     }
           
-\c@@tk22WP=\count482
-\c@@tk22T=\count483
+\c@@tk22WP=\count501
+\c@@tk22T=\count502
 pdfTeX warning (ext4): destination with the same identifier (name{@wpdeliv.1}) 
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.73 ...}{Merging model switching code to master.}
                                                   \label{dev:wp4merge1}
-\c@@deliv18date=\count484
-\c@@deliv18WP=\count485
-\c@@deliv18N=\count486
-\c@@deliv18D=\count487
+\c@@deliv18date=\count503
+\c@@deliv18WP=\count504
+\c@@deliv18N=\count505
+\c@@deliv18D=\count506
 pdfTeX warning (ext4): destination with the same identifier (name{@wpdeliv.2}) 
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.74 ... simultaneously as 2 virtual HID devices.}
                                                   \label{dev:wp4r1}
-\c@@deliv19date=\count488
-\c@@deliv19WP=\count489
-\c@@deliv19N=\count490
-\c@@deliv19D=\count491
+\c@@deliv19date=\count507
+\c@@deliv19WP=\count508
+\c@@deliv19N=\count509
+\c@@deliv19D=\count510
 pdfTeX warning (ext4): destination with the same identifier (name{@wpdeliv.3}) 
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.75 ...rgio}{R}{PU}{Report on Model 2 Command 8.}
                                                   \label{dev:wp4r2}
-\c@@deliv20date=\count492
-\c@@deliv20WP=\count493
-\c@@deliv20N=\count494
-\c@@deliv20D=\count495
+\c@@deliv20date=\count511
+\c@@deliv20WP=\count512
+\c@@deliv20N=\count513
+\c@@deliv20D=\count514
 pdfTeX warning (ext4): destination with the same identifier (name{@wpdeliv.4}) 
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.76 ...eport on training Model 2 for n-Commands.}
                                                   \label{dev:wp4r3}
-\c@@deliv21date=\count496
-\c@@deliv21WP=\count497
-\c@@deliv21N=\count498
-\c@@deliv21D=\count499
+\c@@deliv21date=\count515
+\c@@deliv21WP=\count516
+\c@@deliv21N=\count517
+\c@@deliv21D=\count518
 pdfTeX warning (ext4): destination with the same identifier (name{@wpdeliv.5}) 
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.77 ...Merging code of Models 1 and 2 to master.}
                                                   \label{dev:wp4merge2}
-\c@@deliv22date=\count500
-\c@@deliv22WP=\count501
-\c@@deliv22N=\count502
-\c@@deliv22D=\count503
+\c@@deliv22date=\count519
+\c@@deliv22WP=\count520
+\c@@deliv22N=\count521
+\c@@deliv22D=\count522
 pdfTeX warning (ext4): destination with the same identifier (name{@wpdeliv.6}) 
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.78 ...e of 2P Super Mario Bros using cogniLink.}
                                                   \label{dev:wp4vid}
-\c@@deliv23date=\count504
-\c@@deliv23WP=\count505
-\c@@deliv23N=\count506
-\c@@deliv23D=\count507
+\c@@deliv23date=\count523
+\c@@deliv23WP=\count524
+\c@@deliv23N=\count525
+\c@@deliv23D=\count526
 pdfTeX warning (ext4): destination with the same identifier (name{@wpdeliv.7}) 
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.79 ...ogress accomplished after the end of WP4.}
                                                   \label{dev:MR0.4}
-\c@@deliv24date=\count508
-\c@@deliv24WP=\count509
-\c@@deliv24N=\count510
-\c@@deliv24D=\count511
+\c@@deliv24date=\count527
+\c@@deliv24WP=\count528
+\c@@deliv24N=\count529
+\c@@deliv24D=\count530
 )
 \openout4 = `proposal.mw'.
 
@@ -1984,36 +2051,36 @@ l.79 ...ogress accomplished after the end of WP4.}
 \openout2 = `wp-opt.aux'.
 
  (./wp-opt.tex
-\c@@wp5totpm=\count512
-\c@@wp5tottk=\count513
+\c@@wp5totpm=\count531
+\c@@wp5tottk=\count532
 pdfTeX warning (ext4): destination with the same identifier (name{@wptask.1}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.42     }
           
-\c@@tk23WP=\count514
-\c@@tk23T=\count515
+\c@@tk23WP=\count533
+\c@@tk23T=\count534
 pdfTeX warning (ext4): destination with the same identifier (name{@wpdeliv.1}) 
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.62 ...{Optimized code will be merged to master.}
                                                   \label{dev:wp5merge}
-\c@@deliv25date=\count516
-\c@@deliv25WP=\count517
-\c@@deliv25N=\count518
-\c@@deliv25D=\count519
+\c@@deliv25date=\count535
+\c@@deliv25WP=\count536
+\c@@deliv25N=\count537
+\c@@deliv25D=\count538
 pdfTeX warning (ext4): destination with the same identifier (name{@wpdeliv.2}) 
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.64 ...ng on measures taken for optimizing code.}
                                                   \label{dev:MR0.4}
-\c@@deliv26date=\count520
-\c@@deliv26WP=\count521
-\c@@deliv26N=\count522
-\c@@deliv26D=\count523
+\c@@deliv26date=\count539
+\c@@deliv26WP=\count540
+\c@@deliv26N=\count541
+\c@@deliv26D=\count542
 )
 \openout4 = `proposal.mw'.
 
@@ -2027,64 +2094,64 @@ l.64 ...ng on measures taken for optimizing code.}
 \openout2 = `wp-app.aux'.
 
  (./wp-app.tex
-\c@@wp6totpm=\count524
-\c@@wp6tottk=\count525
+\c@@wp6totpm=\count543
+\c@@wp6tottk=\count544
 pdfTeX warning (ext4): destination with the same identifier (name{@wptask.1}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.44     }
           
-\c@@tk24WP=\count526
-\c@@tk24T=\count527
+\c@@tk24WP=\count545
+\c@@tk24T=\count546
 pdfTeX warning (ext4): destination with the same identifier (name{@wptask.2}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.48     }
           
-\c@@tk25WP=\count528
-\c@@tk25T=\count529
+\c@@tk25WP=\count547
+\c@@tk25T=\count548
 pdfTeX warning (ext4): destination with the same identifier (name{@wpdeliv.1}) 
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.66 ...Report about integration with wheelchair.}
                                                   \label{dev:wp6f1report}
-\c@@deliv27date=\count530
-\c@@deliv27WP=\count531
-\c@@deliv27N=\count532
-\c@@deliv27D=\count533
+\c@@deliv27date=\count549
+\c@@deliv27WP=\count550
+\c@@deliv27N=\count551
+\c@@deliv27D=\count552
 pdfTeX warning (ext4): destination with the same identifier (name{@wpdeliv.2}) 
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.68 ...hanges needed for wheelchair integration.}
                                                   \label{dev:wp6fork}
-\c@@deliv28date=\count534
-\c@@deliv28WP=\count535
-\c@@deliv28N=\count536
-\c@@deliv28D=\count537
+\c@@deliv28date=\count553
+\c@@deliv28WP=\count554
+\c@@deliv28N=\count555
+\c@@deliv28D=\count556
 pdfTeX warning (ext4): destination with the same identifier (name{@wpdeliv.3}) 
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.70 ...ds integrating with a Locked-in patient. }
                                                   \label{dev:wp6r2research}
-\c@@deliv29date=\count538
-\c@@deliv29WP=\count539
-\c@@deliv29N=\count540
-\c@@deliv29D=\count541
+\c@@deliv29date=\count557
+\c@@deliv29WP=\count558
+\c@@deliv29N=\count559
+\c@@deliv29D=\count560
 pdfTeX warning (ext4): destination with the same identifier (name{@wpdeliv.4}) 
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.72 ...ogress accomplished after the end of WP6.}
                                                   \label{dev:MR0.6}
-\c@@deliv30date=\count542
-\c@@deliv30WP=\count543
-\c@@deliv30N=\count544
-\c@@deliv30D=\count545
+\c@@deliv30date=\count561
+\c@@deliv30WP=\count562
+\c@@deliv30N=\count563
+\c@@deliv30D=\count564
 )
 \openout4 = `proposal.mw'.
 
@@ -2098,72 +2165,72 @@ l.72 ...ogress accomplished after the end of WP6.}
 \openout2 = `wp-mUcN.aux'.
 
  (./wp-mUcN.tex
-\c@@wp7totpm=\count546
-\c@@wp7tottk=\count547
+\c@@wp7totpm=\count565
+\c@@wp7tottk=\count566
 pdfTeX warning (ext4): destination with the same identifier (name{@wptask.1}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.42     }
           
-\c@@tk26WP=\count548
-\c@@tk26T=\count549
+\c@@tk26WP=\count567
+\c@@tk26T=\count568
 pdfTeX warning (ext4): destination with the same identifier (name{@wptask.2}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.46     }
           
-\c@@tk27WP=\count550
-\c@@tk27T=\count551
+\c@@tk27WP=\count569
+\c@@tk27T=\count570
 pdfTeX warning (ext4): destination with the same identifier (name{@wptask.3}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.49     }
           
-\c@@tk28WP=\count552
-\c@@tk28T=\count553
+\c@@tk28WP=\count571
+\c@@tk28T=\count572
 pdfTeX warning (ext4): destination with the same identifier (name{@wpdeliv.1}) 
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.69 ...progress, and future plans for cogniLink.}
                                                   \label{dev:MR1.0}
-\c@@deliv31date=\count554
-\c@@deliv31WP=\count555
-\c@@deliv31N=\count556
-\c@@deliv31D=\count557
+\c@@deliv31date=\count573
+\c@@deliv31WP=\count574
+\c@@deliv31N=\count575
+\c@@deliv31D=\count576
 pdfTeX warning (ext4): destination with the same identifier (name{@wpdeliv.2}) 
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.70 ...orgio}{P}{CO}{Publishing Universal Model.}
                                                   \label{dev:wp7um}
-\c@@deliv32date=\count558
-\c@@deliv32WP=\count559
-\c@@deliv32N=\count560
-\c@@deliv32D=\count561
+\c@@deliv32date=\count577
+\c@@deliv32WP=\count578
+\c@@deliv32N=\count579
+\c@@deliv32D=\count580
 pdfTeX warning (ext4): destination with the same identifier (name{@wpdeliv.3}) 
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.71 ...shing model trained on Locked-in patient.}
                                                   \label{dev:wp7limodel}
-\c@@deliv33date=\count562
-\c@@deliv33WP=\count563
-\c@@deliv33N=\count564
-\c@@deliv33D=\count565
+\c@@deliv33date=\count581
+\c@@deliv33WP=\count582
+\c@@deliv33N=\count583
+\c@@deliv33D=\count584
 pdfTeX warning (ext4): destination with the same identifier (name{@wpdeliv.4}) 
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.72 ...{P}{PU}{Merging optimized code to master.}
                                                   \label{dev:wp7merge}
-\c@@deliv34date=\count566
-\c@@deliv34WP=\count567
-\c@@deliv34N=\count568
-\c@@deliv34D=\count569
+\c@@deliv34date=\count585
+\c@@deliv34WP=\count586
+\c@@deliv34N=\count587
+\c@@deliv34D=\count588
 )
 \openout4 = `proposal.mw'.
 
@@ -2679,50 +2746,35 @@ as been already used, duplicate ignored
                    \relax 
 l.12 \end {longtable}
                      )
-Missing character: There is no â in font pplb9t!
-Missing character: There is no € in font pplb9t!
-Missing character: There is no ˜ in font pplb9t!
-Missing character: There is no â in font pplb9t!
-Missing character: There is no € in font pplb9t!
-Missing character: There is no ™ in font pplb9t!
-\c@@dctpnum1=\count570
-\c@@dcepnum1=\count571
-\c@@dcopnum1=\count572
-
-Underfull \hbox (badness 10000) in paragraph at lines 141--141
-[]|\OT1/pplx/b/n/10.95 Cost
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 141--142
-
- []
-
-)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
 \openout4 = `proposal.mw'.
 
  [13
 
-]
-(./proposal.mw)
+] (./proposal.mw)
 \openout4 = `proposal.mw'.
 
 \openout4 = `proposal.mw'.
 
 \openout4 = `proposal.mw'.
 
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 107.
+
+)
 \openout4 = `proposal.mw'.
 
- [14] (./proposal.mw)
+ [14
+
+] (./proposal.mw)
 \openout4 = `proposal.mw'.
 
 \openout4 = `proposal.mw'.
 
 \openout4 = `proposal.mw'.
 
-\wplistfile=\write21
+\wplistfile=\write22
 \openout4 = `proposal.lwp'.
 
 \openout4 = `proposal.mw'.
@@ -2813,7 +2865,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout4 = `proposal.mw'.
 
-\delivlistfile=\write22
+\delivlistfile=\write23
 \openout4 = `proposal.ldl'.
 
 \openout4 = `proposal.mw'.
@@ -2844,13 +2896,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout4 = `proposal.mw'.
 
-\c@@tmpdate=\count573
-\c@@tmpWP=\count574
-\c@@tmpN=\count575
-\c@@tmpD=\count576
-\c@@posi=\count577
-\c@@posj=\count578
-\c@@posjup=\count579
+\c@@tmpdate=\count589
+\c@@tmpWP=\count590
+\c@@tmpN=\count591
+\c@@tmpD=\count592
+\c@@posi=\count593
+\c@@posj=\count594
+\c@@posjup=\count595
 \openout4 = `proposal.mw'.
 
 \openout4 = `proposal.mw'.
@@ -3127,7 +3179,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout4 = `proposal.mw'.
 
-\mslistfile=\write23
+\mslistfile=\write24
 \openout4 = `proposal.lms'.
 
 \openout4 = `proposal.mw'.
@@ -3218,7 +3270,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout4 = `proposal.mw'.
 
-\rklistfile=\write24
+\rklistfile=\write25
 \openout4 = `proposal.lrk'.
 
 \openout4 = `proposal.mw'.
@@ -3269,7 +3321,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout4 = `proposal.mw'.
 
-\soelistfile=\write25
+\soelistfile=\write26
 \openout4 = `proposal.lse'.
 
 \openout4 = `proposal.mw'.
@@ -3412,7 +3464,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout4 = `proposal.mw'.
 
-\tklistfile=\write26
+\tklistfile=\write27
 \openout4 = `proposal.ltk'.
 
 \openout4 = `proposal.mw'.
@@ -3671,7 +3723,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout4 = `proposal.mw'.
 
-\gntchartfile=\write27
+\gntchartfile=\write28
 \openout4 = `proposal.gnt'.
 
 \openout4 = `proposal.mw'.
@@ -3814,21 +3866,21 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout4 = `proposal.mw'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 186.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 186.
- (./proposal.aux (./wp-m1cA.aux)
-(./wp-m1cN.aux) (./wp-m2cN.aux) (./wp-opt.aux) (./wp-app.aux) (./wp-mUcN.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 186.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 186.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 187.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 187.
+ (./proposal.aux (./wp-m1cA.aux) (./wp-m1cN.aux)
+(./wp-m2cN.aux) (./wp-opt.aux) (./wp-app.aux) (./wp-mUcN.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 187.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 187.
 \openout4 = `proposal.out'.
 
 Package rerunfilecheck Info: File `proposal.out' has not changed.
-(rerunfilecheck)             Checksum: 2F47A25C43BA533DF6BCC734986E5467;307.
+(rerunfilecheck)             Checksum: B7034874916CB9123A4C8264BC396167;307.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 186.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 187.
 \openout4 = `proposal.lwp'.
 
 \openout4 = `proposal.ldl'.
@@ -3845,20 +3897,20 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 186.
 
  ) 
 Here is how much of TeX's memory you used:
- 32500 strings out of 492995
- 593825 string characters out of 6132704
- 757684 words of memory out of 5000000
- 35348 multiletter control sequences out of 15000+600000
+ 33739 strings out of 492995
+ 609805 string characters out of 6132704
+ 799577 words of memory out of 5000000
+ 36542 multiletter control sequences out of 15000+600000
  36504 words of font info for 105 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,11n,65p,10407b,452s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 68i,16n,65p,10407b,452s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2017/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/
 2017/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on proposal.pdf (14 pages, 178087 bytes).
+Output written on proposal.pdf (14 pages, 178979 bytes).
 PDF statistics:
- 287 PDF objects out of 1000 (max. 8388607)
- 265 compressed objects within 3 object streams
- 161 named destinations out of 1000 (max. 500000)
+ 286 PDF objects out of 1000 (max. 8388607)
+ 264 compressed objects within 3 object streams
+ 160 named destinations out of 1000 (max. 500000)
  12346 words of extra memory for PDF output out of 14400 (max. 10000000)
 
