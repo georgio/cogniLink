@@ -5,7 +5,7 @@
  \hline \multicolumn {7}{|r|}{Continued on next page} \\ \hline \endfoot
 \cellcolor [gray]{0.8} & \multicolumn {2}{|c|}{\textbf {TOTAL}} & \cellcolor [gray]{0.8} & {40} & \cellcolor [gray]{0.8} & \cellcolor [gray]{0.8} \\ \hline \endlastfoot
 \hline
-\textbf {WP1} & Virtual HID, Data Collection, and ML Code& 1& Georgio& 2 & 1& 2\\
+\textbf {WP1} & virtualHID, Data Collection, and ML Code& 1& Georgio& 2 & 1& 2\\
 \hline
 \textbf {WP2} & Model 1 Command A& 1& Georgio& 4 & 2& 6\\
 \hline

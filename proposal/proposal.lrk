@@ -7,6 +7,6 @@
 \hline
 Not being able to recognize thoughts via brain activity in a timely manner.& \csname @rk1WP\endcsname & \csname @rk1Solution\endcsname \\
 \hline
-Difficulty in implementing the virtual HID using macOS' IOKit.& \csname @rk2WP\endcsname & \csname @rk2Solution\endcsname \\
+Difficulty in implementing the virtualHID using macOS' IOKit.& \csname @rk2WP\endcsname & \csname @rk2Solution\endcsname \\
 \hline
 \end {longtable}

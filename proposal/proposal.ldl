@@ -31,9 +31,9 @@
 \hline
 \textbf {D3.2} & Report 1 on findings made while training new commands.& WP3 & Georgio& R& PU& 11 \\
 \hline
-\textbf {D3.3} & Report 2 will comapre the variation of latency between the model and the virtual HID for each code patch.& WP3 & Georgio& R& PU& 12 \\
+\textbf {D3.3} & Report 2 will comapre the variation of latency between the model and the virtualHID for each code patch.& WP3 & Georgio& R& PU& 12 \\
 \hline
-\textbf {D3.4} & Code for virtual HID and updated Model 1 with multiple command recognition will be pushed to master.& WP3 & Georgio& P& PU& 12 \\
+\textbf {D3.4} & Code for virtualHID and updated Model 1 with multiple command recognition will be pushed to master.& WP3 & Georgio& P& PU& 12 \\
 \hline
 \textbf {D3.5} & A demonstration of the ability to play a game of 1P Super Mario Bros using cogniLink.& WP3 & Georgio& D& PU& 12 \\
 \hline
@@ -41,7 +41,7 @@
 \hline
 \textbf {D4.1} & Merging model switching code to master.& WP4 & Georgio& P& PU& 13 \\
 \hline
-\textbf {D4.2} & Report on the ability to use 2 models simultaneously as 2 virtual HID devices.& WP4 & Georgio& R& PU& 13 \\
+\textbf {D4.2} & Report on the ability to use 2 models simultaneously as 2 virtualHID devices.& WP4 & Georgio& R& PU& 13 \\
 \hline
 \textbf {D4.5} & Merging code of Models 1 and 2 to master.& WP4 & Georgio& P& PU& 13 \\
 \hline
