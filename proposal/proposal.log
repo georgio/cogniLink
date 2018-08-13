@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  13 AUG 2018 17:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  13 AUG 2018 17:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2762,7 +2762,17 @@ l.12 \end {longtable}
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 107.
 
-)
+pdfTeX warning (ext4): destination with the same identifier (name{table.1.3}) h
+as been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.108   \caption{List of Materials}
+                                   pdfTeX warning (ext4): destination with the 
+same identifier (name{table.1.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.108   \caption{List of Materials}
+                                   )
 \openout4 = `proposal.mw'.
 
  [14
@@ -3868,8 +3878,9 @@ LaTeX Warning: No positions in optional float specifier.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 187.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 187.
- (./proposal.aux (./wp-m1cA.aux) (./wp-m1cN.aux)
-(./wp-m2cN.aux) (./wp-opt.aux) (./wp-app.aux) (./wp-mUcN.aux))
+ (./proposal.aux
+(./wp-m1cA.aux) (./wp-m1cN.aux) (./wp-m2cN.aux) (./wp-opt.aux) (./wp-app.aux)
+(./wp-mUcN.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 187.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 187.
 \openout4 = `proposal.out'.
@@ -3897,17 +3908,17 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 187.
 
  ) 
 Here is how much of TeX's memory you used:
- 33739 strings out of 492995
- 609805 string characters out of 6132704
- 799582 words of memory out of 5000000
- 36542 multiletter control sequences out of 15000+600000
+ 33740 strings out of 492995
+ 609815 string characters out of 6132704
+ 799678 words of memory out of 5000000
+ 36543 multiletter control sequences out of 15000+600000
  36504 words of font info for 105 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,16n,65p,10407b,452s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2017/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/
 2017/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on proposal.pdf (14 pages, 179034 bytes).
+Output written on proposal.pdf (14 pages, 179128 bytes).
 PDF statistics:
  286 PDF objects out of 1000 (max. 8388607)
  264 compressed objects within 3 object streams
