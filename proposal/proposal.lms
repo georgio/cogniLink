@@ -15,7 +15,7 @@
 \hline
 \textbf {M5} & Transitioning from using virtualHID on OpenEmu to Wheelchair in Realtime& \csname @ms5WPList\endcsname & Week 22& Driving a wheelchair with no hands\\
 \hline
-\textbf {M6} & Integration with Locked-In Patient& \csname @ms6WPList\endcsname & Week 40& Enabling a Locked-in patient to communicate using cogniLink\\
+\textbf {M6} & Integration with Locked-in Patient& \csname @ms6WPList\endcsname & Week 40& Enabling a Locked-in patient to communicate using cogniLink\\
 \hline
 \textbf {M7} & Training Universal Model for n-Commands& \csname @ms7WPList\endcsname & Week 40& Ease of training models for new users\\
 \hline

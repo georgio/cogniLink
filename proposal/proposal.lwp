@@ -5,18 +5,18 @@
  \hline \multicolumn {7}{|r|}{Continued on next page} \\ \hline \endfoot
 \cellcolor [gray]{0.8} & \multicolumn {2}{|c|}{\textbf {TOTAL}} & \cellcolor [gray]{0.8} & {40} & \cellcolor [gray]{0.8} & \cellcolor [gray]{0.8} \\ \hline \endlastfoot
 \hline
-\textbf {WP1} & Virtual HID, Data Collection, and ML Code& 1& georgio& 2 & 1& 2\\
+\textbf {WP1} & Virtual HID, Data Collection, and ML Code& 1& Georgio& 2 & 1& 2\\
 \hline
-\textbf {WP2} & Model 1 Command A& 1& georgio& 4 & 2& 6\\
+\textbf {WP2} & Model 1 Command A& 1& Georgio& 4 & 2& 6\\
 \hline
-\textbf {WP3} & Model 1 n Commands& 1& georgio& 6 & 6& 12\\
+\textbf {WP3} & Model 1 n Commands& 1& Georgio& 6 & 6& 12\\
 \hline
-\textbf {WP4} & Model 2 n Commands& 1& georgio& 6 & 12& 18\\
+\textbf {WP4} & Model 2 n Commands& 1& Georgio& 6 & 12& 18\\
 \hline
-\textbf {WP5} & Optimizations& 1& georgio& 2 & 18& 20\\
+\textbf {WP5} & Optimizations& 1& Georgio& 2 & 18& 20\\
 \hline
-\textbf {WP6} & Real Life Application& 1& georgio& 10 & 20& 30\\
+\textbf {WP6} & Real Life Application& 1& Georgio& 10 & 20& 30\\
 \hline
-\textbf {WP7} & Universal Model, n Commands& 1& georgio& 10 & 30& 40\\
+\textbf {WP7} & Universal Model, n Commands& 1& Georgio& 10 & 30& 40\\
 \hline
 \end {longtable}

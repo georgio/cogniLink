@@ -16,7 +16,7 @@
   %     or  \personweeks{Participant short name}{value} (not wp leader)
   %         \personweeks*{Participant number}{value}    (wp leader)
   % for example:
-  \personweeks*{georgio}{4}  % etc.
+  \personweeks*{Georgio}{4}  % etc.
 
   \makewptable % Work package summary table
     
@@ -36,35 +36,35 @@ Model 1 Command A;
     % Use \wptask command
     % syntax: \wptask{leader}{contributors}{start-m}{end-m}{title}{description}   
 
-    \wptask{georgio}{georgio}{2}{3}{Task1}{
+    \wptask{Georgio}{Georgio}{2}{3}{Task1}{
       \label{task:wp2task1}
       Ways to efficiently collect data with high accuracy will be looked into; validated datasets will be used (if found) as a point of reference.
     }
-    \wptask{georgio}{georgio}{3}{4}{Task2}{
+    \wptask{Georgio}{Georgio}{3}{4}{Task2}{
       \label{task:wp2task2}
       The training dataset will be collected.
     }    
-    \wptask{georgio}{georgio}{4}{5}{Task 3}{
+    \wptask{Georgio}{Georgio}{4}{5}{Task 3}{
       \label{task:wp2task3}
       Model 1 will be trained using the aforementioned dataset.
     }
-    \wptask{georgio}{georgio}{4}{5}{Task 4}{
+    \wptask{Georgio}{Georgio}{4}{5}{Task 4}{
       \label{task:wp2task4}
       Test and Validation datasets will be collected.
       }
-      \wptask{georgio}{georgio}{4}{5}{Task 5}{
+      \wptask{Georgio}{Georgio}{4}{5}{Task 5}{
       \label{task:wp2task4}
       Test and Validation datasets will be collected.
       }
-      \wptask{georgio}{georgio}{4}{5}{Task 6}{
+      \wptask{Georgio}{Georgio}{4}{5}{Task 6}{
       \label{task:wp2task6}
       All collected datasets will be uploaded to an AWS S3 Bucket.
       }
-      \wptask{georgio}{georgio}{4}{5}{Task 7}{
+      \wptask{Georgio}{Georgio}{4}{5}{Task 7}{
         \label{task:wp2task7}
         Accuracy of trained model will be studied.
         }
-      \wptask{georgio}{georgio}{5}{6}{Task 8}{
+      \wptask{Georgio}{Georgio}{5}{6}{Task 8}{
         \label{task:wp2task8}
         Patches and optimizations will be pushed in attempt to improve model accuracy, if possible.
         }
@@ -86,13 +86,13 @@ Model 1 Command A;
     % 
     % \wpdeliverable[date]{R}{PU}{A report on \ldots}
 
-    \wpdeliverable[4]{georgio}{R}{PU}{Report 1 about the data collection process and initiation of the first round of training.}\label{dev:wp2r1}
-    \wpdeliverable[5]{georgio}{P}{PU}{First iteration of the model.}\label{dev:wp2m0.1}
-    \wpdeliverable[5]{georgio}{R}{PU}{Report 2 about model accuracy after inputing initial test and validation datasets.}\label{dev:wp2r2}
-    \wpdeliverable[6]{georgio}{R}{PU}{Report 3 will include a comparative view of accuracy for each patch/iteration of the model.}\label{dev:wp2r3}
-    \wpdeliverable[6]{georgio}{P}{PU}{Second iteration of the model.}\label{dev:wp2m0.2}
-    \wpdeliverable[6]{georgio}{R}{PU}{Main Report update with full progress accomplished after the end of WP2.}\label{dev:MR0.2}
-    \wpdeliverable[6]{georgio}{D}{PU}{Video demonstration of thought recognition process.}\label{dev:vid1}
+    \wpdeliverable[4]{Georgio}{R}{PU}{Report 1 about the data collection process and initiation of the first round of training.}\label{dev:wp2r1}
+    \wpdeliverable[5]{Georgio}{P}{PU}{First iteration of the model.}\label{dev:wp2m0.1}
+    \wpdeliverable[5]{Georgio}{R}{PU}{Report 2 about model accuracy after inputing initial test and validation datasets.}\label{dev:wp2r2}
+    \wpdeliverable[6]{Georgio}{R}{PU}{Report 3 will include a comparative view of accuracy for each patch/iteration of the model.}\label{dev:wp2r3}
+    \wpdeliverable[6]{Georgio}{P}{PU}{Second iteration of the model.}\label{dev:wp2m0.2}
+    \wpdeliverable[6]{Georgio}{R}{PU}{Main Report update with full progress accomplished after the end of WP2.}\label{dev:MR0.2}
+    \wpdeliverable[6]{Georgio}{D}{PU}{Video demonstration of thought recognition process.}\label{dev:vid1}
   \end{wpdeliverables}
 
 \end{workpackage}

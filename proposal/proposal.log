@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  13 AUG 2018 16:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  13 AUG 2018 16:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1211,7 +1211,7 @@ File: hpdftex.def 2017/03/14 v6.85a Hyperref driver for pdfTeX
 )
 Package hyperref Info: Option `hypertexnames' set `true' on input line 105.
 \c@@p1totpm=\count354
-\c@@pgeorgionum=\count355
+\c@@pGeorgionum=\count355
 
 (./proposal.aux (./wp-m1cA.aux
 
@@ -1890,7 +1890,7 @@ as been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.49     }
-           \wptask{georgio}{georgio}{18}{18}{Task4}{
+           \wptask{Georgio}{Georgio}{18}{18}{Task4}{
 \c@@tk21WP=\count480
 \c@@tk21T=\count481
 pdfTeX warning (ext4): destination with the same identifier (name{@wptask.4}) h
@@ -2069,7 +2069,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{@wpdeliv.3})
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.70 ...ds integrating with a locked in patient. }
+l.70 ...ds integrating with a Locked-in patient. }
                                                   \label{dev:wp6r2research}
 \c@@deliv29date=\count538
 \c@@deliv29WP=\count539
@@ -3855,7 +3855,7 @@ Here is how much of TeX's memory you used:
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2017/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/
 2017/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on proposal.pdf (14 pages, 177930 bytes).
+Output written on proposal.pdf (14 pages, 178087 bytes).
 PDF statistics:
  287 PDF objects out of 1000 (max. 8388607)
  265 compressed objects within 3 object streams

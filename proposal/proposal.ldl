@@ -5,72 +5,72 @@
  \hline \multicolumn {6}{|r|}{Continued on next page} \\ \hline \endfoot
 \hline \endlastfoot
 \hline
-\textbf {D1.1} & WP1 W1 Progress Report.& WP1 & georgio& R& PU& 1 \\
+\textbf {D1.1} & WP1 W1 Progress Report.& WP1 & Georgio& R& PU& 1 \\
 \hline
-\textbf {D1.2} & Demonstration of APIs& WP1 & georgio& D& PU& 2 \\
+\textbf {D1.2} & Demonstration of APIs& WP1 & Georgio& D& PU& 2 \\
 \hline
-\textbf {D1.3} & WP1 Code+Tools Merged to master.& WP1 & georgio& P& PU& 2 \\
+\textbf {D1.3} & WP1 Code+Tools Merged to master.& WP1 & Georgio& P& PU& 2 \\
 \hline
-\textbf {D1.4} & Main Report with full progress accomplished after the end of WP3.& WP1 & georgio& R& PU& 2 \\
+\textbf {D1.4} & Main Report with full progress accomplished after the end of WP3.& WP1 & Georgio& R& PU& 2 \\
 \hline
-\textbf {D2.1} & Report 1 about the data collection process and initiation of the first round of training.& WP2 & georgio& R& PU& 4 \\
+\textbf {D2.1} & Report 1 about the data collection process and initiation of the first round of training.& WP2 & Georgio& R& PU& 4 \\
 \hline
-\textbf {D2.2} & First iteration of the model.& WP2 & georgio& P& PU& 5 \\
+\textbf {D2.2} & First iteration of the model.& WP2 & Georgio& P& PU& 5 \\
 \hline
-\textbf {D2.3} & Report 2 about model accuracy after inputing initial test and validation datasets.& WP2 & georgio& R& PU& 5 \\
+\textbf {D2.3} & Report 2 about model accuracy after inputing initial test and validation datasets.& WP2 & Georgio& R& PU& 5 \\
 \hline
-\textbf {D2.4} & Report 3 will include a comparative view of accuracy for each patch/iteration of the model.& WP2 & georgio& R& PU& 6 \\
+\textbf {D2.4} & Report 3 will include a comparative view of accuracy for each patch/iteration of the model.& WP2 & Georgio& R& PU& 6 \\
 \hline
-\textbf {D2.5} & Second iteration of the model.& WP2 & georgio& P& PU& 6 \\
+\textbf {D2.5} & Second iteration of the model.& WP2 & Georgio& P& PU& 6 \\
 \hline
-\textbf {D2.6} & Main Report update with full progress accomplished after the end of WP2.& WP2 & georgio& R& PU& 6 \\
+\textbf {D2.6} & Main Report update with full progress accomplished after the end of WP2.& WP2 & Georgio& R& PU& 6 \\
 \hline
-\textbf {D2.7} & Video demonstration of thought recognition process.& WP2 & georgio& D& PU& 6 \\
+\textbf {D2.7} & Video demonstration of thought recognition process.& WP2 & Georgio& D& PU& 6 \\
 \hline
-\textbf {D3.1} & A demonstration of the execution of alternating commands, after successful training of the second command to model 1.& WP3 & georgio& D& PU& 8 \\
+\textbf {D3.1} & A demonstration of the execution of alternating commands, after successful training of the second command to model 1.& WP3 & Georgio& D& PU& 8 \\
 \hline
-\textbf {D3.2} & Report 1 on findings made while training new commands.& WP3 & georgio& R& PU& 11 \\
+\textbf {D3.2} & Report 1 on findings made while training new commands.& WP3 & Georgio& R& PU& 11 \\
 \hline
-\textbf {D3.3} & Report 2 will comapre the variation of latency between the model and the virtual HID for each code patch.& WP3 & georgio& R& PU& 12 \\
+\textbf {D3.3} & Report 2 will comapre the variation of latency between the model and the virtual HID for each code patch.& WP3 & Georgio& R& PU& 12 \\
 \hline
-\textbf {D3.4} & Code for virtual HID and updated Model 1 with multiple command recognition will be pushed to master.& WP3 & georgio& P& PU& 12 \\
+\textbf {D3.4} & Code for virtual HID and updated Model 1 with multiple command recognition will be pushed to master.& WP3 & Georgio& P& PU& 12 \\
 \hline
-\textbf {D3.5} & A demonstration of the ability to play a game of 1P Super Mario Bros using cogniLink.& WP3 & georgio& D& PU& 12 \\
+\textbf {D3.5} & A demonstration of the ability to play a game of 1P Super Mario Bros using cogniLink.& WP3 & Georgio& D& PU& 12 \\
 \hline
-\textbf {D3.6} & Main Report update with full progress accomplished after the end of WP3.& WP3 & georgio& R& PU& 12 \\
+\textbf {D3.6} & Main Report update with full progress accomplished after the end of WP3.& WP3 & Georgio& R& PU& 12 \\
 \hline
-\textbf {D4.1} & Merging model switching code to master.& WP4 & georgio& P& PU& 13 \\
+\textbf {D4.1} & Merging model switching code to master.& WP4 & Georgio& P& PU& 13 \\
 \hline
-\textbf {D4.2} & Report on the ability to use 2 models simultaneously as 2 virtual HID devices.& WP4 & georgio& R& PU& 13 \\
+\textbf {D4.2} & Report on the ability to use 2 models simultaneously as 2 virtual HID devices.& WP4 & Georgio& R& PU& 13 \\
 \hline
-\textbf {D4.5} & Merging code of Models 1 and 2 to master.& WP4 & georgio& P& PU& 13 \\
+\textbf {D4.5} & Merging code of Models 1 and 2 to master.& WP4 & Georgio& P& PU& 13 \\
 \hline
-\textbf {D4.3} & Report on Model 2 Command 8.& WP4 & georgio& R& PU& 15 \\
+\textbf {D4.3} & Report on Model 2 Command 8.& WP4 & Georgio& R& PU& 15 \\
 \hline
-\textbf {D4.4} & Report on training Model 2 for n-Commands.& WP4 & georgio& R& PU& 18 \\
+\textbf {D4.4} & Report on training Model 2 for n-Commands.& WP4 & Georgio& R& PU& 18 \\
 \hline
-\textbf {D4.6} & A demonstration of the ability to play a game of 2P Super Mario Bros using cogniLink.& WP4 & georgio& D& PU& 18 \\
+\textbf {D4.6} & A demonstration of the ability to play a game of 2P Super Mario Bros using cogniLink.& WP4 & Georgio& D& PU& 18 \\
 \hline
-\textbf {D4.7} & Main Report update with full progress accomplished after the end of WP4.& WP4 & georgio& R& PU& 18 \\
+\textbf {D4.7} & Main Report update with full progress accomplished after the end of WP4.& WP4 & Georgio& R& PU& 18 \\
 \hline
-\textbf {D5.1} & Optimized code will be merged to master.& WP5 & georgio& P& PU& 20 \\
+\textbf {D5.1} & Optimized code will be merged to master.& WP5 & Georgio& P& PU& 20 \\
 \hline
-\textbf {D5.2} & Main Report update with full progress accomplished after the end of WP5, emphasizing on measures taken for optimizing code.& WP5 & georgio& R& PU& 20 \\
+\textbf {D5.2} & Main Report update with full progress accomplished after the end of WP5, emphasizing on measures taken for optimizing code.& WP5 & Georgio& R& PU& 20 \\
 \hline
-\textbf {D6.1} & Report about integration with wheelchair.& WP6 & georgio& R& PU& 22 \\
+\textbf {D6.1} & Report about integration with wheelchair.& WP6 & Georgio& R& PU& 22 \\
 \hline
-\textbf {D6.2} & Forking cogniLink and merging changes needed for wheelchair integration.& WP6 & georgio& P& PU& 30 \\
+\textbf {D6.2} & Forking cogniLink and merging changes needed for wheelchair integration.& WP6 & Georgio& P& PU& 30 \\
 \hline
-\textbf {D6.3} & Report about research findings and future steps towards integrating with a locked in patient. & WP6 & georgio& R& PU& 30 \\
+\textbf {D6.3} & Report about research findings and future steps towards integrating with a Locked-in patient. & WP6 & Georgio& R& PU& 30 \\
 \hline
-\textbf {D6.4} & Main Main Report update with full progress accomplished after the end of WP6.& WP6 & georgio& R& PU& 30 \\
+\textbf {D6.4} & Main Main Report update with full progress accomplished after the end of WP6.& WP6 & Georgio& R& PU& 30 \\
 \hline
-\textbf {D7.1} & Final Main Report update on Universal Model, Locked-in patient progress, and future plans for cogniLink.& WP7 & georgio& R& PU& 40 \\
+\textbf {D7.1} & Final Main Report update on Universal Model, Locked-in patient progress, and future plans for cogniLink.& WP7 & Georgio& R& PU& 40 \\
 \hline
-\textbf {D7.2} & Publishing Universal Model.& WP7 & georgio& P& CO& 40 \\
+\textbf {D7.2} & Publishing Universal Model.& WP7 & Georgio& P& CO& 40 \\
 \hline
-\textbf {D7.3} & Publishing model trained on Locked-in patient.& WP7 & georgio& P& CO& 40 \\
+\textbf {D7.3} & Publishing model trained on Locked-in patient.& WP7 & Georgio& P& CO& 40 \\
 \hline
-\textbf {D7.4} & Merging optimized code to master.& WP7 & georgio& P& PU& 40 \\
+\textbf {D7.4} & Merging optimized code to master.& WP7 & Georgio& P& PU& 40 \\
 \hline
 \end {longtable}
