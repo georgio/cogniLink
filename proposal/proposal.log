@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  13 AUG 2018 16:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  13 AUG 2018 16:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2581,28 +2581,8 @@ Overfull \hbox (4.92484pt too wide) in alignment at lines 5--6
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8--8
-[]|\OT1/pplx/m/n/10.95 End of
- []
-
-
-Underfull \hbox (badness 4024) in paragraph at lines 8--8
-\OT1/pplx/m/n/10.95 WP2 (add
- []
-
-
 Underfull \hbox (badness 3547) in paragraph at lines 8--9
 []|\OT1/pplx/m/n/10.95 Execution of com-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 10--10
-[]|\OT1/pplx/m/n/10.95 mid WP3
- []
-
-
-Underfull \hbox (badness 1112) in paragraph at lines 10--10
-\OT1/pplx/m/n/10.95 (add week
  []
 
 
@@ -2616,28 +2596,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--11
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 12--12
-[]|\OT1/pplx/m/n/10.95 End WP3
- []
-
-
-Underfull \hbox (badness 1112) in paragraph at lines 12--12
-\OT1/pplx/m/n/10.95 (add week
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 12--13
 \OT1/pplx/m/n/10.95 1P Su-per Mario
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 14--14
-[]|\OT1/pplx/m/n/10.95 End WP4
- []
-
-
-Underfull \hbox (badness 1112) in paragraph at lines 14--14
-\OT1/pplx/m/n/10.95 (add week
  []
 
 
@@ -2651,16 +2611,6 @@ Underfull \hbox (badness 2547) in paragraph at lines 16--16
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 16--16
-[]|\OT1/pplx/m/n/10.95 mid WP7
- []
-
-
-Underfull \hbox (badness 1112) in paragraph at lines 16--16
-\OT1/pplx/m/n/10.95 (add week
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 16--17
 []|\OT1/pplx/m/n/10.95 Driving a
  []
@@ -2671,16 +2621,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 16--17
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 18--18
-[]|\OT1/pplx/m/n/10.95 End of
- []
-
-
-Underfull \hbox (badness 4024) in paragraph at lines 18--18
-\OT1/pplx/m/n/10.95 WP7 (add
- []
-
-
 Underfull \hbox (badness 1472) in paragraph at lines 18--19
 \OT1/pplx/m/n/10.95 in pa-tient to com-
  []
@@ -2688,16 +2628,6 @@ Underfull \hbox (badness 1472) in paragraph at lines 18--19
 
 Underfull \hbox (badness 2351) in paragraph at lines 20--20
 []|\OT1/pplx/m/n/10.95 Training Uni-ver-sal Model for n-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 20--20
-[]|\OT1/pplx/m/n/10.95 End of
- []
-
-
-Underfull \hbox (badness 4024) in paragraph at lines 20--20
-\OT1/pplx/m/n/10.95 WP8 (add
  []
 
 
@@ -3917,7 +3847,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 186.
 Here is how much of TeX's memory you used:
  32500 strings out of 492995
  593825 string characters out of 6132704
- 757957 words of memory out of 5000000
+ 757684 words of memory out of 5000000
  35348 multiletter control sequences out of 15000+600000
  36504 words of font info for 105 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -3925,7 +3855,7 @@ Here is how much of TeX's memory you used:
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2017/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/
 2017/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on proposal.pdf (14 pages, 178012 bytes).
+Output written on proposal.pdf (14 pages, 177930 bytes).
 PDF statistics:
  287 PDF objects out of 1000 (max. 8388607)
  265 compressed objects within 3 object streams
