@@ -5,6 +5,8 @@
  \hline \multicolumn {3}{|r|}{Continued on next page} \\ \hline \endfoot
 \hline \endlastfoot
 \hline
-The dedicated chip sent to fabrication is not functional.& \csname @rk1WP\endcsname & \csname @rk1Solution\endcsname \\
+Not being able to recognize thoughts via brain activity in a timely manner.& \csname @rk1WP\endcsname & \csname @rk1Solution\endcsname \\
+\hline
+Difficulty in implementing the virtual HID using macOS' IOKit.& \csname @rk2WP\endcsname & \csname @rk2Solution\endcsname \\
 \hline
 \end {longtable}

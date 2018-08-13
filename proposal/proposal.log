@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  13 AUG 2018 16:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  13 AUG 2018 16:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1573,7 +1573,7 @@ osal.mw)
 (./implementation.tex
 LaTeX Font Info:    Font shape `OT1/pplx/bx/n' in size <14.4> not available
 (Font)              Font shape `OT1/pplx/b/n' tried instead on input line 1.
- <diagram.jpg, id=38, 1393.205pt x 611.28375pt>
+ <diagram.jpg, id=34, 1393.205pt x 611.28375pt>
 File: diagram.jpg Graphic file (type jpg)
 
 <use diagram.jpg>
@@ -2248,20 +2248,7 @@ Overfull \hbox (2.34984pt too wide) in alignment at lines 6--22
 Underfull \vbox (badness 10000) detected at line 22
  []
 
-)
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 37.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 37.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 5.21004pt on input line 37.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 37.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 37.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 5.21004pt on input line 37.
- (./proposal.ldl
+) (./proposal.ldl
 Underfull \hbox (badness 10000) in paragraph at lines 4--4
 []|\OT1/pplx/b/n/10.95 Delive-
  []
@@ -2552,12 +2539,13 @@ Overfull \hbox (2.34981pt too wide) in alignment at lines 47--76
 ] (./proposal.mw)
 \openout4 = `proposal.mw'.
 
+)
 \openout4 = `proposal.mw'.
 
  [12] (./proposal.mw)
 \openout4 = `proposal.mw'.
 
-) (./proposal.lms
+ (./proposal.lms
 Underfull \hbox (badness 10000) in paragraph at lines 4--4
 []|\OT1/pplx/b/n/10.95 Milestone
  []
@@ -2747,28 +2735,20 @@ Overfull \hbox (7.49985pt too wide) in alignment at lines 5--6
  []
 
 
-LaTeX Warning: Reference `wp:test' on page 13 undefined on input line 8.
-
-
-Overfull \hbox (7.49985pt too wide) in alignment at lines 6--10
+Overfull \hbox (7.49985pt too wide) in alignment at lines 6--12
  [] [] [] 
  []
 
 
-Underfull \vbox (badness 10000) detected at line 10
+Underfull \vbox (badness 10000) detected at line 12
  []
 
 pdfTeX warning (ext4): destination with the same identifier (name{table.1.2}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.10 \end {longtable}
-                     ) (./proposal.lse
-Underfull \hbox (badness 10000) in paragraph at lines 34--34
-[]|\OT1/pplx/b/n/10.95 Partic. short
- []
-
-)
+l.12 \end {longtable}
+                     )
 Missing character: There is no â in font pplb9t!
 Missing character: There is no € in font pplb9t!
 Missing character: There is no ˜ in font pplb9t!
@@ -2788,13 +2768,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 141--142
 
  []
 
-\c@@lripnum1=\count573
-
+)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout4 = `proposal.mw'.
 
- [13]
+ [13
+
+]
 (./proposal.mw)
 \openout4 = `proposal.mw'.
 
@@ -2802,29 +2783,9 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout4 = `proposal.mw'.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 151--151
-[]|\OT1/pplx/b/n/10.95 Cost
- []
-
-)
-Underfull \hbox (badness 10000) in paragraph at lines 151--172
-
- []
-
 \openout4 = `proposal.mw'.
 
-[14pdfTeX warning (ext4): destination with the same identifier (name{table.1.1}
-) has been already used, duplicate ignored
-
-\__morewrites_shipout_ii: ...rewrites_shipout_box 
-                                                  \__morewrites_after_shipout: 
-l.176 \clearpage
-                ] (./proposal.mw)
-\openout4 = `proposal.mw'.
-
-\openout4 = `proposal.mw'.
-
+ [14] (./proposal.mw)
 \openout4 = `proposal.mw'.
 
 \openout4 = `proposal.mw'.
@@ -2953,13 +2914,13 @@ l.176 \clearpage
 
 \openout4 = `proposal.mw'.
 
-\c@@tmpdate=\count574
-\c@@tmpWP=\count575
-\c@@tmpN=\count576
-\c@@tmpD=\count577
-\c@@posi=\count578
-\c@@posj=\count579
-\c@@posjup=\count580
+\c@@tmpdate=\count573
+\c@@tmpWP=\count574
+\c@@tmpN=\count575
+\c@@tmpD=\count576
+\c@@posi=\count577
+\c@@posj=\count578
+\c@@posjup=\count579
 \openout4 = `proposal.mw'.
 
 \openout4 = `proposal.mw'.
@@ -3329,6 +3290,14 @@ l.176 \clearpage
 
 \rklistfile=\write24
 \openout4 = `proposal.lrk'.
+
+\openout4 = `proposal.mw'.
+
+\openout4 = `proposal.mw'.
+
+\openout4 = `proposal.mw'.
+
+\openout4 = `proposal.mw'.
 
 \openout4 = `proposal.mw'.
 
@@ -3924,10 +3893,7 @@ Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 186.
 \openout4 = `proposal.out'.
 
 Package rerunfilecheck Info: File `proposal.out' has not changed.
-(rerunfilecheck)             Checksum: 13C4883078CC43BB2695C734C2196727;382.
-
-
-LaTeX Warning: There were undefined references.
+(rerunfilecheck)             Checksum: 2F47A25C43BA533DF6BCC734986E5467;307.
 
 
 LaTeX Warning: There were multiply-defined labels.
@@ -3949,20 +3915,20 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 186.
 
  ) 
 Here is how much of TeX's memory you used:
- 32545 strings out of 492995
- 594380 string characters out of 6132704
- 757956 words of memory out of 5000000
- 35382 multiletter control sequences out of 15000+600000
- 46454 words of font info for 134 fonts, out of 8000000 for 9000
+ 32500 strings out of 492995
+ 593825 string characters out of 6132704
+ 757957 words of memory out of 5000000
+ 35348 multiletter control sequences out of 15000+600000
+ 36504 words of font info for 105 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,12n,65p,10407b,452s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 68i,11n,65p,10407b,452s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2017/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/
 2017/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on proposal.pdf (14 pages, 179764 bytes).
+Output written on proposal.pdf (14 pages, 178012 bytes).
 PDF statistics:
- 292 PDF objects out of 1000 (max. 8388607)
- 270 compressed objects within 3 object streams
- 163 named destinations out of 1000 (max. 500000)
- 12354 words of extra memory for PDF output out of 14400 (max. 10000000)
+ 287 PDF objects out of 1000 (max. 8388607)
+ 265 compressed objects within 3 object streams
+ 161 named destinations out of 1000 (max. 500000)
+ 12346 words of extra memory for PDF output out of 14400 (max. 10000000)
 
