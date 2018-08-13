@@ -16,9 +16,9 @@
 & \textbf {6}
 & \textbf {6}
 & \textbf {2}
-& \textbf {12}
-& \textbf {12}
-& 44 \\
+& \textbf {10}
+& \textbf {10}
+& 40 \\
 \hline
 \textbf {Total} &
 \cellcolor [gray]{0.8}
@@ -27,9 +27,9 @@
 & 6
 & 6
 & 2
-& 12
-& 12
-& 44 \\
+& 10
+& 10
+& 40 \\
 \hline
 \end {tabularx}
  \end {table}

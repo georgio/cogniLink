@@ -7,8 +7,8 @@
 
   %%%%%%%%%%%%%%%%%% TOP TABLE %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
   % Data for the top table
-  \wpstart{1} %Starting Week
-  \wpend{36} %End Week
+  \wpstart{30} %Starting Week
+  \wpend{40} %End Week
   \wptype{Activity type} %RTD, DEM, MGT, or OTHER
 
   % Person Weeks per participant (required, max 7, * for leader)  
@@ -16,7 +16,7 @@
   %     or  \personweeks{Participant short name}{value} (not wp leader)
   %         \personweeks*{Participant number}{value}    (wp leader)
   % for example:
-  \personweeks*{georgio}{12}
+  \personweeks*{georgio}{10}
   % etc.
 
   \makewptable % Work package summary table
@@ -25,12 +25,8 @@
   \begin{wpobjectives}
     This work package has the following objectives:
     \begin{enumerate}
-      \item Implement cogniLink to identify a thought and provide a way to 
-      communicate for a person suffering from Locked-In Syndrome;
-    \item To develop an  API that gathers raw data from the Cyton board and feeds it 
-to a CSV file;
-    \item To write code needed to efficiently store and manage datasets;
-    \item To write code needed to start training Model 1 on Command A.
+      \item Integrating cogniLink with a Locked-in syndrome patient, in such a way for them to be able to mentally execute a command;
+      \item Designing, implementing, and training a universal model (UM).
     \end{enumerate}
   \end{wpobjectives}
   
@@ -40,24 +36,23 @@ to a CSV file;
     % Use \wptask command
     % syntax: \wptask{leader}{contributors}{start-m}{end-m}{title}{description}   
  
-    \wptask{georgio}{georgio}{1}{12}{Task1}{
-      \label{task:wp1task1}
-      Here we will test the WP Task code. 
+    \wptask{georgio}{georgio}{30}{40}{Task1}{
+      \label{task:wp7task1}
+      Second fork of cogniLink: Training a new model with a Locked-in patient.
     }
-    \wptask{georgio}{georgio}{6}{9}{Task2}{
-      \label{task:wp2task2}
-      In this task UZH will integrate the work done in ~\ref{task:wp1test}.
+    \wptask{georgio}{georgio}{30}{40}{Task2}{
+      \label{task:wp7task2}
+      Training UM using multiple models trained on multiple commands.
     }    
-    \wptask{georgio}{All other}{9}{12}{Task3}{
-      Here all the WP participants will apply the results to...
-
+    \wptask{georgio}{georgio}{30}{40}{Task3}{
+      Code optimization.
     }
 
     
   \end{wpdescription}
   
   % Work Package Deliverable
-  \begin{wpdeliverables}
+\begin{wpdeliverables}
     % Data for the deliverables and milestones  tables
     % syntax: \deliverable[delivery date]{nature}{dissemination
     % level}{description} 
@@ -71,15 +66,10 @@ to a CSV file;
     % 
     % \wpdeliverable[date]{R}{PU}{A report on \ldots}
 
-    \wpdeliverable[36]{georgio}{R}{PU}{Report on the definition of the model
-      specifications.}\label{dev:wp1specs}
-    
-    \wpdeliverable[12]{georgio}{R}{PU}{Report on Feasibility study for the model
-      implementation.}\label{dev:wp1implementation}
-
-    \wpdeliverable[24]{georgio}{R}{PU}{Prototype of model
-      implementation.}\label{dev:wp1prototype}
-
+    \wpdeliverable[40]{georgio}{R}{PU}{Final Main Report update on Universal Model, Locked-in patient progress, and future plans for cogniLink.}\label{dev:MR1.0}
+    \wpdeliverable[40]{georgio}{P}{CO}{Publishing Universal Model.}\label{dev:wp7um}
+    \wpdeliverable[40]{georgio}{P}{CO}{Publishing model trained on Locked-in patient.}\label{dev:wp7limodel}
+    \wpdeliverable[40]{georgio}{P}{PU}{Merging optimized code to master.}\label{dev:wp7merge}
   \end{wpdeliverables}
 \end{workpackage}
 %%% Local Variables:

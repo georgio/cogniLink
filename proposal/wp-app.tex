@@ -8,8 +8,8 @@
 
   %%%%%%%%%%%%%%%%%% TOP TABLE %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
   % Data for the top table
-  \wpstart{1} %Starting Week
-  \wpend{36} %End Week
+  \wpstart{20} %Starting Week
+  \wpend{30} %End Week
   \wptype{Activity type} %RTD, DEM, MGT, or OTHER
 
   % Person Weeks per participant (required, max 7, * for leader)  
@@ -17,7 +17,7 @@
   %     or  \personweeks{Participant short name}{value} (not wp leader)
   %         \personweeks*{Participant number}{value}    (wp leader)
   % for example:
-  \personweeks*{georgio}{12}
+  \personweeks*{georgio}{10}
   % etc.
 
   \makewptable % Work package summary table
@@ -26,31 +26,26 @@
   \begin{wpobjectives}
     This work package has the following objectives:
     \begin{enumerate}
-    \item Implement cogniLink to work on a controller of a wheelchair;
-    
+    \item Implement cogniLink to work on a controller of a wheelchair, this task derives from cogniLink as a forked project;
+    \item Initiate research about Locked-in syndrome: Find suitiable use-cases and patients.
     \end{enumerate}
   \end{wpobjectives}
-  
+
   % Work Package Description
   \begin{wpdescription}
     % Divide work package into multiple tasks.
     % Use \wptask command
     % syntax: \wptask{leader}{contributors}{start-m}{end-m}{title}{description}   
  
-    \wptask{georgio}{georgio}{1}{12}{Task1}{
-      \label{task:wp1task1}
-      Here we will test the WP Task code. 
+    \wptask{georgio}{georgio}{20}{22}{Task1}{
+      \label{task:wp6task1}
+      First Fork of cogniLink.
+      A wheelchair controller/helper that can be fed command data as a replacement to the virtual HID will be designed and implemented.
     }
-    \wptask{georgio}{georgio}{6}{9}{Task2}{
-      \label{task:wp2task2}
-      In this task UZH will integrate the work done in ~\ref{task:wp1test}.
-    }    
-    \wptask{georgio}{All other}{9}{12}{Task3}{
-      Here all the WP participants will apply the results to...
-
-    }
-
-    
+    \wptask{georgio}{georgio}{20}{30}{Task2}{
+      \label{task:wp6task2}
+      Initiation of formal research about Locked-in syndrome, patients, and practical use-case scenarios.
+    }  
   \end{wpdescription}
   
   % Work Package Deliverable
@@ -68,15 +63,14 @@
     % 
     % \wpdeliverable[date]{R}{PU}{A report on \ldots}
 
-    \wpdeliverable[36]{georgio}{R}{PU}{Report on the definition of the model
-      specifications.}\label{dev:wp1specs}
+    \wpdeliverable[22]{georgio}{R}{PU}{Report about integration with wheelchair.}\label{dev:wp6f1report}
     
-    \wpdeliverable[12]{georgio}{R}{PU}{Report on Feasibility study for the model
-      implementation.}\label{dev:wp1implementation}
+    \wpdeliverable[30]{georgio}{P}{PU}{Forking cogniLink and merging changes needed for wheelchair integration.}\label{dev:wp6fork}
 
-    \wpdeliverable[24]{georgio}{R}{PU}{Prototype of model
-      implementation.}\label{dev:wp1prototype}
+    \wpdeliverable[30]{georgio}{R}{PU}{Report about research findings and future steps towards integrating with a locked in patient. }\label{dev:wp6r2research}
 
+    \wpdeliverable[30]{georgio}{R}{PU}{Main Main Report update with full progress accomplished after the end of WP6.}\label{dev:MR0.6}
+  
   \end{wpdeliverables}
 \end{workpackage}
 %%% Local Variables:

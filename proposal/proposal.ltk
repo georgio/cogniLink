@@ -51,16 +51,14 @@
 \hline
 \textbf {T5.1} & \@wp5Task1PI & 18& 20& Task1\\
 \hline
-\textbf {T6.1} & \@wp6Task1PI & 1& 12& Task1\\
+\textbf {T6.1} & \@wp6Task1PI & 20& 22& Task1\\
 \hline
-\textbf {T6.2} & \@wp6Task2PI & 6& 9& Task2\\
+\textbf {T6.2} & \@wp6Task2PI & 20& 30& Task2\\
 \hline
-\textbf {T6.3} & \@wp6Task3PI & 9& 12& Task3\\
+\textbf {T7.1} & \@wp7Task1PI & 30& 40& Task1\\
 \hline
-\textbf {T7.1} & \@wp7Task1PI & 1& 12& Task1\\
+\textbf {T7.2} & \@wp7Task2PI & 30& 40& Task2\\
 \hline
-\textbf {T7.2} & \@wp7Task2PI & 6& 9& Task2\\
-\hline
-\textbf {T7.3} & \@wp7Task3PI & 9& 12& Task3\\
+\textbf {T7.3} & \@wp7Task3PI & 30& 40& Task3\\
 \hline
 \end {longtable}
