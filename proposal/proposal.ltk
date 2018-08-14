@@ -1,0 +1,64 @@
+\begin {longtable}{|p{6em}|p{8em}|p{4em}|p{4em}|p{16em}|}
+ \caption {List of Task PIs} \\
+\hline
+{\textbf {Task}} & {\textbf {PI}} & {\textbf {Start date}} & {\textbf {End date}} & {\textbf {Title}} \endfirsthead
+ \hline \multicolumn {5}{|r|}{Continued on next page} \\ \hline \endfoot
+\hline \endlastfoot
+\hline
+\textbf {T1.1} & \@wp1Task1PI & 1& 1& Task1\\
+\hline
+\textbf {T1.2} & \@wp1Task2PI & 1& 1& Task2\\
+\hline
+\textbf {T1.3} & \@wp1Task3PI & 1& 1& Task3\\
+\hline
+\textbf {T1.4} & \@wp1Task4PI & 1& 2& Task4\\
+\hline
+\textbf {T1.5} & \@wp1Task5PI & 2& 2& Task5\\
+\hline
+\textbf {T1.6} & \@wp1Task6PI & 2& 2& Task6\\
+\hline
+\textbf {T1.7} & \@wp1Task7PI & 2& 2& Task7\\
+\hline
+\textbf {T2.1} & \@wp2Task1PI & 2& 3& Task1\\
+\hline
+\textbf {T2.2} & \@wp2Task2PI & 3& 4& Task2\\
+\hline
+\textbf {T2.3} & \@wp2Task3PI & 4& 5& Task 3\\
+\hline
+\textbf {T2.4} & \@wp2Task4PI & 4& 5& Task 4\\
+\hline
+\textbf {T2.5} & \@wp2Task5PI & 4& 5& Task 5\\
+\hline
+\textbf {T2.6} & \@wp2Task6PI & 4& 5& Task 6\\
+\hline
+\textbf {T2.7} & \@wp2Task7PI & 4& 5& Task 7\\
+\hline
+\textbf {T2.8} & \@wp2Task8PI & 5& 6& Task 8\\
+\hline
+\textbf {T3.1} & \@wp3Task1PI & 6& 12& Task1\\
+\hline
+\textbf {T3.2} & \@wp3Task2PI & 6& 12& Task2\\
+\hline
+\textbf {T3.3} & \@wp3Task3PI & 12& 12& Task3\\
+\hline
+\textbf {T4.1} & \@wp4Task1PI & 12& 18& Task1\\
+\hline
+\textbf {T4.2} & \@wp4Task2PI & 12& 13& Task2\\
+\hline
+\textbf {T4.3} & \@wp4Task3PI & 18& 18& Task3\\
+\hline
+\textbf {T4.4} & \@wp4Task4PI & 18& 18& Task4\\
+\hline
+\textbf {T5.1} & \@wp5Task1PI & 18& 20& Task1\\
+\hline
+\textbf {T6.1} & \@wp6Task1PI & 20& 22& Task1\\
+\hline
+\textbf {T6.2} & \@wp6Task2PI & 20& 30& Task2\\
+\hline
+\textbf {T7.1} & \@wp7Task1PI & 30& 40& Task1\\
+\hline
+\textbf {T7.2} & \@wp7Task2PI & 30& 40& Task2\\
+\hline
+\textbf {T7.3} & \@wp7Task3PI & 30& 40& Task3\\
+\hline
+\end {longtable}

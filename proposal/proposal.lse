@@ -1,0 +1,35 @@
+\begin {table} \caption {Summary of staff effort} \label {table:soe} \begin {tabularx}{\textwidth }{|c|X|l|l|l|l|l|l|l|p{6em}|}
+\hline
+{\textbf {Partic. no.}} & {\textbf {Partic. short name}}
+& {\textbf {WP1}}
+& {\textbf {WP2}}
+& {\textbf {WP3}}
+& {\textbf {WP4}}
+& {\textbf {WP5}}
+& {\textbf {WP6}}
+& {\textbf {WP7}}
+& {\textbf {Total person weeks}} \\
+ \hline
+1 & Georgio
+& \textbf {2}
+& \textbf {4}
+& \textbf {6}
+& \textbf {6}
+& \textbf {2}
+& \textbf {10}
+& \textbf {10}
+& 40 \\
+\hline
+\textbf {Total} &
+\cellcolor [gray]{0.8}
+& 2
+& 4
+& 6
+& 6
+& 2
+& 10
+& 10
+& 40 \\
+\hline
+\end {tabularx}
+ \end {table}
